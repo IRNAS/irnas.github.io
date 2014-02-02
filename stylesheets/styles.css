@@ -52,6 +52,13 @@ footer {
     border-bottom: none;
 }
 
+.project p {
+    font-size: 120%;
+}
+
+img.member {
+    
+}
 
 .row-spacing {
     margin-bottom: 40px;
