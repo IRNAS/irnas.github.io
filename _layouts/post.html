@@ -1,16 +1,14 @@
 ---
 layout: default
+special: post full
 ---
 {% include JB/setup %}
-<div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+<div class="header">
+<div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
+<h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
 </div>
-
 <div class="row post-full">
   <div class="col-xs-12">
-    <div class="date">
-      <span>{{ page.date | date_to_long_string }}</span>
-    </div>
     <div class="content">
       {{ content }}
     </div>
@@ -31,7 +29,10 @@ layout: default
     </ul>
   {% endunless %}  
   
-    <hr>
+  </div>
+</div>
+
+<div class="footer">
     <ul class="pagination">
     {% if page.previous %}
       <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a></li>
@@ -45,7 +46,5 @@ layout: default
       <li class="next disabled"><a>Next &rarr;</a>
     {% endif %}
     </ul>
-    <hr>
-    {% include JB/comments %}
-  </div>
+
 </div>
