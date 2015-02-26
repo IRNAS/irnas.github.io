@@ -8,6 +8,10 @@
 
 }
 
+h1 {
+    margin-bottom: 25px;
+}
+
 #menu.nav li a.selected,
 #menu.nav li a:hover {
     color: white;
@@ -64,3 +68,33 @@ img.member {
     margin-bottom: 40px;
 
 }
+
+.pagination {
+    border: none;
+}
+
+.footer {
+    margin: 40px;
+    text-align: center;
+}
+
+.post.full .header .date {
+    float: right;
+    font-size: 120%;
+    color: gray;
+    padding: 0 0 10px 10px;
+}
+
+.post.teaser .header .date {
+    font-size: 100%;
+    color: gray;
+}
+
+.post.teaser {
+    margin-bottom: 30px;
+}
+
+.post .title {
+    font-size: 170%;
+}
+
