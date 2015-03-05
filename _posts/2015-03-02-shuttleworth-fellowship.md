@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-We are pleased to announce today that our director Luka Mustafa - Musti has become the [Shuttleworth Foundation Fellow](https://shuttleworthfoundation.org/fellows/luka-mustafa/) to work full-time on open-source development of wireless optical system [KORUZA](www.koruza.net). This amazing and rare opportunity will enable us to focus our efforts in the next year on bringing the KORUZA system to everyone and creating many useful open-source solutions. [See the announcement.] (https://shuttleworthfoundation.org/thinking/thinking-luka-mustafa/)
+We are pleased to announce today that our director Luka Mustafa - Musti has become the [Shuttleworth Foundation Fellow](https://shuttleworthfoundation.org/fellows/luka-mustafa/) to work full-time on open-source development of wireless optical system [KORUZA](www.koruza.net). This amazing and rare opportunity will enable us to focus our efforts in the next year on bringing the KORUZA system to everyone and creating many useful open-source solutions. [See the announcement.](https://shuttleworthfoundation.org/thinking/thinking-luka-mustafa/)
 
 Regardless of the location in the world, last-mile broadband infrastructure deployed extremely slowly and is in the great majority significantly outdated. The cost of infrastructure is too high for profit-driven companies to provide it. We aim to empower people with a wireless optical system that provides gigabit fibre-like capacity where the cost of fibre deployment is too high and radio spectrum too congested for use of WiFi networking. 
 
