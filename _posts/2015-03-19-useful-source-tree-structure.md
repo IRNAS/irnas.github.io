@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-Useful-source will enable straightforward documentation of stable release of open hardware systems, to empower great number of high-quality reproductions globally. Previously we have introduced the motivation behind useful source, now its basic mechanics is discussed.
+[Useful Source]({{ site.url }}/2015/03/08/useful-source)Useful-source will enable straightforward documentation of stable release of open hardware systems, to empower great number of high-quality reproductions globally. Previously we have introduced the motivation behind useful source, now its basic mechanics is discussed.
 
 Open hardware documentation does not uniquely compile into a physical object or system due to the need for human interpretation and skill throughout the replication process, effectively making each replication a fork of the project. The details and small changes during replication are attributed to skill and generally do not find their way into the documentation, as it is very difficult to merge them back into the original source. Thus, we are doing this differently:
 
