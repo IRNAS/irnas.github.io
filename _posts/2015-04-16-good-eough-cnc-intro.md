@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-Constructing machines and physical systems is always challenging. Industry in vast majority aims to use highest precision and reliability machines, to be capable of producing even the most complicated parts designers come up with. We are flipping such approach on it head, trading precision of manufacturing tools for simplicity and low cost of their construction, to reduce the entry barrier for using them in any environment. We put brain power into figuring out how to make things work even if all assembly parts are imprecise.
+Constructing machines and physical systems is always challenging. Industry in vast majority aims to use highest precision and reliability machines, to be capable of producing even the most complicated parts designers come up with. We are flipping such approach on its head, trading precision of manufacturing tools for simplicity and low cost of their construction, to reduce the entry barrier for using them in any environment. We put brain power into figuring out how to make things work even if all assembly parts are imprecise.
 
 To support the development of wireless optical system [KORUZA](http://koruza.net) and construction of its enclosures, we have set to construct a simple and effective good-enough CNC machine that can be used with a mill or plasma cutter. Our main guidelines are simplicity and minimal entry barrier to construction which is well aligned in philosophy with [Open source ecology](http://opensourceecology.org/).
 
@@ -34,7 +34,7 @@ Use-cases:
  * make the machine adaptable to size and user requirements
  * upgrade it with Z axis and 4/5th axis, cut square/round profiles on all sides
  
-Firstly, we have designed a simple one axis gantry system to evaluate design options. Using standard 40x40x3mm and 100x100x3mm steel tubing, 608ZZ standard bearings and screws we have made three iterations of bearing placements and optimized the assembly to use 12 bearings for a single trolley, stably confining the trolley to linear only movement. With the designs shown in photos below, we have achieved reliable operation with speeds in excess of 35000mm/min on a single axis using only GT2 6mm bearings. Design documentation of this prototype [is available]({{ site.url }}/downloads/plasma/GoodEnoughCNCplasma.pdf).
+Firstly, we have designed a simple one axis gantry system to evaluate design options. Using standard 40x40x3mm and 100x100x3mm steel tubing, 608ZZ standard bearings and screws we have made three iterations of bearing placements and optimized the assembly to use 6 bearings for a single trolley, stably confining the trolley to linear only movement. With the designs shown in photos below, we have achieved reliable operation with speeds in excess of 35000mm/min on a single axis using only GT2 6mm bearings. Design documentation of this prototype [is available]({{ site.url }}/downloads/plasma/GoodEnoughCNCplasma.pdf).
 
 The control system currently uses good quality [Planet-CNC](http://www.planet-cnc.com/) controllers and  [PoLabs stepper drivers](http://www.poscope.com/index.php?route=product/category&path=68) with NEMA23 motors, all of which can be readily replaced with open source systems.
  
