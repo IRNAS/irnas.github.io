@@ -29,6 +29,15 @@ Trolleys are designed and documented such that holes are dimensioned relative to
 
 We are currently working on testing the XY gantry and sorting out all the details, such as belt mounting, endswitches, adjustment of right angle between axes and smooth motion. Once this is completed we will release the full documentation.
 
+Some quick test were performed with the current machine configuration:
+
+ * speed 1500mm/min, acceleration 100mm/min
+ * repeatable positioning, better then 0.01mm, overshoot at deceleration due to belt stretching 0.01mm 
+ * maximal obtainable speed 150000mm/min, acceleration 1000mm/min
+ * repeatable positioning, better then 0.01mm, overshoot at deceleration due to belt stretching 0.1mm
+ * maximal obtainable speed 150000mm/min, acceleration 3000mm/min
+ * repeatable positioning, better then 0.01mm, overshoot at deceleration due to belt stretching 0.25mm
+
 The approximate cost of such XY gantry excluding stepper motors is $100, including all square tubing, nuts and bolts, belts and bearings. Basic control electronics and stepper motors should be available for another $200.
 
 ![good enoguh plasma]({{ site.url }}/downloads/plasma/9.jpg)
