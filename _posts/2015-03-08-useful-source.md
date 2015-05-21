@@ -14,6 +14,7 @@ The motivation arises from the experience of reproducing a number of open hardwa
 Useful-source is the knowledge & documentation bridge between an open hardware project presentation & description and the source files, aiming to empower anyone reproducing the design with all the information to make educated choices and understanding the reasoning and interaction between assembly parts.
 
 Useful-source goals:
+
  * Complies with [Open Hardware Definition](http://www.oshwa.org/definition/).
  * Present the system in a tree-like manner, starting from one page system overview and breaking it down into simple modules, with enough information one can understand the basics of how it works. 
  * Assembly instructions with clearly defined steps and assembly instructions, extended with basic description what the part does. The function of every assembly part must be clearly expressed so one can consider alternatives.
@@ -21,6 +22,7 @@ Useful-source goals:
  * Off-line useful format, we suggest XML. Displayed with a stylesheet on any browser and suitable for modifications through version control repositories.
  
 Useful-source from user perspective:
+
  * Seamless process from learning about a project to reproducing it
  * Reliable and tested sources and documentation
  * Reproducible with open-source tool-set
