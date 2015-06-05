@@ -31,7 +31,7 @@ However there are a number of features that would be welcome, such as:
  * HF start/pilot arc.
  * Built-in air compressor.
  
-With the current machine, an air compressor is required, capable of supplying 30-100 l/min at pressure 0.2-0.4 (2-4 bar) MPa, when connected to the plasma cutter. Tests have shown that a low cost suitcase style compressor has insufficient flow and thus we are in search for a good cost-effective option. Additionally plasma cutters are sensitive to moisture in compressed air, resulting in premature torch failures and shorter consumables life. Professional solutions are expensive and thus we will be evaluating other options.
+With the current machine, an air compressor is required, capable of supplying 30-100 l/min at pressure 0.2-0.4 (2-4 bar) MPa, when connected to the plasma cutter. Tests have shown that a low cost suitcase style compressor ~~has insufficient flow and thus we are in search for a good cost-effective option~~ may have sufficient flow for operation. Additionally plasma cutters are sensitive to moisture in compressed air, resulting in premature torch failures and shorter consumables life. Professional solutions are expensive and thus we will be evaluating other options.
 
 The disassembly of the CUT50M device has shown that voltage measurement probes can easily be attached to screw terminals just behind the front panel, as well as the circuit board version CUT400UB 70UM with date 20140426. Further information on the design would be welcome, like schematic diagram or other cutting machines using the same internal electronics.
 
