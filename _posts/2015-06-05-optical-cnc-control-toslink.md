@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-CNC machines merge large metal and thus conductive mechanics with high power tools, ranging from several kW spindles to plasma cutters and their control systems in particular suffer from noise problems and ground loops, resulting in sporadic failures or even damage to the control electronics. An significant number of papers, articles and forums suggest solutions, however in lower-cost and DIY machines they are often poorly implemented. For use with our Good-enough CNC plasma cutter, we have set to rethink the overall electrical system design and introduce the following key changes:
+CNC machines merge large metal and thus conductive mechanics with high power tools, ranging from several kW spindles to plasma cutters and their control systems in particular suffer from noise problems and ground loops, resulting in sporadic failures or even damage to the control electronics. An significant number of papers, articles and forums suggest solutions, however in lower-cost and DIY machines they are often poorly implemented. For use with our [Good-enough CNC plasma cutter]({{ site.url }}/2015/06/04/good-eough-cnc-plasma/), we have set to rethink the overall electrical system design and introduce the following key changes:
 
  * Motion unit is a standalone/universal device, consisting of a stepper motor, stepper driver, encoder or any other feedback mechanism and end-switches and other protection mechanisms. Generally mounted next to the stepper motor in an enclosed box.
  * End-switches and other machine protection mechanisms are control-system independent, as control systems under development or without significant quality control can misbehave.
