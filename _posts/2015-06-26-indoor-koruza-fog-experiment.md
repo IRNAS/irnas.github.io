@@ -14,7 +14,7 @@ Due to unpredictable nature of weather conditions, it is hard to conduct a relia
 To conduct reliable tests of the systems such as [KORUZA](http://koruza.net), we designed an indoor experiment, closely mimicking ambient conditions in the case of fog, smoke or both.
 Outdoor conditions will be simulated in a 50m corridor, constructed using tables and soft clear PVC foil. A fog-like conditions will be created inside the corridor with the help of the fog machine, dry ice and also a signal flare to simulate particle smoke. Wireless optical KORUZA link should be established down the test corridor along with an independent visibility measurement system, consisting of a green laser and receiver. 
 
-![good enough plasma]({{ site.url }}/post_files/fog-indoor/img1.jpg)
+![fog]({{ site.url }}/post_files/fog-indoor/img1.JPG)
 
 To evaluate the experiment design and consider possible issues a small scale experiment was conducted beforehand. We improvised a 14m corridor using clear PVC foil and plastic support. At both ends the corridor was left open and a pair of KORUZA units was set up together with a visibility measurement system. Fog was generated using dry ice with intention to asses its suitability and predict its behaviour in the large scale experiment.
  
@@ -24,9 +24,9 @@ Data from the experiment was collected and analysed, where visibility and attenu
 
 For more efficient fog generation using dry ice we have developer an optimized approach compared to the common mixture of hot water and dry ice. The latter has been put into a conventional kettle modified to constantly boil the water, such that the evaporation rate was maximized. Not only the amount of fog has been increased, but the rate of dry ice evaporation has been reduced. For future experiments we have resolved to use a number of such heaters to generate fog at constant intervals along the corridor length.
 
-![good enough plasma]({{ site.url }}/post_files/fog-indoor/img2.jpg)
+![fog]({{ site.url }}/post_files/fog-indoor/img2.JPG)
 
-![good enough plasma]({{ site.url }}/post_files/fog-indoor/img3.jpg)
+![fog]({{ site.url }}/post_files/fog-indoor/img3.JPG)
 
 
 
