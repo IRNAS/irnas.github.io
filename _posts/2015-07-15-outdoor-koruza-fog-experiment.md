@@ -44,9 +44,9 @@ even with the otherwise effective ventilation system. Fog machine on the other h
 
 We are actively working on improving the experimental setup and will be repeating it shortly.
 
-![fog]({{ site.url }}/post_files/fog-outdoor/exp1.jpg)
+![fog]({{ site.url }}/post_files/fog-outdoor/exp1.JPG)
 ![fog]({{ site.url }}/post_files/fog-outdoor/exp2.jpg)
-![fog]({{ site.url }}/post_files/fog-outdoor/tunnel.jpg)
+![fog]({{ site.url }}/post_files/fog-outdoor/tunel.jpg)
 ![fog]({{ site.url }}/post_files/fog-outdoor/fog_test.jpg)
 ![fog]({{ site.url }}/post_files/fog-outdoor/fog_animated.gif)
 
