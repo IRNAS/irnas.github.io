@@ -10,7 +10,6 @@ tags: []
 [Last week]({{ site.url }}/2015/08/11/cnc-mill/) we finished designing the frame and X, Y axis for CNC milling machine, so we started with assembly of the main frame. The biggest challenge in constructing was to ensure the accuracy of the composition, which is a key element to achieve the required tolerances in CNC milling. As the use of advanced machine tools for many people around the world are still difficult to reach, we have to find an effective way for assembly that would allow us sufficient accuracy using only basic tools.
 
 ![cnc-mill]({{ site.url }}/post_files/cnc-mill2/mill1.JPG)
-![cnc-mill]({{ site.url }}/post_files/cnc-mill2/mill12.gif)
 
 With this in mind, we have developed a plan for the assembly, which simultaneously eliminates errors and deviations in the construction (cutting profiles to the final dimensions, positioning of the holes, their squareness upon each other, ..). We have found out that the best accuracy is achieved if the holes for the screws are drilled simultaneously between two profiles, during the assembly of individual components.  In this way, we can adapt to the differences between holes in the two components. Also, it is much easier to ensure squareness between the individual components, which is crucial for the stability of the structure.
 
