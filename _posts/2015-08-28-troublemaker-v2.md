@@ -24,9 +24,9 @@ The most important features are:
  - new interchangeable print head with dual extrusion support
  - enclosed yet easily accessible electronics
  
- ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker1.PNG)
- ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker2.PNG)
- ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker3.PNG)
- ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker4.PNG)
+ ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker1.png)
+ ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker2.png)
+ ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker3.png)
+ ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker4.png)
 
 We have already begun with the development and are currently building a prototype that can be tested and further improved.
