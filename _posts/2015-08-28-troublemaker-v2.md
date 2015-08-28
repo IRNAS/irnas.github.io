@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Development of the Next Generation Open Hardware 3D Printer Troublemaker"
-description: "Update on the construction development of the GoodenoughCNC Plasma cutter."
+description: "Development of the Next Generation Open Hardware 3D Printer Troublemaker."
 category: 
 tags: []
 ---
