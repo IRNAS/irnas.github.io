@@ -11,7 +11,7 @@ Our first open-source hardware tool was [Troublemaker 3D printer](http://www.thi
 
 Because of the increasing demand for higher 3D printing capacities we decided to start working on developing the next generation of the Troublemaker – Troublemaker v2. The new generation of the 3D printer will feature enlarged build space, new electronics and some other improvements. We are aiming for the new 3D printer to be reliable, hackable, affordable and low-maintenance.
 
-![troublemaker]({{ site.url }}/post_files/troublemaker/5.JPG)
+![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker5.JPG)
 
 The most important features are:
  - fully open-source hardware design
@@ -24,9 +24,9 @@ The most important features are:
  - new interchangeable print head with dual extrusion support
  - enclosed yet easily accessible electronics
  
- ![troublemaker]({{ site.url }}/post_files/troublemaker/1.PNG)
- ![troublemaker]({{ site.url }}/post_files/troublemaker/2.PNG)
- ![troublemaker]({{ site.url }}/post_files/troublemaker/3.PNG)
- ![troublemaker]({{ site.url }}/post_files/troublemaker/4.PNG)
+ ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker1.PNG)
+ ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker2.PNG)
+ ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker3.PNG)
+ ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker4.PNG)
 
 We have already begun with the development and are currently building a prototype that can be tested and further improved.
