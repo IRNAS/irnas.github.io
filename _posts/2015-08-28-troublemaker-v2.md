@@ -14,15 +14,16 @@ Because of the increasing demand for higher 3D printing capacities we decided to
 ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker5.JPG)
 
 The most important features are:
- - fully open-source hardware design
- - 300 x 300 x 300 mm (12” x 12” x 12”) build space
- - enclosed print space
- - RUMBA controller board
- - revised and improved carriages for timing belts and new X and Y axes bearings
- - printer table upgrade – aluminium / steel table with ball screw linear actuator
- - auto bed levelling
- - new interchangeable print head with dual extrusion support
- - enclosed yet easily accessible electronics
+
+ * fully open-source hardware design
+ * 300 x 300 x 300 mm (12” x 12” x 12”) build space
+ * enclosed print space
+ * RUMBA controller board
+ * revised and improved carriages for timing belts and new X and Y axes bearings
+ * printer table upgrade – aluminium / steel table with ball screw linear actuator
+ * auto bed levelling
+ * new interchangeable print head with dual extrusion support
+ * enclosed yet easily accessible electronics
  
  ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker1.png)
  ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker2.png)
