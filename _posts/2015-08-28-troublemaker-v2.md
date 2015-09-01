@@ -9,7 +9,7 @@ tags: []
 
 Our first open-source hardware tool was [Troublemaker 3D printer](http://www.thingiverse.com/thing:263814). In the last year our Troublemakers made a lot of prototypes and parts for our wireless optical system [KORUZA](http://koruza.net/), [GoodEnoughCNC machines]({{ site.url }}/2015/06/11/good-eough-cnc-cutting/) and various other parts and systems.
 
-Because of the increasing demand for higher 3D printing capacities we decided to start working on developing the next generation of the Troublemaker – Troublemaker v2. The new generation of the 3D printer will feature enlarged build space, new electronics and some other improvements. We are aiming for the new 3D printer to be reliable, hackable, affordable and low-maintenance.
+Because of the increasing demand for higher 3D printing capacities we decided to start working on developing the next generation of the Troublemaker v2. The new generation of the 3D printer will feature enlarged build space, new electronics and some other improvements. We are aiming for the new 3D printer to be reliable, hackable, affordable and low-maintenance.
 
 ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker5.JPG)
 
