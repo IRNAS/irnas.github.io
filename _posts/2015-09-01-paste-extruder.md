@@ -26,7 +26,7 @@ Main features:
  * Robust, accurate,
  * Can be driven from the same stepper controller as MiniCNC as the 4th axis.
  
-The first prototype was machined out of MDF wood using a CNC drill.
+The first prototype was machined out of MDF wood using a CNC mill.
 
 ![paste-extruder]({{ site.url }}/post_files/paste_extruder/img1.png)
 ![paste-extruder]({{ site.url }}/post_files/paste_extruder/img2.png)
