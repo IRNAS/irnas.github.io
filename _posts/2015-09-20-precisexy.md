@@ -11,7 +11,7 @@ We have observed a lack of a low-cost and simple to construct 3 axis linear tran
 
 The first generation gantry is based on [Core (X,Y)](www.corexy.com) project, to explore this design approach and enable translation with minimal part count. The trolley for mounting Z axis is connected with two stepper motors over the system of pulleys with two timing belts, one for each motor which provide movements in X, Y directions. Because of the cross section mounting of timing belts, good horizontal stability is achieved. Also we can use only two stepper motors no matter the number of linear guides used without compromising structural strength and accuracy. Z axis enables modular usage and installation of various needed systems. With that, utilization of the gantry is increased.
 
-See the [project repository] for sources and more details. Shortly we will make KITs of the system available along with assembly instructions.
+See the [project repository](https://github.com/IRNAS/PreciseXY) for sources and more details. Shortly we will make KITs of the system available along with assembly instructions.
 
 Generation 2 of the system with increased accuracy is already under development.
 
