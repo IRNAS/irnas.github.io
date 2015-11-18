@@ -1,11 +1,16 @@
 ---
 layout: default
 ---
-{% include JB/setup %}
-<h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+<div class="grid">
+	<div class="grid__col--12 page">
 
-<div class="row">
-  <div class="col-xs-12">
-    {{ content }}
-  </div>
+	  <header class="post__header">
+	    <h1 class="headline-primary">{{ page.title }}</h1>
+	  </header>
+	
+	  <article class="post__content">
+	  {{ content }}
+	  </article>
+
+	</div>
 </div>

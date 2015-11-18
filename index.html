@@ -1,12 +1,73 @@
 ---
-layout: front
-weight: 0
+layout: default
 ---
-{% include JB/setup %}
- 
-  <div class="jumbotron">
-      <h1>Institute for Development of Advanced Applied Systems tttt</h1>
-      <h2>Inštitut za razvoj naprednih aplikativnih sistemov</h2>
-      <p class="motto">Applying today&#39;s knowledge to create systems for an open future.</p>
-  </div>
+<div class="hero is-hidden-mobile"></div>
+<div class="grid">
+  <div class="grid__col--12">
+    <ul class="post">
+      {% for post in paginator.posts %}
+        <li class="post__item">
+          <a class="post__title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <div class="post__meta">
+            <b class="post__author">{{ post.author}} </b>
+            <b class="post__sep">&#x25cf;</b>
+            <b class="post__date">{{ post.date | date: "%b %-d, %Y" }}</b>
+          </div>
+          {{ post.excerpt }}
+          <a class="btn--default" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+        </li>
+      {% endfor %}
+    </ul>
+    {% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
 
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+  </div>
+  <!--<div class="grid__col--6">
+    <ul>
+  {% for post in site.posts %}
+    <li>
+
+      {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} />
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+</div>
+-->
+
+  </div>
+</div>
