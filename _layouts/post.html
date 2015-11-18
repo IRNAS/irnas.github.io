@@ -1,21 +1,50 @@
 ---
 layout: default
+special: post full
 ---
-<div class="grid">
-	<div class="grid__col--12 post">
-    <header class="post__header">
-      <h1 class="post__title--grouped">{{ page.title }}</h1>
-      <div class="post__meta">
-        <b class="post__author">{% if page.author %}{{ page.author }}{% endif %}</b>
-        <b class="post__sep">&#x25cf;</b>
-        <b class="post__date">{{ page.date | date: "%b %-d, %Y" }}</b>
-      </div>
-    </header>
-    {% if page.image %}
-    <img class="feat-img is-hidden-mobile" src="/img/{{ page.image }}">
-    {% endif %}
-    <article class="post__content">
+{% include JB/setup %}
+<div class="header">
+<div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
+<h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+</div>
+<div class="row post-full">
+  <div class="col-xs-12">
+    <div class="content">
       {{ content }}
-    </article>   
-	</div>
+    </div>
+
+  {% unless page.categories == empty %}
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-open"></i></li>
+      {% assign categories_list = page.categories %}
+      {% include JB/categories_list %}
+    </ul>
+  {% endunless %}  
+
+  {% unless page.tags == empty %}
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-tags"></i></li>
+      {% assign tags_list = page.tags %}
+      {% include JB/tags_list %}
+    </ul>
+  {% endunless %}  
+  
+  </div>
+</div>
+
+<div class="footer">
+    <ul class="pagination">
+    {% if page.previous %}
+      <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a></li>
+    {% else %}
+      <li class="prev disabled"><a>&larr; Previous</a></li>
+    {% endif %}
+      <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+    {% if page.next %}
+      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &raquo;</a></li>
+    {% else %}
+      <li class="next disabled"><a>Next &rarr;</a>
+    {% endif %}
+    </ul>
+
 </div>

@@ -1,0 +1,426 @@
+﻿Revert "Merge pull request #8 from anjala/master"
+
+This reverts commit cd84c32baafaf6480c2e70962ca4233746e58241, reversing
+changes made to 154af745071545e3ea5b09dcfaaf495c673bf2e7.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    .DS_Store
+#	new file:   .gitignore
+#	deleted:    .jekyll-metadata
+#	deleted:    .sass-cache/4dc7dd23c8da46b1a79aa01d008114595b0f23b5/_extends.scssc
+#	deleted:    .sass-cache/4dc7dd23c8da46b1a79aa01d008114595b0f23b5/_grid-columns.scssc
+#	deleted:    .sass-cache/4dc7dd23c8da46b1a79aa01d008114595b0f23b5/_grid-container.scssc
+#	deleted:    .sass-cache/4dc7dd23c8da46b1a79aa01d008114595b0f23b5/_header.scssc
+#	deleted:    .sass-cache/4dc7dd23c8da46b1a79aa01d008114595b0f23b5/_index.scssc
+#	deleted:    .sass-cache/4dc7dd23c8da46b1a79aa01d008114595b0f23b5/_panel.scssc
+#	deleted:    .sass-cache/4dc7dd23c8da46b1a79aa01d008114595b0f23b5/_sticky-footer.scssc
+#	deleted:    .sass-cache/751f57aee2b8ec159a08aa781d64a2d4361593fa/_collapsed.scssc
+#	deleted:    .sass-cache/751f57aee2b8ec159a08aa781d64a2d4361593fa/_grid-display.scssc
+#	deleted:    .sass-cache/751f57aee2b8ec159a08aa781d64a2d4361593fa/_index.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_buttons.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_extends.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_headlines.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_hero.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_icons.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_img.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_index.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_logo.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_menu.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_nav.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_navbar.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_pages.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_pagination.scssc
+#	deleted:    .sass-cache/93e645e935ca7267cb0592cba5b81bfb21695d8e/_posts.scssc
+#	deleted:    .sass-cache/96bdc0547a6dc34baa4d55b5f1a0f6a5c04e3f11/_base.scssc
+#	deleted:    .sass-cache/96bdc0547a6dc34baa4d55b5f1a0f6a5c04e3f11/_index.scssc
+#	deleted:    .sass-cache/96bdc0547a6dc34baa4d55b5f1a0f6a5c04e3f11/_normalize.scssc
+#	deleted:    .sass-cache/96bdc0547a6dc34baa4d55b5f1a0f6a5c04e3f11/_syntax-highlighting.scssc
+#	deleted:    .sass-cache/e03d9fde03c503b3daf8947e808f99895521fd5a/_config.scssc
+#	deleted:    .sass-cache/e03d9fde03c503b3daf8947e808f99895521fd5a/_functions.scssc
+#	deleted:    .sass-cache/e03d9fde03c503b3daf8947e808f99895521fd5a/_helpers.scssc
+#	deleted:    .sass-cache/e03d9fde03c503b3daf8947e808f99895521fd5a/_index.scssc
+#	deleted:    .sass-cache/e03d9fde03c503b3daf8947e808f99895521fd5a/_mixins.scssc
+#	new file:   404.html
+#	new file:   CNAME
+#	new file:   Rakefile
+#	modified:   _config.yml
+#	deleted:    _drafts/test-draft-md
+#	deleted:    _drafts/test-draft.md
+#	deleted:    _includes/.DS_Store
+#	new file:   _includes/JB/analytics
+#	new file:   _includes/JB/analytics-providers/getclicky
+#	new file:   _includes/JB/analytics-providers/google
+#	new file:   _includes/JB/analytics-providers/mixpanel
+#	new file:   _includes/JB/analytics-providers/piwik
+#	new file:   _includes/JB/categories_list
+#	new file:   _includes/JB/comments
+#	new file:   _includes/JB/comments-providers/disqus
+#	new file:   _includes/JB/comments-providers/facebook
+#	new file:   _includes/JB/comments-providers/intensedebate
+#	new file:   _includes/JB/comments-providers/livefyre
+#	new file:   _includes/JB/liquid_raw
+#	new file:   _includes/JB/pages_list
+#	new file:   _includes/JB/posts_collate
+#	new file:   _includes/JB/setup
+#	new file:   _includes/JB/sharing
+#	new file:   _includes/JB/tags_list
+#	deleted:    _includes/footer.html
+#	deleted:    _includes/head.html
+#	deleted:    _includes/header.html
+#	new file:   _includes/themes/bootstrap-3/default.html
+#	new file:   _includes/themes/bootstrap-3/page.html
+#	new file:   _includes/themes/bootstrap-3/post.html
+#	new file:   _includes/themes/bootstrap-3/settings.yml
+#	new file:   _includes/themes/twitter/default.html
+#	new file:   _includes/themes/twitter/page.html
+#	new file:   _includes/themes/twitter/post.html
+#	new file:   _includes/themes/twitter/settings.yml
+#	deleted:    _layouts/.DS_Store
+#	modified:   _layouts/default.html
+#	new file:   _layouts/front.html
+#	modified:   _layouts/page.html
+#	modified:   _layouts/post.html
+#	new file:   _plugins/debug.rb
+#	deleted:    _posts/.DS_Store
+#	new file:   _posts/2015-02-25-hello-world.md
+#	new file:   _posts/2015-02-25-open-position-mech-engineer.md
+#	new file:   _posts/2015-03-02-shuttleworth-fellowship.md
+#	new file:   _posts/2015-03-08-useful-source.md
+#	new file:   _posts/2015-03-11-arduino-lua-esp8266.md
+#	new file:   _posts/2015-03-14-mech-engineer-challenge.md
+#	new file:   _posts/2015-03-19-useful-source-tree-structure.md
+#	new file:   _posts/2015-03-25-logarithm-integer-system.md
+#	new file:   _posts/2015-04-09-ecpur-laser-mod.md
+#	new file:   _posts/2015-04-09-gaussian_fit.md
+#	new file:   _posts/2015-04-12-battlemesh_announcement.md
+#	new file:   _posts/2015-04-16-good-eough-cnc-intro.md
+#	new file:   _posts/2015-04-29-good-eough-cnc-2axis.md
+#	deleted:    _posts/2015-04-29-welcome-to-jekyll - Copy (2).markdown
+#	deleted:    _posts/2015-04-29-welcome-to-jekyll - Copy.markdown
+#	deleted:    _posts/2015-04-29-welcome-to-jekyll.markdown
+#	new file:   _posts/2015-05-20-koruza-electronics-modules.md
+#	new file:   _posts/2015-05-27-good-eough-cnc-Zaxis.md
+#	new file:   _posts/2015-06-04-good-eough-cnc-plasma.md
+#	new file:   _posts/2015-06-04-serial-octave-arduino.md
+#	new file:   _posts/2015-06-05-optical-cnc-control-toslink.md
+#	new file:   _posts/2015-06-07-safecast-slovenia.md
+#	new file:   _posts/2015-06-11-good-eough-cnc-cutting.md
+#	new file:   _posts/2015-06-11-koruza-alignment-1.md
+#	new file:   _posts/2015-06-11-plasma-torch-height-control.md
+#	new file:   _posts/2015-06-26-indoor-koruza-fog-experiment.md
+#	new file:   _posts/2015-07-12-lampost_climbing_device_challenge.md
+#	new file:   _posts/2015-07-15-outdoor-koruza-fog-experiment.md
+#	new file:   _posts/2015-07-26-open-plant-open-technology-week.md
+#	new file:   _posts/2015-07-6-koruza-v10-redesign.md
+#	new file:   _posts/2015-08-05-koruza-1-0.md
+#	new file:   _posts/2015-08-11-cnc-mill.md
+#	new file:   _posts/2015-08-19-alignment-algorithm-revised.md
+#	new file:   _posts/2015-08-20-cnc-mill-update.md
+#	new file:   _posts/2015-08-26-cnc-cutter-update.md
+#	new file:   _posts/2015-08-27-NIR-angle.md
+#	new file:   _posts/2015-08-27-standalone-unipolar-motor-driver.md
+#	new file:   _posts/2015-08-28-mini-cnc.md
+#	new file:   _posts/2015-08-28-troublemaker-v2.md
+#	new file:   _posts/2015-09-01-drilling.md
+#	new file:   _posts/2015-09-01-paste-extruder.md
+#	new file:   _posts/2015-09-03-alignment-algorithm-testing.md
+#	new file:   _posts/2015-09-12-attending-iwow2015.md
+#	new file:   _posts/2015-09-16-motor-test.md
+#	new file:   _posts/2015-09-20-precisexy.md
+#	new file:   _posts/2015-09-24-koruza_electronics.md
+#	new file:   _posts/2015-09-29-workshop.md
+#	new file:   _posts/2015-10-02-koruza_progress_update.md
+#	new file:   _posts/2015-10-05-koruza_cancel_conference.md
+#	new file:   _posts/2015-10-07-koruza-assembling.md
+#	new file:   _posts/2015-10-09-data-analysis.md
+#	new file:   _posts/2015-10-27-halloween.md
+#	new file:   _posts/2015-10-29-toslink.md
+#	new file:   _posts/2015-11-02-plasma.md
+#	new file:   _posts/2015-11-03-koruza-bay-area-tour.md
+#	new file:   _posts/2015-11-04-laser.md
+#	new file:   _posts/2015-11-05-video.md
+#	new file:   _posts/2015-11-12-laser-experiment.md
+#	new file:   _posts/2015-11-16-MonkeyBrains.md
+#	deleted:    _posts/2015-11-18-sass-cong - Copy (2).md
+#	deleted:    _posts/2015-11-18-sass-cong - Copy.md
+#	deleted:    _posts/2015-11-18-sass-cong.md
+#	deleted:    _sass/.DS_Store
+#	deleted:    _sass/base/_base.scss
+#	deleted:    _sass/base/_index.scss
+#	deleted:    _sass/base/_normalize.scss
+#	deleted:    _sass/base/_syntax-highlighting.scss
+#	deleted:    _sass/base/config.rb
+#	deleted:    _sass/layout/_extends.scss
+#	deleted:    _sass/layout/_grid-columns.scss
+#	deleted:    _sass/layout/_grid-container.scss
+#	deleted:    _sass/layout/_header.scss
+#	deleted:    _sass/layout/_index.scss
+#	deleted:    _sass/layout/_panel.scss
+#	deleted:    _sass/layout/_sticky-footer.scss
+#	deleted:    _sass/layout/config.rb
+#	deleted:    _sass/modules/_buttons.scss
+#	deleted:    _sass/modules/_extends.scss
+#	deleted:    _sass/modules/_headlines.scss
+#	deleted:    _sass/modules/_hero.scss
+#	deleted:    _sass/modules/_icons.scss
+#	deleted:    _sass/modules/_img.scss
+#	deleted:    _sass/modules/_index.scss
+#	deleted:    _sass/modules/_logo.scss
+#	deleted:    _sass/modules/_menu.scss
+#	deleted:    _sass/modules/_nav.scss
+#	deleted:    _sass/modules/_navbar.scss
+#	deleted:    _sass/modules/_pages.scss
+#	deleted:    _sass/modules/_pagination.scss
+#	deleted:    _sass/modules/_posts.scss
+#	deleted:    _sass/modules/config.rb
+#	deleted:    _sass/states/_collapsed.scss
+#	deleted:    _sass/states/_grid-display.scss
+#	deleted:    _sass/states/_index.scss
+#	deleted:    _sass/utilities/_config.scss
+#	deleted:    _sass/utilities/_functions.scss
+#	deleted:    _sass/utilities/_helpers.scss
+#	deleted:    _sass/utilities/_index.scss
+#	deleted:    _sass/utilities/_mixins.scss
+#	deleted:    _sass/utilities/config.rb
+#	deleted:    _site/about/index.html
+#	deleted:    _site/contact/index.html
+#	deleted:    _site/css/main.css
+#	deleted:    _site/feed.xml
+#	deleted:    _site/img/Thumbs.db
+#	deleted:    _site/img/bg-main.jpg
+#	deleted:    _site/img/camp-sass.jpg
+#	deleted:    _site/img/sass-conf.jpg
+#	deleted:    _site/index.html
+#	deleted:    _site/jekyll-paginate-1.1.0.gem
+#	deleted:    _site/resources/index.html
+#	deleted:    _site/sass-conf.html
+#	deleted:    _site/welcome-to-jekyll-copy-2.html
+#	deleted:    _site/welcome-to-jekyll-copy.html
+#	deleted:    _site/welcome-to-jekyll.html
+#	new file:   about.html
+#	deleted:    about.md
+#	new file:   archive.html
+#	new file:   atom.xml
+#	new file:   blog.html
+#	new file:   categories.html
+#	new file:   collaboration.html
+#	deleted:    contact.md
+#	deleted:    css/main.scss
+#	new file:   downloads/KORUZA_algorithm/alignment_plan.png
+#	new file:   downloads/RazpisElektronik.pdf
+#	new file:   downloads/RazpisRazvojnik.pdf
+#	new file:   downloads/TaskMechEng/24BYJ48-03-4.pdf
+#	new file:   downloads/TaskMechEng/koruza-front.jpg
+#	new file:   downloads/TaskMechEng/koruza-v5-front_mockup.dxf
+#	new file:   downloads/TaskMechEng/koruza-v5-front_mockup.stl
+#	new file:   downloads/ToslinkCNC/ToslinkCNCElectronicsDiagram.png
+#	new file:   downloads/gaussianFit/2dGaussian.pdf
+#	new file:   downloads/gaussianFit/fig1.png
+#	new file:   downloads/gaussianFit/fig2.png
+#	new file:   downloads/laser/image1.jpg
+#	new file:   downloads/laser/image2.jpg
+#	new file:   downloads/logApprox/f5.png
+#	new file:   downloads/logApprox/logApprox.pdf
+#	new file:   downloads/plasma/1.jpg
+#	new file:   downloads/plasma/10.jpg
+#	new file:   downloads/plasma/11.jpg
+#	new file:   downloads/plasma/12.jpg
+#	new file:   downloads/plasma/13.jpg
+#	new file:   downloads/plasma/14.jpg
+#	new file:   downloads/plasma/15.jpg
+#	new file:   downloads/plasma/16.jpg
+#	new file:   downloads/plasma/17.jpg
+#	new file:   downloads/plasma/18.jpg
+#	new file:   downloads/plasma/19.jpg
+#	new file:   downloads/plasma/2.jpg
+#	new file:   downloads/plasma/20.jpg
+#	new file:   downloads/plasma/21.jpg
+#	new file:   downloads/plasma/22.jpg
+#	new file:   downloads/plasma/3.jpg
+#	new file:   downloads/plasma/4.jpg
+#	new file:   downloads/plasma/6.jpg
+#	new file:   downloads/plasma/7.jpg
+#	new file:   downloads/plasma/8.jpg
+#	new file:   downloads/plasma/9.jpg
+#	new file:   downloads/plasma/GoodEnoughCNCplasma.pdf
+#	new file:   downloads/presentations/OpenHardwareDay-2015-Koruza.pdf
+#	new file:   downloads/safecast_slo.png
+#	new file:   downloads/uSrc/uSrc_instructions.png
+#	new file:   downloads/uSrc/uSrc_module.png
+#	new file:   downloads/uSrc/uSrc_system.png
+#	deleted:    feed.xml
+#	new file:   fonts/OpenSans-Bold-webfont.eot
+#	new file:   fonts/OpenSans-Bold-webfont.svg
+#	new file:   fonts/OpenSans-Bold-webfont.ttf
+#	new file:   fonts/OpenSans-Bold-webfont.woff
+#	new file:   fonts/OpenSans-BoldItalic-webfont.eot
+#	new file:   fonts/OpenSans-BoldItalic-webfont.svg
+#	new file:   fonts/OpenSans-BoldItalic-webfont.ttf
+#	new file:   fonts/OpenSans-BoldItalic-webfont.woff
+#	new file:   fonts/OpenSans-Italic-webfont.eot
+#	new file:   fonts/OpenSans-Italic-webfont.svg
+#	new file:   fonts/OpenSans-Italic-webfont.ttf
+#	new file:   fonts/OpenSans-Italic-webfont.woff
+#	new file:   fonts/OpenSans-Light-webfont.eot
+#	new file:   fonts/OpenSans-Light-webfont.svg
+#	new file:   fonts/OpenSans-Light-webfont.ttf
+#	new file:   fonts/OpenSans-Light-webfont.woff
+#	new file:   fonts/OpenSans-LightItalic-webfont.eot
+#	new file:   fonts/OpenSans-LightItalic-webfont.svg
+#	new file:   fonts/OpenSans-LightItalic-webfont.ttf
+#	new file:   fonts/OpenSans-LightItalic-webfont.woff
+#	new file:   fonts/OpenSans-Regular-webfont.eot
+#	new file:   fonts/OpenSans-Regular-webfont.svg
+#	new file:   fonts/OpenSans-Regular-webfont.ttf
+#	new file:   fonts/OpenSans-Regular-webfont.woff
+#	new file:   fonts/OpenSans-Semibold-webfont.eot
+#	new file:   fonts/OpenSans-Semibold-webfont.svg
+#	new file:   fonts/OpenSans-Semibold-webfont.ttf
+#	new file:   fonts/OpenSans-Semibold-webfont.woff
+#	new file:   fonts/OpenSans-SemiboldItalic-webfont.eot
+#	new file:   fonts/OpenSans-SemiboldItalic-webfont.svg
+#	new file:   fonts/OpenSans-SemiboldItalic-webfont.ttf
+#	new file:   fonts/OpenSans-SemiboldItalic-webfont.woff
+#	new file:   images/776px-Shuttleworth_fellow-01-01.jpg
+#	new file:   images/776px-Shuttleworth_foundation1.jpg
+#	new file:   images/776px-Shuttleworth_funded-01.png
+#	new file:   images/MicroAPRSNavspark.jpg
+#	new file:   images/OpenSourceLabEquipment/LinearTranslation-PlasticSlider.jpg
+#	new file:   images/ServalRuggedBatteryPack/ServalRuggedBatteryPackPrototype1.jpg
+#	new file:   images/SolRouterSer.jpg
+#	new file:   images/battlemeshbanner.jpg__700x363_q95.jpg
+#	new file:   images/bullet.png
+#	new file:   images/hr.gif
+#	new file:   images/irnas-logo-krog.png
+#	new file:   images/irnas-logo.png
+#	new file:   images/koruza/ElectronicsDiagram.png
+#	new file:   images/koruza/koruza.jpg
+#	new file:   images/koruza/koruza1.jpg
+#	new file:   images/koruza/koruzav10.jpg
+#	new file:   images/nav-bg.gif
+#	new file:   images/nodewatcher/nodewatcher.jpg
+#	new file:   images/opentechnology_black.png
+#	new file:   images/team/alan.png
+#	new file:   images/team/banovic.png
+#	new file:   images/team/blaz.jpg
+#	new file:   images/team/eva.png
+#	new file:   images/team/kostko.jpg
+#	new file:   images/team/mihael.jpg
+#	new file:   images/team/musti.png
+#	new file:   images/toolset/plasma.jpg
+#	new file:   images/toolset/troublemaker.jpg
+#	deleted:    img/.DS_Store
+#	deleted:    img/Thumbs.db
+#	deleted:    img/bg-main.jpg
+#	deleted:    img/camp-sass.jpg
+#	deleted:    img/sass-conf.jpg
+#	modified:   index.html
+#	new file:   javascripts/bootstrap.js
+#	new file:   javascripts/bootstrap.min.js
+#	new file:   javascripts/respond.js
+#	new file:   javascripts/scale.fix.js
+#	deleted:    jekyll-paginate-1.1.0.gem
+#	new file:   pages.html
+#	new file:   params.json
+#	new file:   post_files/MonkeyBrains/MonkeyBrains-1.jpg
+#	new file:   post_files/MonkeyBrains/MonkeyBrains-2.jpg
+#	new file:   post_files/MonkeyBrains/MonkeyBrains-3.jpg
+#	new file:   post_files/MonkeyBrains/MonkeyBrains-4.jpg
+#	new file:   post_files/MonkeyBrains/Thumbs.db
+#	new file:   post_files/NIR-angle/nir1.JPG
+#	new file:   post_files/NIR-angle/nir2.JPG
+#	new file:   post_files/NIR-angle/nir3.JPG
+#	new file:   post_files/NIR-angle/nirPlot.jpg
+#	new file:   post_files/NIR_IWOW/NIR_measurement_IWOW_small.png
+#	new file:   post_files/NIR_IWOW/NIR_poster_session_IWOW.jpg
+#	new file:   post_files/alignment-algorithm/fig1a.jpg
+#	new file:   post_files/alignment-algorithm/fig1b.jpg
+#	new file:   post_files/alignment-algorithm/fig2a.jpg
+#	new file:   post_files/alignment-algorithm/fig2b.jpg
+#	new file:   post_files/alignment-algorithm/fog1.jpg
+#	new file:   post_files/alignment-algorithm/fog2.jpg
+#	new file:   post_files/alignment-algorithm/simulation1.jpg
+#	new file:   post_files/alignment-algorithm/simulation2.jpg
+#	new file:   post_files/alignment-algorithm/simulation3.jpg
+#	new file:   post_files/bay_area/koruza_backpack.jpg
+#	new file:   post_files/cnc-cutter3/cutter1.JPG
+#	new file:   post_files/cnc-cutter3/cutter2.JPG
+#	new file:   post_files/cnc-cutter3/cutter3.JPG
+#	new file:   post_files/cnc-mill/assem-table.jpg
+#	new file:   post_files/cnc-mill/rods.JPG
+#	new file:   post_files/cnc-mill/trolley-x-left.jpg
+#	new file:   post_files/cnc-mill2/mill1.JPG
+#	new file:   post_files/cnc-mill2/mill12.gif
+#	new file:   post_files/cnc-mill2/mill2.JPG
+#	new file:   post_files/cnc-mill2/mill3.JPG
+#	new file:   post_files/cnc-mill2/mill4.JPG
+#	new file:   post_files/cnc-mill2/mill5.JPG
+#	new file:   post_files/cxncel/koruza_cxncel.jpg
+#	new file:   post_files/data-analysis/fig1.jpg
+#	new file:   post_files/data-analysis/noise1.jpg
+#	new file:   post_files/drill/Picture1.png
+#	new file:   post_files/drill/Picture2.png
+#	new file:   post_files/fog-indoor/img1.JPG
+#	new file:   post_files/fog-indoor/img2.JPG
+#	new file:   post_files/fog-indoor/img3.JPG
+#	new file:   post_files/fog-indoor/img4.JPG
+#	new file:   post_files/fog-outdoor/exp1.JPG
+#	new file:   post_files/fog-outdoor/exp2.jpg
+#	new file:   post_files/fog-outdoor/fog_animated.gif
+#	new file:   post_files/fog-outdoor/fog_test.jpg
+#	new file:   post_files/fog-outdoor/tunel.jpg
+#	new file:   post_files/halloween/photo.JPG
+#	new file:   post_files/koruza-1-0/as1.jpg
+#	new file:   post_files/koruza-1-0/as2.jpg
+#	new file:   post_files/koruza-1-0/koruza1.jpg
+#	new file:   post_files/koruza-1-0/koruza2.jpg
+#	new file:   post_files/koruza-1-0/koruza_electronics.jpg
+#	new file:   post_files/laser-test/img1.png
+#	new file:   post_files/laser-test/img2.png
+#	new file:   post_files/mini-cnc/mini1.jpg
+#	new file:   post_files/mini-cnc/mini2.jpg
+#	new file:   post_files/mini-cnc/mini3.jpg
+#	new file:   post_files/mini-cnc/mini4.jpg
+#	new file:   post_files/mini-cnc/mini5.jpg
+#	new file:   post_files/paste_extruder/img1.png
+#	new file:   post_files/paste_extruder/img2.png
+#	new file:   post_files/plasma/img1.JPG
+#	new file:   post_files/precisexy/PreciseXY-2.jpg
+#	new file:   post_files/toslink/img1.png
+#	new file:   post_files/toslink/img2.png
+#	new file:   post_files/toslink/img3.png
+#	new file:   post_files/troublemaker/troublemaker1.png
+#	new file:   post_files/troublemaker/troublemaker2.png
+#	new file:   post_files/troublemaker/troublemaker3.png
+#	new file:   post_files/troublemaker/troublemaker4.png
+#	new file:   post_files/troublemaker/troublemaker5.JPG
+#	new file:   post_files/uumd/board.jpg
+#	new file:   post_files/video/img1.jpg
+#	new file:   post_files/video/video1.jpg
+#	new file:   post_files/video/video2.jpg
+#	new file:   post_files/video/video3.jpg
+#	new file:   post_files/video/video4.jpg
+#	new file:   post_files/workshop/img1.jpg
+#	new file:   projects.html
+#	deleted:    resources.md
+#	new file:   rss.xml
+#	new file:   services.html
+#	new file:   sitemap.txt
+#	new file:   stylesheets/bootstrap.css
+#	new file:   stylesheets/bootstrap.min.css
+#	new file:   stylesheets/ie.css
+#	new file:   stylesheets/images/footer-background.png
+#	new file:   stylesheets/images/front-background.png
+#	new file:   stylesheets/normalize.css
+#	new file:   stylesheets/pygment_trac.css
+#	new file:   stylesheets/styles.css
+#	new file:   tags.html
+#	new file:   team.html
+#	new file:   vacancies.html
+#
+
