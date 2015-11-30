@@ -19,5 +19,5 @@ Furthermore, we are deciding on which communication tools to use, so that member
 
 As well, we’ll have to find the right combination of channels to communicate effectively with our existing users and update them on the progress and other news (blog, mailing list, Twitter, FB, other social media). We will also work on reaching people that don’t know us yet but might be interested in what we’re doing (conferences, other events, articles, social media).
 
-At this point it’s difficult to say what form our community will take. However, what we need to do at this point is start providing the tools to open the dialogue and enable collaboration. 
+At this point it’s difficult to say what form our community will take. However, what we need to do is start providing the tools to open the dialogue and enable collaboration. 
 
