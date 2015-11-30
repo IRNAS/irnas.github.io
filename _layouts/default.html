@@ -10,11 +10,15 @@
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/bootstrap.min.css">
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/styles.css">
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/pygment_trac.css">
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/magnific-popup.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+
+  
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
 
@@ -24,7 +28,7 @@
     <div class="navbar navbar-default navbar-static-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -51,7 +55,6 @@
 
     <div class="container {{ page.special }}">
         {{ content }}
-
          <footer>
           <hr>
             <p>Institute IRNAS is supported by:</p>
@@ -62,6 +65,7 @@
             <p><small>Hosted on GitHub Pages</small></p>
           </footer>
         </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script src="{{ ASSET_PATH }}/javascripts/scale.fix.js"></script>
         <script src="{{ ASSET_PATH }}/javascripts/bootstrap.min.js"></script>
 
@@ -69,5 +73,35 @@
 
     {% include JB/analytics %}
 
+    <!-- Magnific Popup core JS file -->
+    <script src="{{ ASSET_PATH }}/javascripts/jquery.magnific-popup.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $('.image-popup-vertical-fit').magnificPopup({
+        type: 'image',
+        closeOnContentClick: true,
+        mainClass: 'mfp-img-mobile',
+        image: {
+          verticalFit: true
+        }
+    
+      });
+
+        $('.image-popup-no-margins').magnificPopup({
+    type: 'image',
+    closeOnContentClick: true,
+    closeBtnInside: false,
+    fixedContentPos: true,
+    mainClass: 'mfp-no-margins mfp-with-zoom', // class to remove default margin from left and right side
+    image: {
+      verticalFit: true
+    },
+    zoom: {
+      enabled: true,
+      duration: 300 // don't foget to change the duration also in CSS
+    }
+  });
+    });
+    </script>
   </body>
 </html>
