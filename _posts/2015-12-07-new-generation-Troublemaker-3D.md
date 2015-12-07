@@ -8,12 +8,12 @@ tags: []
 {% include JB/setup %}
 
 
-The new generation of Troublemaker 3D printer is operational for a few months now and in this time it has printed quite some parts for the [KORUZA 1.0 units](http://koruza.net/) and various other systems. The 3D printer performs well, and with its enlarged printing area the production of KORUZA parts is quicker and easier.
+The new generation of Troublemaker 3D printer is operational for a few months now and in this time it has printed quite some parts for the [KORUZA 1.0 units](http://koruza.net/){:target="_blank"} and various other systems. The 3D printer performs well, and with its enlarged printing area the production of KORUZA parts is quicker and easier.
 
 ![Troublemaker-3D-printer-2]({{ site.url }}/post_files/troublemaker-3d-printer/troublemaker-2.JPG)
 ![Troublemaker-3D-printer-3]({{ site.url }}/post_files/troublemaker-3d-printer/troublemaker-3.JPG)
 
-Some minor changes were made to improve the design. In this month we are planning to build a couple of Toublemakers more and test them together with our partners [Open Source Ecology](http://opensourceecology.org/).
+Also, some minor changes were made to improve the design. In this month we are planning to build a couple of Toublemakers more and test them together with our partners [Open Source Ecology](http://opensourceecology.org/){:target="_blank"}.
 
 ![Troublemaker-3D-printer-1]({{ site.url }}/post_files/troublemaker-3d-printer/troublemaker-1.jpg)
 
