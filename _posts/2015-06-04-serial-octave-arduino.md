@@ -2,8 +2,8 @@
 layout: post
 title: "Serial communication between Arduino and Octave"
 description: "Communication useful between devices for debugging"
-category: 
-tags: []
+category: Other Projects
+tags: [Energia, Arduino, Debugging]
 ---
 {% include JB/setup %}
 
@@ -74,7 +74,8 @@ Note that communication may hang in certain cases, thus 'pause' is used between 
 
 You can find a sample code for Energia/Arduino device and Octave, containing main and three sub-functions,in our [GitHub repository](https://github.com/IRNAS/MathFunctions/tree/master/SerialCommunicationOctaveArduino). Function serial_setup() establishes connection and settings, serial_red1() reads array of different type of variables, then serial_write1() writes back changed values.  Note that this is an early release of an unoptimized code which at least on the micro-controller side can be significantly optimized. 
  
- 
+
+[![Laser-cutter1]({{ site.url }}/post_files/serial-communication/serial-communication-1.png){: .img-half}]({{ site.url }}/post_files/serial-communication/serial-communication-1.png){: .img-open}
 
 
 

@@ -2,14 +2,14 @@
 layout: post
 title: "KORUZA modular electronics"
 description: "Control electronics for KORUZA 1.0"
-category: 
-tags: []
+category: KORUZA
+tags: [KORUZA, Development, Electronics]
 ---
 {% include JB/setup %}
 
 Wireless optical system [KORUZA](http://koruza.net) is now at final stages of optimization from the electronics perspective, finalizing the overall system. Now finally implemented [modular electronics]() approach enables optimized and versatile assembly of the system, while enabling maximal reuse for other applications.
 
-![koruza electronics]({{ site.url }}/post_files/koruza-1-0/koruza_electronics.jpg)
+[![koruza electronics]({{ site.url }}/post_files/koruza-1-0/koruza_electronics.jpg){: .img-full}]({{ site.url }}/post_files/koruza-1-0/koruza_electronics.jpg){: .img-open}
 
 KORUZA 1.0 electronics now consists of the following modular stack of electronics:
 

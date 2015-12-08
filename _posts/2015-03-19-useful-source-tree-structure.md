@@ -2,8 +2,8 @@
 layout: post
 title: "Useful-source open hardware tree structure"
 description: "Elaborating on a new concept of open hardware."
-category: 
-tags: []
+category: Other Projects 
+tags: [Useful Source, Open Source Hardware]
 ---
 {% include JB/setup %}
 
@@ -23,12 +23,12 @@ Open hardware documentation does not uniquely compile into a physical object or 
  
  Diagrams always make understanding better. The overall system structure is shown below, with the information flow and connectivity.
  
- ![useful source system]({{ site.url }}/downloads/uSrc/uSrc_system.png)
+ [![useful source system]({{ site.url }}/downloads/uSrc/uSrc_system.png){: .img-full}]({{ site.url }}/downloads/uSrc/uSrc_system.png){: .img-open}
  
  Every module is a standalone unit and can be used to document any small project as a whole.
  
- ![useful source module]({{ site.url }}/downloads/uSrc/uSrc_module.png)
+ [![useful source module]({{ site.url }}/downloads/uSrc/uSrc_module.png){: .img-full}]({{ site.url }}/downloads/uSrc/uSrc_module.png){: .img-open}
  
 Instructions, by default, allow a number of different lists of physical parts to be associated with logical parts and thus supporting localization. The build process and instructions follow the inverted tree structure, where you start with assembling sub-modules and then assembling them in even larger systems, finally being able to apply test-case steps to validate the quality of the replication.
  
- ![useful source instructions]({{ site.url }}/downloads/uSrc/uSrc_instructions.png)
+ [![useful source instructions]({{ site.url }}/downloads/uSrc/uSrc_instructions.png){: .img-full}]({{ site.url }}/downloads/uSrc/uSrc_instructions.png){: .img-open}

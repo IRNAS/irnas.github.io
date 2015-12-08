@@ -2,8 +2,8 @@
 layout: post
 title: "ToslinkCNC - Optical communication for CNC control - design overview"
 description: "Introducing ToslinkCNC optical communication to low-cost CNC machines"
-category: 
-tags: []
+category: GoodEnoughCNC
+tags: [CNC, GoodEnoughCNC, Toslink, Open Source Hardware]
 ---
 {% include JB/setup %}
 
@@ -34,7 +34,7 @@ Implementation in hardware:
  
 Throughput requirements are governed by a number of Motion units per fibre and link overhead (framing and CRC, lets assume 10% for now). Every motion unit requires 3+1(optional output) single logical signals updated with 150kHz-250kHz rate and thus bitrate per Motion unit without overhead is 750kbps (3@150kHz) or 1000kbps (4@250kHz), depending on the setup.
 
-![toslinkcnc]({{ site.url }}/downloads/ToslinkCNC/ToslinkCNCElectronicsDiagram.png)
+[![toslinkcnc]({{ site.url }}/downloads/ToslinkCNC/ToslinkCNCElectronicsDiagram.png){: .img-full}]({{ site.url }}/downloads/ToslinkCNC/ToslinkCNCElectronicsDiagram.png){: .img-open}
 
 System design is broken down into previously described Motion units designed by user and not directly a part of this project. We imagine two key scenarios to validate ToslinkCNC approach.
 

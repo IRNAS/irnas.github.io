@@ -2,8 +2,8 @@
 layout: post
 title: "Good-enough useful-open-hardware CNC/Plasma cutter - Design overview"
 description: "Introducing good-enough machine design and overview of CNC/plasma design in the works"
-category: 
-tags: []
+category: GoodEnoughCNC
+tags: [GoodEnoughCNC, CNC, Plasma, Design, Prototype]
 ---
 {% include JB/setup %}
 
@@ -39,17 +39,14 @@ Firstly, we have designed a simple one axis gantry system to evaluate design opt
 The control system currently uses good quality [Planet-CNC](http://www.planet-cnc.com/) controllers and  [PoLabs stepper drivers](http://www.poscope.com/index.php?route=product/category&path=68) with NEMA23 motors, all of which can be readily replaced with open source systems.
  
 
-![good enoguh plasma]({{ site.url }}/downloads/plasma/1.jpg)
+[![good enoguh plasma]({{ site.url }}/downloads/plasma/1.jpg){: .img-half}]({{ site.url }}/downloads/plasma/1.jpg){: .img-open}
+[![good enoguh plasma]({{ site.url }}/downloads/plasma/2.jpg){: .img-half}]({{ site.url }}/downloads/plasma/2.jpg){: .img-open}
 
-![good enoguh plasma]({{ site.url }}/downloads/plasma/2.jpg)
+[![good enoguh plasma]({{ site.url }}/downloads/plasma/3.jpg){: .img-half}]({{ site.url }}/downloads/plasma/3.jpg){: .img-open}
+[![good enoguh plasma]({{ site.url }}/downloads/plasma/4.jpg){: .img-half}]({{ site.url }}/downloads/plasma/4.jpg){: .img-open}
 
-![good enoguh plasma]({{ site.url }}/downloads/plasma/3.jpg)
+[![good enoguh plasma]({{ site.url }}/downloads/plasma/6.jpg){: .img-half}]({{ site.url }}/downloads/plasma/6.jpg){: .img-open}
+[![good enoguh plasma]({{ site.url }}/downloads/plasma/7.jpg){: .img-half}]({{ site.url }}/downloads/plasma/7.jpg){: .img-open}
 
-![good enoguh plasma]({{ site.url }}/downloads/plasma/4.jpg)
-
-![good enoguh plasma]({{ site.url }}/downloads/plasma/6.jpg)
-
-![good enoguh plasma]({{ site.url }}/downloads/plasma/7.jpg)
-
-![good enoguh plasma]({{ site.url }}/downloads/plasma/8.jpg)
+[![good enoguh plasma]({{ site.url }}/downloads/plasma/8.jpg){: .img-full}]({{ site.url }}/downloads/plasma/8.jpg){: .img-open}
  

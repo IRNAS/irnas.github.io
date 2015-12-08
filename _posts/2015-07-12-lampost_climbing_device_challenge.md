@@ -2,8 +2,8 @@
 layout: post
 title: "Hand powered lamp post climbing contraption for wireless network deployment"
 description: "A tool to raise WiFi equipment in air on existing structures"
-category: 
-tags: []
+category: IRNAS
+tags: [Vacancy, IRNAS]
 ---
 {% include JB/setup %}
 
@@ -25,3 +25,5 @@ The following use-cases must be feasible with the device:
 2. Device is on top and user ties the drive string to the pole base, securing the device to stay on top
 3. Lamp post changes diameter several times, the device operates in an unchanged manner
 4. User detaches the string from the base of the tower and lowers the device in a controlled manner.
+
+[![Vacancy]({{ site.url }}/post_files/job/job-irnas.png){: .img-half}]({{ site.url }}/post_files/job/job-irnas.png){: .img-open}

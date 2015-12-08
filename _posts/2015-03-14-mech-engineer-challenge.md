@@ -2,8 +2,8 @@
 layout: post
 title: "Design challenge for mechanical engineer open position"
 description: "A basic design task for evaluating candidates for the job."
-category: 
-tags: []
+category: IRNAS
+tags: [Vacancy, IRNAS]
 ---
 {% include JB/setup %}
 
@@ -29,5 +29,6 @@ Requirements for submission of the task:
 * Honestly report the time required to complete the task
  
  
-![KORUZA front view]({{ site.url }}/downloads/TaskMechEng/koruza-front.jpg)
+[![KORUZA front view]({{ site.url }}/downloads/TaskMechEng/koruza-front.jpg){: .img-full}]({{ site.url }}/downloads/TaskMechEng/koruza-front.jpg){: .img-open}
+
 

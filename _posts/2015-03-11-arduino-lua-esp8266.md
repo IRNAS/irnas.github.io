@@ -2,8 +2,8 @@
 layout: post
 title: "Simplified Arduino ADC - ESP8266 (nodemcu lua) communication + WS2812B LEDs"
 description: "Introducing a simple method of transferring values from Arduino to ESP8266 and displaying them on the web interface + driving LEDs "
-category: 
-tags: []
+category: Other Projects
+tags: [Arduino, ESP modul, Transferring values]
 ---
 {% include JB/setup %}
 

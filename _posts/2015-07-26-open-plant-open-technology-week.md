@@ -2,8 +2,8 @@
 layout: post
 title: "Useful source implementation DocuBricks and OpenPlant Open Technology Week Workshop"
 description: "Participation in the Open Technology Week"
-category: 
-tags: []
+category: KORUZA 
+tags: [Events, KORUZA]
 ---
 {% include JB/setup %}
 

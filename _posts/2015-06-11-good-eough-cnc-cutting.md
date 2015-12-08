@@ -2,8 +2,8 @@
 layout: post
 title: "Good-enough useful-open-hardware CNC/Plasma cutter - Cutting"
 description: "Introducing good-enough machine design and overview of CNC/plasma design in the works"
-category: 
-tags: []
+category: GoodEnoughCNC
+tags: [CNC, Plasma, GoodEnoughCNC]
 ---
 {% include JB/setup %}
 
@@ -22,8 +22,7 @@ We were pleased to see the first cut piece fall to the concrete. The Torch Heigh
 
 There is still much to learn and try out, so we will be testing and using the machine in the next couple of days to get a hang of it. At the same time we will be finalizing the design, optimizing components and preparing the open-source release documentation for release in a week.
 
-![good enough plasma]({{ site.url }}/downloads/plasma/17.jpg)
-
-![good enough plasma]({{ site.url }}/downloads/plasma/18.jpg)
+[![good enough plasma]({{ site.url }}/downloads/plasma/17.jpg){: .img-half}]({{ site.url }}/downloads/plasma/17.jpg){: .img-open}
+[![good enough plasma]({{ site.url }}/downloads/plasma/18.jpg){: .img-half}]({{ site.url }}/downloads/plasma/18.jpg){: .img-open}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IsliOHDgIus" frameborder="0" allowfullscreen></iframe>

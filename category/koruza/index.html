@@ -1,0 +1,52 @@
+---
+layout: page
+title : "Category: KORUZA"
+---
+
+<div class="row-fluid">
+	<div class="col-sm-8 blog-content">
+
+		{% assign displayed = 0 %}
+		{% for post in site.posts %}
+			{% if post.category contains "KORUZA" %}
+				{% assign displayed = displayed | plus: 1 %}
+
+			<div class="post teaser row">
+				<div class="image-blog-p">
+				{% assign foundImage = 0 %}
+			      {% assign images = post.content | split:"<img " %}
+			      {% for image in images %}
+			        {% if image contains 'src' %}
+
+			            {% if foundImage == 0 %}
+			                {% assign html = image | split:"/>" | first %}
+			                <img {{ html }} />
+			                {% assign foundImage = 1 %}
+			            {% endif %}
+			        {% endif %}
+			      {% endfor %} 
+				</div>
+				<div class="blog-intro header">
+				<div class="title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+				</div>
+				<div class="date"><span>{{ post.date | date_to_string }}</span></div>
+				<div class="content">{{ post.content | strip_html | truncatewords:60}}</div>
+				</div>
+			</div>	
+		{% endif %}
+		{% if displayed >= 10 %}
+			{% break %}
+		{% endif %}
+
+	{% endfor %}
+
+
+	<div class="footer">
+		<a href="{{ BASE_PATH }}{{ site.JB.categories_path }}">Categories Archive
+    	</a>
+	</div>
+	</div>
+	<div class="col-sm-4 hidden-xs">
+	   {% include sidebar.html %}
+	</div>
+</div>

@@ -2,8 +2,8 @@
 layout: post
 title: "Modification of a low-cost 40W laser cutter"
 description: "Details about modifying a laser cutter with different control electronics and other details."
-category: 
-tags: []
+category: Other Projects
+tags: [Other Projects, Laser cutter]
 ---
 {% include JB/setup %}
 
@@ -35,7 +35,6 @@ The lack of proper documentation and some corner-cutting in assembly and design 
  
  We will detail all the modifications and create instructions for performing them shortly.
 
- ![laser cutter]({{ site.url }}/downloads/laser/image1.jpg)
- 
- ![laser cutter]({{ site.url }}/downloads/laser/image2.jpg)
+  [![Laser-cutter1]({{ site.url }}/downloads/laser/image1.jpg){: .img-half}]({{ site.url }}/downloads/laser/image1.jpg){: .img-open}
+ [![Laser-cutter2]({{ site.url }}/downloads/laser/image1.jpg){: .img-half}]({{ site.url }}/downloads/laser/image2.jpg){: .img-open}
  

@@ -2,8 +2,8 @@
 layout: post
 title: "KORUZA alignment algorithm - Software in Loop testing "
 description: "Testing procedures for the new alignment algorithm."
-category: 
-tags: []
+category: KORUZA
+tags: [KORUZA, Testing]
 ---
 {% include JB/setup %}
 
@@ -13,10 +13,11 @@ The first step was to designed a model of the KORUZA system, simulating behaviou
 
 Due to satisfactory performance we proceeded to the next stage, namely Software in Loop (SIL) based testing. Software code, that is going to run on the KORUZA processor, was developed in C programming language. Same Matlab model of the KORUZA system was employed and the C code adjusted so that it could be called directly from the Matlab environment. Such approach was chosen as Matlab allows for straightforward visual representation of the alignment procedure and simple detection of problems in the algorithm structure. In particular, some adjustments in C code were made to create a mex file, detailed structure and guidelines for construction of which can be found [here](http://www.mathworks.com/help/matlab/matlab_external/introducing-mex-files.html?refresh=true). 
 
-![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fig1b.jpg)
-![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fig2b.jpg)
-![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fig1a.jpg)
-![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fig2a.jpg)
+[![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fig1b.jpg){: .img-half}]({{ site.url }}/post_files/alignment-algorithm/fig1b.jpg){: .img-open}
+[![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fig2b.jpg){: .img-half}]({{ site.url }}/post_files/alignment-algorithm/fig2b.jpg){: .img-open}
+
+[![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fig1a.jpg){: .img-half}]({{ site.url }}/post_files/alignment-algorithm/fig1a.jpg){: .img-open}
+[![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fig2a.jpg){: .img-half}]({{ site.url }}/post_files/alignment-algorithm/fig2a.jpg){: .img-open}
 
 Alignment before and after signal was moved on both units. 
 

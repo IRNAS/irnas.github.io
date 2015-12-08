@@ -2,8 +2,8 @@
 layout: post
 title: "High precision ceramic paste extruder"
 description: "High precision ceramic paste extruder design update."
-category: 
-tags: []
+category: Other Projects
+tags: [MiniCNC, 3DPrinting, Ceramic]
 ---
 {% include JB/setup %}
 
@@ -28,8 +28,9 @@ Main features:
  
 The first prototype was machined out of MDF wood using a CNC mill.
 
-![paste-extruder]({{ site.url }}/post_files/paste_extruder/img1.png)
-![paste-extruder]({{ site.url }}/post_files/paste_extruder/img2.png)
+[![paste-extruder]({{ site.url }}/post_files/paste_extruder/img1.png)]({{ site.url }}/post_files/paste_extruder/img1.png){: .img-open}
+
+[![paste-extruder-2]({{ site.url }}/post_files/paste_extruder/img2.png)]({{ site.url }}/post_files/paste_extruder/img2.png){: .img-open}
 
 Future steps:
 

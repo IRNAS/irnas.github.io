@@ -2,8 +2,8 @@
 layout: post
 title: "Development of the Next Generation Open Hardware 3D Printer Troublemaker"
 description: "Development of the Next Generation Open Hardware 3D Printer Troublemaker."
-category: 
-tags: []
+category: Other Projects
+tags: [Troublemaker, 3DPrinter]
 ---
 {% include JB/setup %}
 
@@ -11,7 +11,7 @@ Our first open-source hardware tool was [Troublemaker 3D printer](http://www.thi
 
 Because of the increasing demand for higher 3D printing capacities we decided to start working on developing the next generation of the Troublemaker v2. The new generation of the 3D printer will feature enlarged build space, new electronics and some other improvements. We are aiming for the new 3D printer to be reliable, hackable, affordable and low-maintenance.
 
-![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker5.JPG)
+[![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker5.JPG){: .img-full}]({{ site.url }}/post_files/troublemaker/troublemaker5.JPG){: .img-open}
 
 The most important features are:
 
@@ -25,9 +25,10 @@ The most important features are:
  * new interchangeable print head with dual extrusion support
  * enclosed yet easily accessible electronics
  
- ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker1.png)
- ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker2.png)
- ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker3.png)
- ![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker4.png)
+ [![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker1.png){: .img-half}]({{ site.url }}/post_files/troublemaker/troublemaker1.png){: .img-open}
+ [![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker2.png){: .img-half}]({{ site.url }}/post_files/troublemaker/troublemaker2.png){: .img-open}
+
+ [![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker3.png){: .img-half}]({{ site.url }}/post_files/troublemaker/troublemaker3.png){: .img-open}
+ [![troublemaker]({{ site.url }}/post_files/troublemaker/troublemaker4.png){: .img-half}]({{ site.url }}/post_files/troublemaker/troublemaker4.png){: .img-open}
 
 We have already begun with the development and are currently building a prototype that can be tested and further improved.

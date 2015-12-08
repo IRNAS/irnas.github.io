@@ -2,8 +2,8 @@
 layout: post
 title: "KORUZA version 1.0 redesign"
 description: "Redesign of the internal mechanics of KORUZA"
-category: 
-tags: []
+category: KORUZA 
+tags: [KORUZA, Redesign]
 ---
 {% include JB/setup %}
 
@@ -15,4 +15,4 @@ The new version 1.0 of KORUZA has all the 3D printed parts designed in OpenSCAD 
 
 Shortly we will be releasing the full system and make available KITs of all parts required to replicate it along with complete documentation. Currently we are inviting experienced hackers and makers to join our closed beta to verify the design.
 
-![koruzav10]({{ site.url }}/images/koruza/koruzav10.jpg)
+[![koruzav10]({{ site.url }}/images/koruza/koruzav10.jpg){: .img-full}]({{ site.url }}/images/koruza/koruzav10.jpg){: .img-open}

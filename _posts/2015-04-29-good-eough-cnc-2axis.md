@@ -2,8 +2,8 @@
 layout: post
 title: "Good-enough useful-open-hardware CNC/Plasma cutter - 2 axis prototype"
 description: "Introducing good-enough machine design and overview of CNC/plasma design in the works"
-category: 
-tags: []
+category: GoodEnoughCNC 
+tags: [GoodEnoughCNC, CNC, Plasma, Design, Prototype]
 ---
 {% include JB/setup %}
 
@@ -40,7 +40,5 @@ Some quick test were performed with the current machine configuration:
 
 The approximate cost of such XY gantry excluding stepper motors is $100, including all square tubing, nuts and bolts, belts and bearings. Basic control electronics and stepper motors should be available for another $200.
 
-![good enoguh plasma]({{ site.url }}/downloads/plasma/9.jpg)
-
-![good enoguh plasma]({{ site.url }}/downloads/plasma/10.jpg)
- 
+[![good enoguh plasma]({{ site.url }}/downloads/plasma/9.jpg){: .img-half}]({{ site.url }}/downloads/plasma/9.jpg){: .img-open}
+[![good enoguh plasma]({{ site.url }}/downloads/plasma/10.jpg){: .img-half}]({{ site.url }}/downloads/plasma/10.jpg){: .img-open}

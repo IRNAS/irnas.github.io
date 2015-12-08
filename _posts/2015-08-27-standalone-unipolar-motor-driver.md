@@ -2,14 +2,14 @@
 layout: post
 title: "Universal unipolar motor driver for KORUZA"
 description: "Control electronics split into standalone modules."
-category: 
-tags: []
+category: KORUZA
+tags: [KORUZA, Development]
 ---
 {% include JB/setup %}
 
 Nearing the release of [KORUZA 1.0](http://koruza.net) wireless optical system the standalone system modules are nearing completion. Automated alignment uses low-cost 24BYJ48-03 stepper motors, similar to more popular 28BYJ48 ones. The control system following our [modular electronics approach]({{site.url }}/2015/05/20/koruza-electronics-modules/) has been developed to implement standalone functions for maximal reuse in many different projects.
 
-![stepper controller]({{ site.url }}/post_files/uumd/board.jpg)
+[![stepper controller]({{ site.url }}/post_files/uumd/board.jpg){: .img-full}]({{ site.url }}/post_files/uumd/board.jpg){: .img-open}
 
 The lack of a low-cost stepper controller designed for use with the low-cost motors has motivated us to implement an universal solution with minor optimizations for use in KORUZA. Standalone unipolar motor driver has a number of welcome features:
 

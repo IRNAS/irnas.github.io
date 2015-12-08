@@ -2,8 +2,8 @@
 layout: post
 title: "Halloween at IRNAS"
 description: "Halloween decoration."
-category: 
-tags: []
+category: IRNAS
+tags: [Events, Fun]
 ---
 {% include JB/setup %}
 
@@ -11,6 +11,6 @@ With the Halloween just around the corner, we at the institute IRNAS decided it 
 
 As with all our projects, we made it sure 'average' and 'already seen' are not words to describe our creation. 
 
-![snake]({{ site.url }}/post_files/halloween/photo.JPG)
+[![snake]({{ site.url }}/post_files/halloween/photo.JPG){: .img-full}]({{ site.url }}/post_files/halloween/photo.JPG){: .img-open}
 
 And you must admit our new rattlesnake pet looks pretty scary, at least for the laser-cut wooden snake. 

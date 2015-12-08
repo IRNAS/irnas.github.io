@@ -2,8 +2,8 @@
 layout: post
 title: "Motor performance test"
 description: "Procedure for testing motor performance, using camera and video analysis."
-category: 
-tags: []
+category: KORUZA
+tags: [KORUZA, Testing]
 ---
 {% include JB/setup %}
 
@@ -17,6 +17,6 @@ Procedure is repeated for each frame to enable tracking of the centre coordinate
 
 So far tests suggest promising behaviour. Recurrent motion of the laser in small squares was observed over period of time at various distances. Analysis showed that movement path remains unchanged over the time period  at all distances and even more importantly, laser always returns to the same starting position, a very important aspect in the alignment procedure, where the beam needs to return to the optimal position after each iteration. 
 
-![dot]({{ site.url }}/post_files/video/img1.jpg)
+[![dot]({{ site.url }}/post_files/video/img1.jpg){: .img-full}]({{ site.url }}/post_files/video/img1.jpg){: .img-open}
 
 In the above plot we can see square movement over 15 min period at 1 m distance. We are planing to repeat tracking tests at various distances in more controlled environment. More changeling movements will be analysed as well (greater speed, diagonal movement, etc.). 

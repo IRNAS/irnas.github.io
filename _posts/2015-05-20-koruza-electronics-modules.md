@@ -2,8 +2,8 @@
 layout: post
 title: "KORUZA optical system - electronics modular design"
 description: "Control electronics split into standalone modules."
-category: 
-tags: []
+category: KORUZA
+tags: [KORUZA, Electronics]
 ---
 {% include JB/setup %}
 
@@ -15,7 +15,7 @@ Electronics of the system is divided into five standalone open hardware projects
 
 The modules are introduced in the following image and descriptions below. Should you like to contribute to the development of any of these, please get in touch:
 
-![koruza electronics modules]({{ site.url }}/images/koruza/ElectronicsDiagram.png)
+[![koruza electronics modules]({{ site.url }}/images/koruza/ElectronicsDiagram.png){: .img-full}]({{ site.url }}/images/koruza/ElectronicsDiagram.png){: .img-open}
 
  1. **KORUZA control board** - implements connectivity to all other modules and runs KORUZA unit control and auto-alignment algorithms.
  * floating point capable processor, ARM based

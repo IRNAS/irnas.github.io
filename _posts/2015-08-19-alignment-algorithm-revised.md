@@ -2,8 +2,8 @@
 layout: post
 title: "KORUZA alignment algorithm - revised "
 description: "New alignment algorithm design and testing."
-category: 
-tags: []
+category: KORUZA
+tags: [KORUZA, Alignment Algorithm, Analysis]
 ---
 {% include JB/setup %}
 
@@ -13,14 +13,15 @@ Analysis of the signal power over period of time and correlation to various weat
 
 As before, the new design is first being tested in a Matlab simulation, using a beam scan of the new unit to simulate the link performance and the relationship between motors movements and optical link as realistically as possible. Beside the simplicity, the new algorithm features simultaneous alignment of the two units and takes into the account received and emitted power from both units. Testing under various settings, such as finding optimal position when located far from the source, re-alignment in the case of beam drifting and sudden change in the position of the beam on one or both units has so far showed encouraging results. 
 
-![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/simulation1.jpg)
-![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/simulation2.jpg)
-![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/simulation3.jpg)
+[![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/simulation1.jpg){: .img-half}]({{ site.url }}/post_files/alignment-algorithm/simulation1.jpg){: .img-open}
+[![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/simulation2.jpg){: .img-half}]({{ site.url }}/post_files/alignment-algorithm/simulation2.jpg){: .img-open}
+
+[![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/simulation3.jpg){: .img-full}]({{ site.url }}/post_files/alignment-algorithm/simulation3.jpg){: .img-open}
 
 In the above plots we can see initial position, first alignment and re-alignment once the beam has moved. 
 
-![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fog1.jpg)
-![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fog2.jpg)
+[![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fog1.jpg){: .img-half}]({{ site.url }}/post_files/alignment-algorithm/fog1.jpg){: .img-open}
+[![alignment-algorithm]({{ site.url }}/post_files/alignment-algorithm/fog2.jpg){: .img-half}]({{ site.url }}/post_files/alignment-algorithm/fog2.jpg){: .img-open}
 
 The algorithm responds well even in the case of gradual loss of the signal, such as in case of fog. The above two figures show alignment of one unit before and after gradual decrease of power has been introduced.
 

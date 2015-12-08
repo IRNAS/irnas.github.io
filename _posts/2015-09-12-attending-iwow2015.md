@@ -2,8 +2,8 @@
 layout: post
 title: "KORUZA at IWOW2015"
 description: "Presenting KORUZA at a scientific workshop on wireless optical networks"
-category: 
-tags: []
+category: KORUZA 
+tags: [KORUZA, Events]
 ---
 {% include JB/setup %}
 
@@ -15,6 +15,6 @@ As presented at the event, we will shortly be making KORUZA available as a kit f
 
 
 
-![iwow]({{ site.url }}/post_files/NIR_IWOW/NIR_poster_session_IWOW.jpg)
+[[iwow]({{ site.url }}/post_files/NIR_IWOW/NIR_poster_session_IWOW.jpg){: .img-half}]({{ site.url }}/post_files/NIR_IWOW/NIR_poster_session_IWOW.jpg){: .img-open}
 
-![iwow]({{ site.url }}/post_files/NIR_IWOW/NIR_measurement_IWOW_small.png)
+[![iwow]({{ site.url }}/post_files/NIR_IWOW/NIR_measurement_IWOW_small.png){: .img-half}]({{ site.url }}/post_files/NIR_IWOW/NIR_measurement_IWOW_small.png){: .img-open}

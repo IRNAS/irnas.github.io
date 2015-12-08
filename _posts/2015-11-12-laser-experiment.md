@@ -2,8 +2,8 @@
 layout: post
 title: "Green laser experiment"
 description: "Experimental research, evaluating aiming accuracy."
-category: 
-tags: []
+category: KORUZA
+tags: [KORUZA, Experiment, Laser]
 ---
 {% include JB/setup %}
 
@@ -15,8 +15,8 @@ To determine maximal angle, each laser was stably mounted in the same position, 
 
 Later, the measurements were taken from the paper, transferred to the coordinate system and visualised. 
 
-![laser]({{ site.url }}/post_files/laser-test/img1.png)
+[![laser]({{ site.url }}/post_files/laser-test/img1.png){: .img-full}]({{ site.url }}/post_files/laser-test/img1.png){: .img-open}
 
 The maximal and average angle the beam makes with the enclosure was determined. We plan to use the data to optimise the initial alignment procedure, in particular to make laser-adjusting mechanism, responsible for aligning optical and laser beams, more effective to compromise for the initial misalignment of the green laser beam. 
 
-![laser]({{ site.url }}/post_files/laser-test/img2.png)
+[![laser]({{ site.url }}/post_files/laser-test/img2.png){: .img-full}]({{ site.url }}/post_files/laser-test/img2.png){: .img-open}

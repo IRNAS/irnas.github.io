@@ -2,8 +2,8 @@
 layout: post
 title: "Data analysis for KORUZA system."
 description: "Data analysis of collected measurements of KORUZA units at various locations."
-category: 
-tags: []
+category: KORUZA
+tags: [KORUZA, Analysis, Performance]
 ---
 {% include JB/setup %}
 
@@ -17,8 +17,8 @@ As vector with sensor data is collected every 100 milliseconds, moving average f
 
 Noise and other short therm effects were studied separately. We evaluated level of noise and tried to determine possible reasons for it. 
 
-![plot]({{ site.url }}/post_files/data-analysis/fig1.jpg)
-![plot]({{ site.url }}/post_files/data-analysis/noise1.jpg)
+[![plot]({{ site.url }}/post_files/data-analysis/fig1.jpg){: .img-half}]({{ site.url }}/post_files/data-analysis/fig1.jpg){: .img-open}
+[![plot]({{ site.url }}/post_files/data-analysis/noise1.jpg){: .img-half}]({{ site.url }}/post_files/data-analysis/noise1.jpg){: .img-open}
 
 In the above plots we can see data reduction using moving average filter of power vs. time and close-up with average noise estimation. 
 

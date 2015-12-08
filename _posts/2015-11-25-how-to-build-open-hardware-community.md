@@ -2,14 +2,14 @@
 layout: post
 title: "How to build an open hardware community?"
 description: "Get involved in our open harware projects."
-category: 
-tags: []
+category: IRNAS
+tags: [Community]
 ---
 {% include JB/setup %}
 
 We feel like we've come a long way with the development of [Koruza](http://koruza.net/){:target="_blank"} and our other open hardware systems. However, if we want to move towards fulfilling our mission and make a real social impact empowering people to build their own last mile networks and other systems, we need to make our products as available and accessible as possible. We definitely need to devote more time and effort to communicate effectively about what we are doing and start building communities around our projects.
 
-![Koruza-Community]({{ site.url }}/post_files/IRNAS-community/community.png)
+[ ![Koruza-Community]({{ site.url }}/post_files/IRNAS-community/community.png){: .img-full}]({{ site.url }}/post_files/IRNAS-community/community.png){: .img-open}
 
 There is quiet some work to be done to build successful communication strategy: from defining goals and the audience to deciding on communication channels and tools we want to use. Not many similar open source open hardware projects exist out there to set a good practice to follow, therefore we’ll try to learn by doing and look at the strategies of open source projects from other fields and other existing directions for effective communication strategies. 
 

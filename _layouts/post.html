@@ -3,13 +3,15 @@ layout: default
 special: post full
 ---
 {% include JB/setup %}
+<div class="row-fluid">
+  <div class="col-sm-8 blog-content post-content">
 <div class="header">
-<div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
 <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+<div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
+
 </div>
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="content">
+
+    <div class="content popup-gallery">
       {{ content }}
     </div>
 
@@ -28,9 +30,6 @@ special: post full
       {% include JB/tags_list %}
     </ul>
   {% endunless %}  
-  
-  </div>
-</div>
 
 <div class="footer">
     <ul class="pagination">
@@ -46,5 +45,13 @@ special: post full
       <li class="next disabled"><a>Next &rarr;</a>
     {% endif %}
     </ul>
+  </div>
+  </div>
+
 
 </div>
+  <div class="col-sm-4 hidden-xs">
+    {% include sidebar.html %}
+  </div>
+</div>
+

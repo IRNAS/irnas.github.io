@@ -2,8 +2,8 @@
 layout: post
 title: "Data Fit to 2-D Gaussian Function"
 description: "Missing function for use with Octave"
-category: 
-tags: []
+category: KORUZA
+tags: [KORUZA, Development]
 ---
 {% include JB/setup %}
 
@@ -15,4 +15,5 @@ We are introducing a possible approach to construct a Gaussian fit for 2-D data 
 
 Based on the size of measurement sample and distribution on measurement points, we should not expect a very accurate fit, more an approximate model that can provide us with more information about the data. Below we can see Gaussian fit to the power measurement of the Gaussian laser beam, constructed on 9 measurements points, one in the centre, other 8 in two concentric circles, located on the 100x100 mm grid. Left plot represents constructed fit, using generic algorithm and the plot on the right fit after certain pre-known features of our data were taken into the account. Fit is not very accurate, however still useful for approximately locating the centre of the beam and determining its diameter (set appropriate threshold), which was the main objective. 
  
- ![fit plot]({{ site.url }}/downloads/gaussianFit/fig1.png) ![fit plot]({{ site.url }}/downloads/gaussianFit/fig2.png)
+ [![fit-plot]({{ site.url }}/downloads/gaussianFit/fig1.png){: .img-half}]({{ site.url }}/downloads/gaussianFit/fig1.png){: .img-open} 
+ [![fit-plot]({{ site.url }}/downloads/gaussianFit/fig2.png){: .img-half}]({{ site.url }}/downloads/gaussianFit/fig2.png){: .img-open}

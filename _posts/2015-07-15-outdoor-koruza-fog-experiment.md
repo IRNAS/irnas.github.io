@@ -2,8 +2,8 @@
 layout: post
 title: "Outdoor KORUZA fog experiment "
 description: "A larger experiment to learn how to generate fog and evaluate impact on wireless optical systems at 50m length"
-category: 
-tags: []
+category: KORUZA
+tags: [KORUZA, Fog, Experiment]
 ---
 {% include JB/setup %}
 
@@ -44,9 +44,11 @@ even with the otherwise effective ventilation system. Fog machine on the other h
 
 We are actively working on improving the experimental setup and will be repeating it shortly.
 
-![fog]({{ site.url }}/post_files/fog-outdoor/exp1.JPG)
-![fog]({{ site.url }}/post_files/fog-outdoor/exp2.jpg)
-![fog]({{ site.url }}/post_files/fog-outdoor/tunel.jpg)
-![fog]({{ site.url }}/post_files/fog-outdoor/fog_test.jpg)
-![fog]({{ site.url }}/post_files/fog-outdoor/fog_animated.gif)
+[![fog]({{ site.url }}/post_files/fog-outdoor/exp1.JPG){: .img-half}]({{ site.url }}/post_files/fog-outdoor/exp1.JPG){: .img-open}
+[![fog]({{ site.url }}/post_files/fog-outdoor/exp2.jpg){: .img-half}]({{ site.url }}/post_files/fog-outdoor/exp2.jpg){: .img-open}
+
+[![fog]({{ site.url }}/post_files/fog-outdoor/tunel.jpg){: .img-half}]({{ site.url }}/post_files/fog-outdoor/tunel.jpg){: .img-open}
+[![fog]({{ site.url }}/post_files/fog-outdoor/fog_test.jpg){: .img-half}]({{ site.url }}/post_files/fog-outdoor/fog_test.jpg){: .img-open}
+
+[![fog]({{ site.url }}/post_files/fog-outdoor/fog_animated.gif){: .img-full}]({{ site.url }}/post_files/fog-outdoor/fog_animated.gif){: .img-open}
 

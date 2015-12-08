@@ -2,8 +2,8 @@
 layout: post
 title: "Developer conference Wireless Battle of the Mesh V8"
 description: "Battlemesh V8 - August 3rd-9th - Maribor"
-category: 
-tags: []
+category: KORUZA
+tags: [KORUZA, Events]
 ---
 {% include JB/setup %}
 

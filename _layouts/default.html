@@ -10,17 +10,18 @@
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/bootstrap.min.css">
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/styles.css">
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/fonts\font-awesome-4.5.0/css/font-awesome.min.css"> 
     <!-- Magnific Popup core CSS file -->
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/magnific-popup.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
-  
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
 
   </head>
 
@@ -28,6 +29,7 @@
     <div class="navbar navbar-default navbar-static-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
+
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -41,6 +43,9 @@
             {% assign pages_list = site.pages | sort: 'weight' %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
+            <!--<li id="nav-break" class="nav-conect"><a href="http://irnas.eu/collaboration.html">test</a></li>
+            <li class="nav-conect"><a href="http://irnas.eu/collaboration.html">test</a></li>
+            <li class="nav-conect"><a href="http://irnas.eu/collaboration.html">test</a></li>-->
           </ul>
           <!--form class="navbar-form navbar-right" role="search">
             <div class="form-group">
@@ -55,39 +60,111 @@
 
     <div class="container {{ page.special }}">
         {{ content }}
-         <footer>
+    </div>
+     <div class="pre-footer">
           <hr>
             <p>Institute IRNAS is supported by:</p>
-            <a href="https://www.shuttleworthfoundation.org/" target="_blank">
-            <img class="img-supporter" src="{{ site.url }}/images/shuttleworth-funded.png" alt="The Shuttleworth Foundation" title="The Shuttleworth Foundation"></a>
-            <hr>
-            <p>Copyright &copy; 2015 - IRNAS</p>
-            <p><small>Hosted on GitHub Pages</small></p>
-          </footer>
-        </div>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script src="{{ ASSET_PATH }}/javascripts/scale.fix.js"></script>
-        <script src="{{ ASSET_PATH }}/javascripts/bootstrap.min.js"></script>
+            <a href="https://www.shuttleworthfoundation.org/" target="_blank" id="img-supporter">
+              <img class="img-supporter" src="/images/shuttleworth-funded.png" alt="The Shuttleworth Foundation" title="The Shuttleworth Foundation">
+            </a>
+    </div>
+      <footer>
+        <div class="container">
+          <div class="row">
 
+          <div class="col-sm-3">
+            <h4>More info</h4>
+            <ul>
+              <li><a href="../about.html">About</a></li>
+              <li><a href="../license.html">License</a></li>
+              <li><a href="../team.html">Team</a></li>
+              <li><a href="../vacancies.html">Get involved</a></li>
+
+            </ul>
+  
+          </div>
+
+        <div class="col-sm-3">
+            <h4>Projects</h4>
+            <ul>
+              <li><a href="http://koruza.net/" target="_blank">Koruza</a></li>
+              <li><a href="http://goodenoughcnc.eu/" target="_blank">GoodEnoughCNC</a></li>
+              
+            </ul>
+        </div>
+        <div class="col-sm-3">
+          <h4>Contact us</h4>
+            <p><a href="mailto:info@irnas.eu">info@irnas.eu</a></p>
+          <h4>Connect</h4>
+         <a href="https://www.facebook.com/instituteirnas" target="_blank"><i class="fa fa-facebook-square"></i></a>
+         <a href="https://twitter.com/institute_irnas" target="_blank"><i class="fa fa-twitter-square"></i></a>
+         <a href="https://www.linkedin.com/company/5091007?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2145770871449478448235%2CVSRPtargetId%3A5091007%2CVSRPcmpt%3Aprimary" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+         <a href="https://github.com/IRNAS" target="_blank"><i class="fa fa-github-square"></i></a>
+        </div>
+
+          <div class="col-sm-3">
+          <!-- Begin MailChimp Signup Form -->
+              <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+              <div id="mc_embed_signup">
+              <form action="//irnas.us11.list-manage.com/subscribe/post?u=b5c1933275a02f111e7bf5c55&amp;id=57fc45ec74" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                  <div id="mc_embed_signup_scroll">
+                <h2></h2>
+              <div class="mc-field-group">
+                <h5>Get updates about our projects:</h5>
+                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address ">
+              </div>
+                <div id="mce-responses" class="clear">
+                  <div class="response" id="mce-error-response" style="display:none"></div>
+                  <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b5c1933275a02f111e7bf5c55_57fc45ec74" tabindex="-1" value=""></div>
+                  <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                  </div>
+              </form>
+              </div>
+              <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+              <!--End mc_embed_signup-->
+          </div>
+
+          </div>
+          <hr>
+          <div id="copy">
+            <p>Copyright &copy; 2015 -  This work is licensed under Creative Commons Attribution-ShareAlike 4 .0 Unported License</p>
+            <p><small>Hosted on GitHub Pages</small></p>
+          </div>
+        </div>
+          </footer>
+    
+        
     </div>
 
-    {% include JB/analytics %}
+<script src="{{ ASSET_PATH }}/javascripts/scale.fix.js"></script>
+<script src="{{ ASSET_PATH }}/javascripts/bootstrap.min.js"></script>
+<!-- Magnific Popup core JS file -->
+<script src="{{ ASSET_PATH }}/javascripts/jquery.magnific-popup.js"></script>
+<script>
+$(document).ready(function() {
+$('.popup-gallery').magnificPopup({
+    delegate: '.img-open',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+      titleSrc: function(item) {
+        return item.el.attr('alt') + '<small>by IRNAS</small>';
+      }
+    }
+  });
 
-    <!-- Magnific Popup core JS file -->
-    <script src="{{ ASSET_PATH }}/javascripts/jquery.magnific-popup.js"></script>
-    <script type="text/javascript">
-    $(document).ready(function() {
-        $('.image-popup-vertical-fit').magnificPopup({
-        type: 'image',
-        closeOnContentClick: true,
-        mainClass: 'mfp-img-mobile',
-        image: {
-          verticalFit: true
-        }
-    
-      });
 
-        $('.image-popup-no-margins').magnificPopup({
+
+  $('.image-popup-no-margins').magnificPopup({
     type: 'image',
     closeOnContentClick: true,
     closeBtnInside: false,
@@ -101,7 +178,10 @@
       duration: 300 // don't foget to change the duration also in CSS
     }
   });
-    });
-    </script>
+
+});
+</script>
+
+
   </body>
 </html>

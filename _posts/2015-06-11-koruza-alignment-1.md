@@ -2,8 +2,8 @@
 layout: post
 title: "KORUZA alignment algorithm development setup"
 description: "Alignment algorithm to retain KORUZA link operation under various environmental disturbances"
-category: 
-tags: []
+category: KORUZA
+tags: [Alignment algorithm, KORUZA, Development]
 ---
 {% include JB/setup %}
 
@@ -17,4 +17,4 @@ Once a stable algorithm design was obtained, we have implemented the algorithm i
 
 At this stage, algorithm has proved to be functional in some situations, where initial misalignment is minor. Future development now aims to increase the robustness of the design for all possible cases. We have experienced how vital it is to implement a reliable and stable communication between the two units for the algorithm operations between units to synchronise them and this boost motivation for development of [enhanced management link]({{ site.url }}/2015/05/20/koruza-electronics-modules/) .
 
-![algorithm]({{ site.url }}/downloads/KORUZA_algorithm/alignment_plan.png)
+[![algorithm]({{ site.url }}/downloads/KORUZA_algorithm/alignment_plan.png){: .img-full}]({{ site.url }}/downloads/KORUZA_algorithm/alignment_plan.png){: .img-open}

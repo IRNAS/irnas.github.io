@@ -2,8 +2,8 @@
 layout: post
 title: "Logarithm calculation in integer only system"
 description: "Logarithm calculation for nodemcu integer for ES8266"
-category: 
-tags: []
+category: Other Projects
+tags: [Logarithm calculation]
 ---
 {% include JB/setup %}
 
@@ -17,4 +17,4 @@ We are introducing two methods, one calculating the logarithm using only basic o
 For the given length, both functions have very similar performance in timing and lengths, calculation approach being slower but smaller and lookup approach being faster but larger. Full details on the mathematical operation of these functions and reasoning behind them is present in the note [Implementation of Logarithmic Calculation Using Integer
 Arithmetic on LUA without libraries]({{ site.url }}/downloads/logApprox/logApprox.pdf). The plot below shows the approximated values in integer arithmetic and the continuous values. 
 
-![log approximation]({{ site.url }}/downloads/logApprox/f5.png)
+[![log approximation]({{ site.url }}/downloads/logApprox/f5.png){: .img-full}]({{ site.url }}/downloads/logApprox/f5.png){: .img-open}

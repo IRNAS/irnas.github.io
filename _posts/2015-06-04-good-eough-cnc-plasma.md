@@ -2,8 +2,8 @@
 layout: post
 title: "Good-enough useful-open-hardware CNC/Plasma cutter - Plasma cutter selection"
 description: "Introducing good-enough machine design and overview of CNC/plasma design in the works"
-category: 
-tags: []
+category: GoodEnoughCNC
+tags: [CNC, Plasma, GoodEnoughCNC, Development]
 ---
 {% include JB/setup %}
 
@@ -13,8 +13,9 @@ A Slovenian welding supply company [Varesi](http://www.varesi.si/) has kindly in
 
 From a selection of several vendors, we have set our eyes on two machines, the mid-end [Cebora Power Plasma 3035/M](http://www.cebora.it/art_279_presentazione_prod_uk.html) and low-end range Chinese BMF CUT 50M [as on Amazon](http://www.amazon.de/NTF-Druckluft-Plasmaschneider-Inverter-Schneiden/dp/B00VE6PCMK) or [Varesi website](http://www.varesi.si/trgovina/varilni-aparati/bmp/inverterske-plazme-bmp/bmp-cut-50m), sold in numerous varieties under a number of different brand names and about the tenth of the cost of the high-end machine.
 
-![good enough plasma]({{ site.url }}/downloads/plasma/14.jpg)
-![good enough plasma]({{ site.url }}/downloads/plasma/15.jpg)
+[![good-enough-plasma]({{ site.url }}/downloads/plasma/14.jpg){: .img-half} ]({{ site.url }}/downloads/plasma/14.jpg){: .img-open}
+
+[![good-enough-plasma-2]({{ site.url }}/downloads/plasma/15.jpg){: .img-half} ]({{ site.url }}/downloads/plasma/15.jpg){: .img-open}
 
 Unfortunately, we did not manage to try out the plasma on the machine on site, due to that days tight schedule and the requirement to introduce some modifications. We did however try out the plasma cutters the old fashion way - by hand. After switching from BMF to Cebora, we experienced a clear difference in the simplicity of establishing the arc (Cebora HF start is of great help) and the smoothness of the cut. However lacking previous experience with such tools, we made cuts of reasonable quality with either machine. When the low-end machine was handled by experienced professionals, the cuts made were of similar quality to the mid-end one.
 
@@ -37,4 +38,4 @@ The disassembly of the CUT50M device has shown that voltage measurement probes c
 
 Currently, we are finalizing the connections to the control electronics and designing a mounting element to attach the torch to the Z axis. We should be cutting metal in a few days.
 
-![good enough plasma]({{ site.url }}/downloads/plasma/16.jpg)
+[![good enough plasma]({{ site.url }}/downloads/plasma/16.jpg){: .img-full}]({{ site.url }}/downloads/plasma/16.jpg){: .img-open}

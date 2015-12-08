@@ -2,8 +2,8 @@
 layout: post
 title: "Wireless optical system KORUZA - London and San Francisco/Berkeley tour"
 description: "A number of presentations, demo sessions and cool events."
-category: 
-tags: []
+category: [IRNAS, KORUZA]
+tags: [Events]
 ---
 {% include JB/setup %}
 
@@ -17,4 +17,4 @@ With the nearing release of [wireless optical system KORUZA](http://koruza.net),
  
 Attend an event, see and play with KORUZA, get in touch if you are in the area!
 
-![koruza]({{ site.url }}/post_files/bay_area/koruza_backpack.jpg)
+[![koruza]({{ site.url }}/post_files/bay_area/koruza_backpack.jpg)]({{ site.url }}/post_files/bay_area/koruza_backpack.jpg){: .img-open}

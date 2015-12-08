@@ -2,8 +2,8 @@
 layout: post
 title: "Useful-source open hardware"
 description: "Introducing a new concept of open hardware."
-category: 
-tags: []
+category: Other Projects 
+tags: [Useful Source, Open Source Hardware]
 ---
 {% include JB/setup %}
 

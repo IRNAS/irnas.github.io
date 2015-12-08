@@ -2,8 +2,8 @@
 layout: post
 title: "Shuttleworth Foundation Fellow: Luka Mustafa"
 description: "Shuttleworth Foundation Fellowship announced."
-category: 
-tags: []
+category: IRNAS
+tags: [Shuttleworth fellows, Future]
 ---
 {% include JB/setup %}
 
