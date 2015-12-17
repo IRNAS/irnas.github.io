@@ -14,7 +14,7 @@ We've made some modification to our table CNC mill, so it is suitable for high s
 
 Because of the die, we simplified prototyping of two sided PCB boards: if the origin for milling is taken at the center of the PCB we can easily turn over for second side milling with no need to take or measure origin the second time. 
 
-Once the aluminum die is leveled,  measured for parallelism and permanently fixed with fixing screws on the CNC table, we don't have the need for warp compensation programs, since plates are parallel in +-0,03mm tolerance.
+Once the aluminum die is leveled,  measured for parallelism and permanently fixed with fixing screws on the CNC table, we have no need for warp compensation programs, since plates are parallel in +-0,03mm tolerance.
 
 [![CNC-Mill-PCB-2]({{ site.url }}/post_files/cnc-pcb/cnc-pcb-1.jpg){: .img-half}]({{ site.url }}/post_files/cnc-pcb/cnc-pcb-1.jpg){: .img-open}
 [![CNC-Mill-PCB-3]({{ site.url }}/post_files/cnc-pcb/cnc-pcb-3.JPG){: .img-half}]({{ site.url }}/post_files/cnc-pcb/cnc-pcb-3.JPG){: .img-open}
