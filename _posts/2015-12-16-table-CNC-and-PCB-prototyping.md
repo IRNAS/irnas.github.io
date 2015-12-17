@@ -16,7 +16,7 @@ Because of the die, we simplified prototyping of two sided PCB boards: if the or
 
 Once the aluminum die is leveled,  measured for parallelism and permanently fixed with fixing screws on the CNC table, we don't have the need for warp compensation programs, since plates are parallel in +-0,03mm tolerance.
 
-[![CNC-Mill-PCB-2]({{ site.url }}/post_files/cnc-pcb/cnc-pcb-1.JPG){: .img-half}]({{ site.url }}/post_files/cnc-pcb/cnc-pcb-1.JPG){: .img-open}
+[![CNC-Mill-PCB-2]({{ site.url }}/post_files/cnc-pcb/cnc-pcb-1.jpg){: .img-half}]({{ site.url }}/post_files/cnc-pcb/cnc-pcb-1.jpg){: .img-open}
 [![CNC-Mill-PCB-3]({{ site.url }}/post_files/cnc-pcb/cnc-pcb-3.JPG){: .img-half}]({{ site.url }}/post_files/cnc-pcb/cnc-pcb-3.JPG){: .img-open}
 
 
