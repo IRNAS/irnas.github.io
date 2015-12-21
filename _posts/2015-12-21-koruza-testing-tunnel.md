@@ -11,8 +11,8 @@ tags: [KORUZA, Testing Tunnel, Testing]
 Recently, we started the construction and development of [KORUZA](http://koruza.net/){:target="_blank"} test facility, the first open-source testing facility, primarily applicable for conducting experimental work on free space optical (FSO) communication systems, but also relevant for extensive analysis of any other free space systems utilising laser or other wireless, light propagating
 technology.
 
-[![tunnel]({{ site.url }}/post_files/tunnel/tunel6.jpg){: .img-half}]({{ site.url }}/post_files/tunnel/tunel6.jpg){: .img-open}
-[![tunnel]({{ site.url }}/post_files/tunnel/tunel8.jpg){: .img-half}]({{ site.url }}/post_files/tunnel/tunel8.jpg){: .img-open}
+[![tunnel]({{ site.url }}/post_files/tunnel/tunel6.JPG){: .img-half}]({{ site.url }}/post_files/tunnel/tunel6.JPG){: .img-open}
+[![tunnel]({{ site.url }}/post_files/tunnel/tunel8.JPG){: .img-half}]({{ site.url }}/post_files/tunnel/tunel8.JPG){: .img-open}
 
 The leading objective is to provide comprehensive, well rounded set of experiments and tests, sufficient to assess the performance of the FSO system in various, naturally occurring conditions. We aim to introduce alternative test methods and procedures, providing good-enough results for development purposes at affordable price and made them freely available to the research community. 
 
