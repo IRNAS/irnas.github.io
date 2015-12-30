@@ -3,6 +3,7 @@ layout: default
 special: post full
 ---
 {% include JB/setup %}
+<div class="container">
 <div class="row-fluid">
   <div class="col-sm-8 blog-content post-content">
 <div class="header">
@@ -15,13 +16,13 @@ special: post full
       {{ content }}
     </div>
 
-  {% unless page.categories == empty %}
+  <!--{% unless page.categories == empty %}
     <ul class="tag_box inline">
       <li><i class="glyphicon glyphicon-open"></i></li>
       {% assign categories_list = page.categories %}
       {% include JB/categories_list %}
     </ul>
-  {% endunless %}  
+  {% endunless %} --> 
 
   {% unless page.tags == empty %}
     <ul class="tag_box inline">
@@ -54,4 +55,4 @@ special: post full
     {% include sidebar.html %}
   </div>
 </div>
-
+</div>
