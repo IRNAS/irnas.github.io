@@ -1,4 +1,4 @@
-This is the website of Institute IRNAS - http://irnas.eu/, Institute for Development of Advanced Applied Systems. We are applying today's knowledge to create systems for an open future. Currently, we are working on two bigger projects: KORUZA, open source and open hardware, wireless optical system - http://koruza.net/ and GoodEnoughCNC, low cost plasma cutter - http://goodenoughcnc.eu/. 
+This is the website of Institute IRNAS - http://irnas.eu/, Institute for Development of Advanced Applied Systems. We are applying today's knowledge to create systems for an open future. Currently, we are working on two bigger projects: [KORUZA](http://koruza.net/), open source and open hardware, wireless optical system and [GoodEnoughCNC](http://goodenoughcnc.eu/), low cost plasma cutter. 
 
 ---
 
