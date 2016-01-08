@@ -3,7 +3,7 @@ layout: post
 title: "Bring your ideas to life in KreatorLab!"
 description: "KreatorLab is fully equipped to put your ideas into action."
 category: KreatorLab
-tags: [KreatorLab]
+tags: [KreatorLab, Making]
 ---
 {% include JB/setup %}
 

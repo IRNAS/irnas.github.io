@@ -3,7 +3,7 @@ layout: post
 title: "3D printed Christmas decoration"
 description: "3D printed lanterns are a great decoration idea for this Christmas."
 category: KreatorLab
-tags: [KreatorLab, Fun]
+tags: [KreatorLab, Making]
 ---
 {% include JB/setup %}
 
