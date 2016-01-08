@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First week of 2016 was busy in Kreator Lab"
-description: "Kreator Lab's doors are open for everyone who want to create something."
+description: "Kreator Lab's door is open for everyone who wants to create something."
 category: KreatorLab
 tags: [KreatorLab, Making]
 ---
