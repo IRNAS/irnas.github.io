@@ -13,5 +13,5 @@ Today, all our team tried something new, we've been learning some welding basics
 [![welding-workshop-1]({{ site.url }}/post_files/welding-workshop/welding-1.jpg){: .img-half}]({{ site.url }}/post_files/welding-workshop/welding-1.jpg){: .img-open}
 [![welding-workshop-2]({{ site.url }}/post_files/welding-workshop/welding-2.jpg){: .img-half}]({{ site.url }}/post_files/welding-workshop/welding-2.jpg){: .img-open}
 
-[![welding-workshop-3]({{ site.url }}/post_files/welding-workshop/welding-3.jpg){: .img-half}]({{ site.url }}/post_files/welding-workshop/welding-3.jpg){: .img-open}
-[![welding-workshop-4]({{ site.url }}/post_files/welding-workshop/welding-4.jpg){: .img-half}]({{ site.url }}/post_files/welding-workshop/welding-4.jpg){: .img-open}
+[![welding-workshop-3]({{ site.url }}/post_files/welding-workshop/welding-3.JPG){: .img-half}]({{ site.url }}/post_files/welding-workshop/welding-3.JPG){: .img-open}
+[![welding-workshop-4]({{ site.url }}/post_files/welding-workshop/welding-4.JPG){: .img-half}]({{ site.url }}/post_files/welding-workshop/welding-4.JPG){: .img-open}
