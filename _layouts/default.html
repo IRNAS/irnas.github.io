@@ -14,7 +14,6 @@
     <!-- Magnific Popup core CSS file -->
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/magnific-popup.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -67,7 +66,7 @@
       </div>
     </div>
 
-    <div class="container {{ page.special }}">
+    <div class=" {{ page.special }}">
         {{ content }}
     </div>
      <div class="pre-footer">
@@ -148,11 +147,14 @@
     
         
     </div>
-
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="{{ ASSET_PATH }}/javascripts/scale.fix.js"></script>
 <script src="{{ ASSET_PATH }}/javascripts/bootstrap.min.js"></script>
 <!-- Magnific Popup core JS file -->
 <script src="{{ ASSET_PATH }}/javascripts/jquery.magnific-popup.js"></script>
+<!--paralax-->
+<script src="{{ ASSET_PATH }}/javascripts\parallax.js-1.3.1/parallax.js"></script>
 <script>
 $(document).ready(function() {
 $('.popup-gallery').magnificPopup({
