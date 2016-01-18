@@ -22,4 +22,4 @@ Last week, IRNAS team also spent quite some time in Kreator Lab. We were learnin
 [![kreatorlab-5]({{ site.url }}/post_files/kreatorlab-week-2/klab-5.JPG){: .img-half}]({{ site.url }}/post_files/welding-workshop/welding-2.jpg){: .img-open}
 [![kreatorlab-5]({{ site.url }}/post_files/kreatorlab-week-2/klab-6.JPG){: .img-half}]({{ site.url }}/post_files/welding-workshop/welding-2.jpg){: .img-open}
 
-Do you have any projects, where you could benefit from [Kreator Lab’s machine tools](http://www.kreatorlab.si/oprema/){:target="_blank"}?
+Are you working on some projects, where you could benefit from [Kreator Lab’s machine tools](http://www.kreatorlab.si/oprema/){:target="_blank"}?
