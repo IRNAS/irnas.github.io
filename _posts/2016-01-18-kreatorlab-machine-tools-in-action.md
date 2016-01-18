@@ -8,7 +8,7 @@ tags: [KreatorLab, Making]
 {% include JB/setup %}
 
 
-One of the door handles in [Kreator Lab](http://www.kreatorlab.si/){:target="_blank"} got broken.Instead of buying a new one, they’ve made one. Dušan designed it  and our [Troublemaker](http://irnas.eu/services.html){:target="_blank"} printed it out. Now it opens the door to the storage room, serving its function perfectly.
+One of the door handles in [Kreator Lab](http://www.kreatorlab.si/){:target="_blank"} got broken. Instead of buying a new one, they’ve made one. Dušan designed it  and our [Troublemaker](http://irnas.eu/services.html){:target="_blank"} printed it out. Now it opens the door to the storage room, serving its function perfectly.
 
 [![kreatorlab-1]({{ site.url }}/post_files/kreatorlab-week-2/klab-1.jpg){: .img-full}]({{ site.url }}/post_files/welding-workshop/welding-1.jpg){: .img-open}
 
