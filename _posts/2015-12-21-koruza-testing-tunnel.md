@@ -3,7 +3,7 @@ layout: post
 title: "KORUZA test facility and fog experiment"
 description: "Recently, we started the construction and development of KORUZA test facility, the first open-source testing facility, primarily applicable for conducting experimental work on free space optical (FSO) communication systems."
 category: KORUZA
-tags: [KORUZA, Testing Tunnel, Testing]
+tags: [KORUZA, Testing Tunnel, Testing, Experiment]
 ---
 {% include JB/setup %}
 
