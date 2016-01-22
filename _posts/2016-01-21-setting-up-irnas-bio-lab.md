@@ -18,5 +18,5 @@ Our plan is to use existing low cost and DIY tools to create a functional labora
 
 Our new lab will be used for high-end research in the fields we believe will shape our future, such as urban farming, biomaterials combined with 3D printing and nanotechnology and sustainable development.
 
-Once the Lab is up and running, we will also offer lectures, discussions and workshops for those interested in life sciences, and provide help and opportunity to those, who wish to start their own projects.
+Once the Lab is up and running, we will also offer lectures, discussions and workshops for those interested in life sciences and provide help and opportunity to those, who wish to start their own projects.
 
