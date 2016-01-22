@@ -7,7 +7,7 @@ tags: [BioLab]
 ---
 {% include JB/setup %}
 
-Institute IRNAS is expanding! We are widening our research in the areas of biological and biomedical science by setting up new facilities with an open/DIY biolaboratory. Boštjan, who is joining our team in February, is going to work full time to make Bio lab a reality.
+Institute IRNAS is expanding! We are widening our research in the areas of biological and biomedical science by setting up an open biolaboratory, building on the existing knowledge in the open hardware field and relying on the open hardware machine tools IRNAS has developed so far. Boštjan, who is joining our team in February, is going to work full time to make Bio lab a reality.
 
 [![bio-lab-1]({{ site.url }}/post_files/biolab/bostjan-biolab.jpg){: .img-half}]({{ site.url }}/post_files/biolab/bostjan-biolab.jpg){: .img-open}
 [![bio-lab-2]({{ site.url }}/post_files/biolab/biolab.png){: .img-half}]({{ site.url }}/post_files/biolab/biolab.png){: .img-open}
