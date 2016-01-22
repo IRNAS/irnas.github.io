@@ -9,7 +9,7 @@ tags: [BioLab]
 
 Institute IRNAS is expanding! We are widening our research in the areas of biological and biomedical science by setting up an open biolaboratory.
 
-We are happy to announce that Boštjan, a Biomimmeticist with a PhD in Biology from RWTH Aachen University with several years of research experience in joining our team in February. He is going to work with us full time to make Bio lab a reality.
+We are happy to announce that Boštjan, a Biomimmeticist with a PhD in Biology from RWTH Aachen University with several years of research experience is joining our team in February. He is going to work with us full time to make Bio lab a reality.
 
 [![bio-lab-1]({{ site.url }}/post_files/biolab/bostjan-biolab.jpg){: .img-half}]({{ site.url }}/post_files/biolab/bostjan-biolab.jpg){: .img-open}
 [![bio-lab-2]({{ site.url }}/post_files/biolab/biolab.png){: .img-half}]({{ site.url }}/post_files/biolab/biolab.png){: .img-open}
