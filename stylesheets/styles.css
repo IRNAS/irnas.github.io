@@ -868,3 +868,7 @@ body {
   background-color: #7FC649;
   border-color:#7FC649;
 }
+
+.bio .col-md-3{
+  padding:0px 20px;
+}
