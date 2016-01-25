@@ -2,8 +2,8 @@
 layout: post
 title: "Setting up IRNAS Bio Lab!"
 description: "IRNAS institute is expanding! We are widening our research in the areas of biological and biomedical science by setting up new facilities with an open/DIY biolaboratory."
-category: BioLab
-tags: [BioLab]
+category: symbiolab
+tags: [symbiolab]
 ---
 {% include JB/setup %}
 
