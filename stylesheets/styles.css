@@ -183,7 +183,7 @@ filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><
 
 .tag_box a {
   padding: 3px 6px;
-  margin: 2px;
+  margin: 2px !important;
   background: #D3EBC0;
   color: #555;
   border-radius: 3px;
