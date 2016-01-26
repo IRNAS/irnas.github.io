@@ -40,6 +40,6 @@ To create functioning and standardized solutions, we need to control every compo
 * __Fume hood:__
 Preparation of biological samples, often requires the use of volatile and dangerous chemicals. To ensure safety at work, fume hoods are used, in which various toxic fumes are constantly drained from the workspace.
 
-We'll be very grateful for donations of the above equipment or any other tools from our full [list of to-be acquired equipment](https://www.checkli.com/s/HKTxe0kp){:target="_blank"}.
+**We'll be very grateful for donations of the above equipment or any other tools from our full [list of to-be acquired equipment](https://www.checkli.com/s/HKTxe0kp){:target="_blank"}.**
 
 **Please share and help us bring symbiolab to life!**
