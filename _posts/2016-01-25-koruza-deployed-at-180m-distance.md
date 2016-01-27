@@ -10,7 +10,7 @@ tags: [KORUZA, Deployment]
 This Friday we have deployed the latest [KORUZA 1.0 units](http://koruza.net/){:target="_blank"} at [Institute Jožef Stefan](https://www.ijs.si/ijsw){:target="_blank"}, the Slovenian national research laboratory, between buildings at 180m distance, pushing [KORUZA](http://koruza.net/){:target="_blank"} beyond the design limit. 
 
 
-The [installation](https://github.com/IRNAS/KORUZA-instructions/blob/gh-pages/KORUZA-User-Guide.md#Koruza-Mounting){:target="_blank"} process was very straightforward, aiming the units at each other with green alignment lasers and performing the coarse alignment with the manual alignment mechanism that is a part of enclosure and requires only a metric 17 wrench. Just with that we managed to establish the optical link and only later used the motorized alignment to optimize it. 
+The [installation](http://instructions.koruza.net/user-manual#Koruza-Mounting){:target="_blank"} process was very straightforward, aiming the units at each other with green alignment lasers and performing the coarse alignment with the manual alignment mechanism that is a part of enclosure and requires only a metric 17 wrench. Just with that we managed to establish the optical link and only later used the motorized alignment to optimize it. 
 
 
 [![koruza-lj-deployment-1]({{ site.url }}/post_files/koruza-lj-deployment/lj-deployment-1.jpg){: .img-half}]({{ site.url }}/post_files/koruza-lj-deployment/lj-deployment-1.jpg){: .img-open}
