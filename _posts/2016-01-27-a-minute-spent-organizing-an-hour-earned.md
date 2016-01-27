@@ -20,7 +20,7 @@ The development part of our work is done in [KreatorLab](http://www.kreatorlab.s
 [![workshop-1]({{ site.url }}/post_files/organizing/workshop-1.jpg){: .img-half}]({{ site.url }}/post_files/organizing/workshop-1.jpg){: .img-open}
 [![workshop-2]({{ site.url }}/post_files/organizing/workshop-2.jpg){: .img-half}]({{ site.url }}/post_files/organizing/workshop-2.jpg){: .img-open}
 
-Eva spiced the whole reorganizing and tidying things up with a small project - a special tool casing. She first took a photo of the tools, then she drew the design, printed it out on the paper just to make sure everything is on its place,  cut it out of the 5mm plywood on our [laser cutter](http://irnas.eu/irnas/2016/01/01/new-machine-in-the-house/){:target="_blank"} and glued it all together. Simple, functional and it looks great! 
+Eva spiced the whole reorganizing and tidying things up with a small project - a special tool casing. She first took a photo of the tools, then she drew the design, printed it out on the paper just to make sure everything is on its place,  cut it out of the 6mm plywood on our [laser cutter](http://irnas.eu/irnas/2016/01/01/new-machine-in-the-house/){:target="_blank"} and glued it all together. Simple, functional and it looks great! 
 
 [![tool-case-1]({{ site.url }}/post_files/organizing/tool-case-1.jpg){: .img-half}]({{ site.url }}/post_files/organizing/tool-case-1.jpg){: .img-open}
 [![tool-case-2]({{ site.url }}/post_files/organizing/tool-case-2.jpg){: .img-half}]({{ site.url }}/post_files/organizing/tool-case-2.jpg){: .img-open}
