@@ -2,8 +2,8 @@
 layout: post
 title: "Treasure hunt for symbiolab equipment!"
 description: "The first hurdle on our way to awesome open-source bioscience is getting symbiolab, open bio lab up and running. We will be pursuing this goal over the course of this year in 3 stages. "
-category: symbiolab
-tags: [symbiolab]
+category: Bio lab symbiolab
+tags: [Bio lab, symbiolab]
 ---
 {% include JB/setup %}
 
