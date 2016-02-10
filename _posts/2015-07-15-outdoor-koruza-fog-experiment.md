@@ -7,7 +7,7 @@ tags: [KORUZA, Fog, Experiment]
 ---
 {% include JB/setup %}
 
-We have [proposed and prototyped]({{ site.url }}/koruza/2015/06/26/indoor-koruza-fog-experiment){target="_blank"} an artificial fog experiment to evaluate its impact on wireless optical system [KORUZA](http://koruza.net){target="_blank"}, more specifically the correlation between the presence of aerosol particles in the atmosphere on wireless optical link performance. Unfortunately, no relevant data could be collected due to numerous obstacles faced during the experiment, nevertheless we gained very valuable experience about the system performance under challenging conditions and rethought the experiment design. 
+We have [proposed and prototyped]({{ site.url }}/koruza/2015/06/26/indoor-koruza-fog-experiment) an artificial fog experiment to evaluate its impact on wireless optical system [KORUZA](http://koruza.net), more specifically the correlation between the presence of aerosol particles in the atmosphere on wireless optical link performance. Unfortunately, no relevant data could be collected due to numerous obstacles faced during the experiment, nevertheless we gained very valuable experience about the system performance under challenging conditions and rethought the experiment design. 
 
 As planned we set up a 50m long outdoor tunnel, using tables and clear PVC foil as shown below. Corridor proved to be easy to assemble, while still creating satisfactory conditions for the experiment.
 

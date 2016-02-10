@@ -16,7 +16,7 @@ General guidelines for good-enough machine design:
  * maximal impact versus complexity - how many useful thing you can make with the machine without increasing its complexity
  * low entry barrier - should use only standard widely available assembly parts and material and be constructed with basic tools
  * bootstrap / self-replicating design - use the bare minimal version of the machine to build better quality parts and upgrades
- * open-source open-hardware documented using [useful source]({{ site.url }}/2015/03/08/useful-source) documentation
+ * open-source open-hardware documented using [useful source]({{ site.url }}/other%20projects/2015/03/08/useful-source) documentation
  
 Outer enclosure of KORUZA system is constructed out of standard sheet metal and square tubing elements cut into shape, currently performed by high specialized companies. [Open Source ecology Compressed Earth Brick press](http://opensourceecology.org/portfolio/ceb-press/) can leverage the same machine for building it.
 
