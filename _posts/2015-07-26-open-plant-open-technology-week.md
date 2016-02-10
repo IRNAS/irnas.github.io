@@ -14,7 +14,7 @@ Open Technology Week is an annual effort of [OpenPlant](http://openplant.org) an
 * No well established methodology for creating high-quality open releases
 * Every open hardware replication is a fork and thus unique
 
-Earlier this year we have introduced the [Useful Source]({{site.url }}/2015/03/08/useful-source) concept addressing exactly these issues with the goal to introduce good practices enabling:
+Earlier this year we have introduced the [Useful Source]({{site.url }}/other%20projects/2015/03/08/useful-source) concept addressing exactly these issues with the goal to introduce good practices enabling:
 
 * Well-defined documentation flow from first information about the project to sources and replication instructions
 * Automatic wizard-like tools for documenting a project with minimal effort

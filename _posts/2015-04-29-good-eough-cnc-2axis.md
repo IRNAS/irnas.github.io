@@ -7,7 +7,7 @@ tags: [GoodEnoughCNC, CNC, Plasma, Design, Prototype]
 ---
 {% include JB/setup %}
 
-Continuing the development work described in our [ previous blog]({{ site.url }}/2015/04/16/good-eough-cnc-intro/) of a single axis prototype, we have now constructed a 2-axis prototype. First tests have proven to be very successful, with smooth motion and mechanical strength to sustain repeated motion under approximately 70kg of vertical load. 
+Continuing the development work described in our [ previous blog]({{ site.url }}/goodenoughcnc/2015/04/16/good-eough-cnc-intro) of a single axis prototype, we have now constructed a 2-axis prototype. First tests have proven to be very successful, with smooth motion and mechanical strength to sustain repeated motion under approximately 70kg of vertical load. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/436FoAMxD0M" frameborder="0" allowfullscreen></iframe>
 

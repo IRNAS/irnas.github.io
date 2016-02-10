@@ -7,7 +7,7 @@ tags: [KORUZA, Testing]
 ---
 {% include JB/setup %}
 
-Recently we have started with the development of a revised version of the [alignment algorithm]({{ site.url }}/2015/08/19/alignment-algorithm-revised/), designed to automatically fine-adjust pointing direction in order to optimise the link margin, either during initial alignment process or on operating link. Before implementation on the new [KORUZA 1.0 system]({{ site.url }}/2015/07/06/koruza-v10-redesign/), we performed rigorous testing of the algorithm in simulated environment in different stages, to guarantee optimal performance.
+Recently we have started with the development of a revised version of the [alignment algorithm]({{ site.url }}/koruza/2015/08/19/alignment-algorithm-revised), designed to automatically fine-adjust pointing direction in order to optimise the link margin, either during initial alignment process or on operating link. Before implementation on the new [KORUZA 1.0 system]({{ site.url }}/koruza/2015/07/06/koruza-v10-redesign), we performed rigorous testing of the algorithm in simulated environment in different stages, to guarantee optimal performance.
 
 The first step was to designed a model of the KORUZA system, simulating behaviour of two operational units in Matlab environment. Then Model in Loop (MIL) based testing was used to verify that the algorithm design is functional and implementable. Simultaneous alignment of two units was performed under various conditions, such as gradual signal loss, sudden change in position of the unit and and gradual movement due to temperature variations. Basic stopping and starting conditions were developed based on the response in those situations. 
 

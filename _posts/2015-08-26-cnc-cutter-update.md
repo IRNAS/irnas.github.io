@@ -7,7 +7,7 @@ tags: [GoodEnoughCNC, Development, CNC]
 ---
 {% include JB/setup %}
 
-The past week we have focused on finalizing the [GoodenoughCNC Plasma cutter]({{ site.url }}/2015/06/11/good-eough-cnc-cutting/), thus working towards the release. After extensive testing and evaluation of several options we optimized Z axis dimensions and reduced the number of assembly parts. Z stage in particular has been an interesting challenge for which we have designed 3 different solutions, each with particular benefit. Mounting of the three solutions has now been unified with mounting hinges, enabling simple servicing of the cutting torch as well as swapping the whole Z stage in the go, particularly suitable for multi-function machines.
+The past week we have focused on finalizing the [GoodenoughCNC Plasma cutter]({{ site.url }}/goodenoughcnc/2015/06/11/good-eough-cnc-cutting), thus working towards the release. After extensive testing and evaluation of several options we optimized Z axis dimensions and reduced the number of assembly parts. Z stage in particular has been an interesting challenge for which we have designed 3 different solutions, each with particular benefit. Mounting of the three solutions has now been unified with mounting hinges, enabling simple servicing of the cutting torch as well as swapping the whole Z stage in the go, particularly suitable for multi-function machines.
 
 [![cutter]({{ site.url }}/post_files/cnc-cutter3/cutter2.JPG){: .img-full}]({{ site.url }}/post_files/cnc-cutter3/cutter2.JPG){: .img-open}
 

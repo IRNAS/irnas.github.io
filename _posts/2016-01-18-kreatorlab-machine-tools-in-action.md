@@ -12,7 +12,7 @@ One of the door handles in [Kreator Lab](http://www.kreatorlab.si/){:target="_bl
 
 [![kreatorlab-1]({{ site.url }}/post_files/kreatorlab-week-2/klab-1.jpg){: .img-full}]({{ site.url }}/post_files/kreatorlab-week-2/klab-1.jpg){: .img-open}
 
-Last week, IRNAS team also spent quite some time in Kreator Lab. We were learning a new skill at [the welding workshop](http://irnas.eu/other%20projects/2016/01/15/welding-workshop/){:target="_blank"} and we were making the first series of [turtle tag enclosures](http://irnas.eu/other%20projects/2016/01/14/turtle-tag-enclosure/){:target="_blank"}. This project was a nice challenge for CNC-mill. It cut aluminium and demonstrated that it knows how to three-dimensionally cut Plexiglas. A final step was made on [the new laser cutter](http://irnas.eu/irnas/2016/01/01/new-machine-in-the-house/){:target="_blank"}, which engraved some text on the enclosures.
+Last week, IRNAS team also spent quite some time in Kreator Lab. We were learning a new skill at [the welding workshop](http://irnas.eu/other%20projects/2016/01/15/welding-workshop){:target="_blank"} and we were making the first series of [turtle tag enclosures](http://irnas.eu/other%20projects/2016/01/14/turtle-tag-enclosure){:target="_blank"}. This project was a nice challenge for CNC-mill. It cut aluminium and demonstrated that it knows how to three-dimensionally cut Plexiglas. A final step was made on [the new laser cutter](http://irnas.eu/irnas/2016/01/01/new-machine-in-the-house){:target="_blank"}, which engraved some text on the enclosures.
 
 [![kreatorlab-2]({{ site.url }}/post_files/kreatorlab-week-2/klab-2.JPG){: .img-full}]({{ site.url }}/post_files/kreatorlab-week-2/klab-2.JPG){: .img-open}
 

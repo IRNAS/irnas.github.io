@@ -7,7 +7,7 @@ tags: [CNC, Mill, GoodEnoughCNC, Development]
 ---
 {% include JB/setup %}
 
-[Last week]({{ site.url }}/2015/08/11/cnc-mill/) we finished designing the frame and X, Y axis for CNC milling machine, so we started with assembly of the main frame. The biggest challenge in constructing was to ensure the accuracy of the composition, which is a key element to achieve the required tolerances in CNC milling. As the use of advanced machine tools for many people around the world are still difficult to reach, we have to find an effective way for assembly that would allow us sufficient accuracy using only basic tools.
+[Last week]({{ site.url }}/goodenoughcnc/2015/08/11/cnc-mill) we finished designing the frame and X, Y axis for CNC milling machine, so we started with assembly of the main frame. The biggest challenge in constructing was to ensure the accuracy of the composition, which is a key element to achieve the required tolerances in CNC milling. As the use of advanced machine tools for many people around the world are still difficult to reach, we have to find an effective way for assembly that would allow us sufficient accuracy using only basic tools.
 
 [![cnc-mill]({{ site.url }}/post_files/cnc-mill2/mill1.JPG){: .img-full}]({{ site.url }}/post_files/cnc-mill2/mill1.JPG){: .img-open}
 

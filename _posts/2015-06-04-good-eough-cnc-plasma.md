@@ -7,7 +7,7 @@ tags: [CNC, Plasma, GoodEnoughCNC, Development]
 ---
 {% include JB/setup %}
 
-In preparation to equip the 3 axis machine design introduced in the previous weeks  [blog]({{ site.url }}/2015/05/27/good-eough-cnc-Zaxis/), we have set to find and test suitable plasma cutting torch machines and pick the cheapest device that produces reasonably good results. To fall within the lowest cost range, the selection was limited to plasma torches designed for hand-held operation.
+In preparation to equip the 3 axis machine design introduced in the previous weeks  [blog]({{ site.url }}/goodenoughcnc/2015/05/27/good-eough-cnc-Zaxis), we have set to find and test suitable plasma cutting torch machines and pick the cheapest device that produces reasonably good results. To fall within the lowest cost range, the selection was limited to plasma torches designed for hand-held operation.
 
 A Slovenian welding supply company [Varesi](http://www.varesi.si/) has kindly invited us to visit their shop with our CNC machine and test a number of plasma cutters on the spot. By driving across the country to their location, we could not leave behind our CNC machine. Although the machine is 140x125cm in outer dimensions, by removing the tighteners and turning it into a parallelogram, we could fit the whole machine in the back of a Ford Mondeo Estate without any disassembly. This is was very exciting and well demonstrates design simplicity and versatility. The CNC was up and running at Varesi in only a few minutes, having to only align the right angles and connect the cables.
 

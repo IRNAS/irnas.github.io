@@ -7,7 +7,7 @@ tags: [KORUZA, Testing]
 ---
 {% include JB/setup %}
 
-With the design of the new [generation 1.0]({{ site.url }}/2015/08/05/koruza-1-0/) KORUZA being finalised, we have started with testing of various system components to objectively evaluate design changes and performance. As we are planning to implement the new [alignment algorithm]({{ site.url }}/2015/09/03/alignment-algorithm-testing/) on units in near future, testing of the motor performance, responsible for subtle changes in the pointing direction, needs to be performed. 
+With the design of the new [generation 1.0]({{ site.url }}/koruza/2015/08/05/koruza-1-0) KORUZA being finalised, we have started with testing of various system components to objectively evaluate design changes and performance. As we are planning to implement the new [alignment algorithm]({{ site.url }}/koruza/2015/09/03/alignment-algorithm-testing) on units in near future, testing of the motor performance, responsible for subtle changes in the pointing direction, needs to be performed. 
 
 In particular, we want to evaluate motor responsiveness and accuracy of movements over time. Moreover, effect of divers external conditions such as temperature fluctuation and humidity, needs to be analysed. 
 Since IR beam is invisible to the human eye and even hard to detect in daylight using phosphor coating NIR detection card, the green laser, serving as an visual alignment add, can be observed instead. Both laser beams are made parallel during the initial calibration procedure, thus tracking the green laser instead of IR beam offers equivalent results.  

@@ -15,7 +15,7 @@ Ceramic can be printed using various [technologies](http://www.jbioleng.org/cont
 
 3D plotting in this case is an exception as it is based on extruding liquid (or paste) materials from a syringe to create desired 3D objects. Paste extrusion is meant to be a technology where a 3D printed object always needs post processing (heating it up to very high temperatures). This technology also often gives lower resolution than others mentioned above. 
 
-At IRNAS our goal and challenge are (as always) to combine high precision and robustness with low cost. For this the [MiniCNC]({{ site.url }}/2015/08/28/mini-cnc/) mechanics will be used where spindle will be replaced by the paste extruder. We spent a few weeks developing a prototype of a paste extruder.
+At IRNAS our goal and challenge are (as always) to combine high precision and robustness with low cost. For this the [MiniCNC]({{ site.url }}/other%20projects/2015/08/28/mini-cnc) mechanics will be used where spindle will be replaced by the paste extruder. We spent a few weeks developing a prototype of a paste extruder.
  
 Ceramic paste is produced by mixing a type of ceramic powder (Zirconia, Alumina etc.) with a binder, stiffener and propan-2-ol, making a liquid solution. Once the solution is well stirred, the propan-2-ol is evaporated until a dense paste-like texture is achieved. It is then loaded into a syringe which is later attached to the extruder of the 3D printer. The paste extrusion is controlled via stepper motor which rotates a threaded rod. This gives us a very accurate translational movement mechanism ([example](http://www.thingiverse.com/thing:539490)).
 

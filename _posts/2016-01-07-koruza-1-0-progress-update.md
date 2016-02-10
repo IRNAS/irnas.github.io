@@ -7,7 +7,7 @@ tags: [KORUZA, Focus adjustment, Instructions]
 ---
 {% include JB/setup %}
 
-Development of the past month following our [scientific workshop](http://irnas.eu/koruza/2015/11/27/first-koruza-workshop/){:target="_blank"} has been focused on improving the design for more reliable construction as well as optimized instructions and documentation for assembly of [KITs](http://fabrikor.eu/){:target="_blank"}.
+Development of the past month following our [scientific workshop](http://irnas.eu/koruza/2015/11/27/first-koruza-workshop){:target="_blank"} has been focused on improving the design for more reliable construction as well as optimized instructions and documentation for assembly of [KITs](http://fabrikor.eu/){:target="_blank"}.
 
 Key upgrade to the mechanical design of [KORUZA 1.0](http://koruza.net/index.html){:target="_blank"} is the upgrade of the focus adjustment axis and motorized drive. The old approach has been based on a stepper motor driving an M4 screw with a compression spring on it, moving the sliding mount closer and further away from the lens. Two issues have dominated the reliable reproduction of the setup, namely the spring snagging on the screw threads and the increase in force required as the spring has been compressed, effectively limiting the movement range to a few millimeters and making the setup prone to stepper motor losing steps during operation.
 

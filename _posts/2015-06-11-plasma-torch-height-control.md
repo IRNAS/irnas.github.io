@@ -7,7 +7,7 @@ tags: [Plasma, CNC, GoodEnoughCNC, Development]
 ---
 {% include JB/setup %}
 
-[Our good-enough CNC plasma]({{ site.url }}/2015/06/04/good-eough-cnc-plasma/) is being put through the paces and we are improving all design aspects. We have experienced some problems with measuring the plasma cutting voltage (arc voltage is monitored to maintain the cut on bent material). Although using the professional Promo Plasma THC 150 controller, optocouplers connecting it to the CNC controller were burned along with a pin. Thus we took a step back to rethink the overall design and evaluate possible improvements.
+[Our good-enough CNC plasma]({{ site.url }}/goodenoughcnc/2015/06/05/optical-cnc-control-toslink) is being put through the paces and we are improving all design aspects. We have experienced some problems with measuring the plasma cutting voltage (arc voltage is monitored to maintain the cut on bent material). Although using the professional Promo Plasma THC 150 controller, optocouplers connecting it to the CNC controller were burned along with a pin. Thus we took a step back to rethink the overall design and evaluate possible improvements.
 
 [![good enough plasma]({{ site.url }}/downloads/plasma/19.jpg){: .img-full}]({{ site.url }}/downloads/plasma/19.jpg){: .img-open}
 

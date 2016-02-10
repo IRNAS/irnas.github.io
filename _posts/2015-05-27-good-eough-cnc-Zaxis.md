@@ -7,7 +7,7 @@ tags: [CNC, Plasma, GoodEnoughCNC, Development]
 ---
 {% include JB/setup %}
 
-Continuing the development work described in our [ previous blog]({{ site.url }}/2015/04/29/good-eough-cnc-Zaxis/) of a XY gantry prototype, we have now added a number of improvements and constructed the Z axis. We have evaluated a number of common practices in Z axis design on small CNC machines and have found that the majority of designs consists of precise milled parts or expensive linear mechanical parts. The requirements for our Z stage have been set to:
+Continuing the development work described in our [ previous blog]({{ site.url }}/goodenoughcnc/2015/04/29/good-eough-cnc-2axis) of a XY gantry prototype, we have now added a number of improvements and constructed the Z axis. We have evaluated a number of common practices in Z axis design on small CNC machines and have found that the majority of designs consists of precise milled parts or expensive linear mechanical parts. The requirements for our Z stage have been set to:
 
 * limit the torsion of the X axis trolley
 * minimize the assembly weight

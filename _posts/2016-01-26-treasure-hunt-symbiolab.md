@@ -8,7 +8,7 @@ tags: [Bio lab, symbiolab]
 {% include JB/setup %}
 
 
-The first hurdle on our way to awesome open-source bioscience is getting the [symbiolab](http://irnas.eu/symbiolab.html){:target="_blank"} up and running. We are [starting this project](http://irnas.eu/symbiolab/2016/01/21/setting-up-irnas-bio-lab/){:target="_blank"} with very limited resources but with a strong motivation to make it a success. We are appealing to everyone, who shares the vision of an open science, to support our cause by contributing with donations of [equipment](https://www.checkli.com/s/HKTxe0kp){:target="_blank"} and/or sharing this appeal. Your support will be greatly appreciated.
+The first hurdle on our way to awesome open-source bioscience is getting the [symbiolab](http://irnas.eu/symbiolab.html){:target="_blank"} up and running. We are [starting this project](http://irnas.eu/bio%20lab%20symbiolab/2016/01/21/setting-up-irnas-bio-lab){:target="_blank"} with very limited resources but with a strong motivation to make it a success. We are appealing to everyone, who shares the vision of an open science, to support our cause by contributing with donations of [equipment](https://www.checkli.com/s/HKTxe0kp){:target="_blank"} and/or sharing this appeal. Your support will be greatly appreciated.
 
 [![symbiolab-checkllist]({{ site.url }}/post_files/biolab-checklist/checklist.png){: .img-full}](https://www.checkli.com/s/HKTxe0kp){:target="_blank"}
 

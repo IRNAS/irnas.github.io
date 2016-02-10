@@ -2,7 +2,7 @@
 layout: post
 title: "Wireless optical system KORUZA - London and San Francisco/Berkeley tour"
 description: "A number of presentations, demo sessions and cool events."
-category: [IRNAS, KORUZA]
+category: [KORUZA]
 tags: [Events]
 ---
 {% include JB/setup %}

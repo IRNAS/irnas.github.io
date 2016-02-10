@@ -7,7 +7,7 @@ tags: [Vacancy, IRNAS]
 ---
 {% include JB/setup %}
 
-We have received a number of applications for the advertised [open position]({{ site.url }}/2015/02/25/open-position-mech-engineer/) of a mechanical engineer. A selection of the applicants will be invited for interviews when they have completed the following design task:
+We have received a number of applications for the advertised [open position]({{ site.url }}/irnas/2015/02/25/open-position-mech-engineer) of a mechanical engineer. A selection of the applicants will be invited for interviews when they have completed the following design task:
 
 Dual motorized HEX (Allen) key drive system for automatic calibration of the [KORUZA](http://koruza.net) system using low-cost 3D printing and minimal amount of additional parts. Wireless optical system KORUZA consists of an invisible IR optical beam and a green optical beam for alignment purpose. When the unit is assembled, the green laser must be aligned experimentally by rotating two M3 DIN912 screws embedded in the structure. The green laser is flexibly mounted so it pivots and the two screws are used to adjust the position of two wedges (wedge has a nut embedded), which cause the pan/tilt of green optical beam. Between the head of the screw and the wedge there are two stacked springs (5mm diameter, 12mm length - 7mm compressed, 1mm spring steel). 
 

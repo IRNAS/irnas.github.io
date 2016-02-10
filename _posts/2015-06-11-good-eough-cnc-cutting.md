@@ -8,7 +8,7 @@ tags: [CNC, Plasma, GoodEnoughCNC]
 {% include JB/setup %}
 
 
-Our Good-enough CNC plasma cutter is finally operational! After making some finishing touches [as outlined previously]({{ site.url }}/2015/06/04/good-eough-cnc-plasma/) on the CNC platform, we paired it with our BMF CUT 50M plasma cutter and air compressor.
+Our Good-enough CNC plasma cutter is finally operational! After making some finishing touches [as outlined previously]({{ site.url }}/goodenoughcnc/2015/06/04/good-eough-cnc-plasma) on the CNC platform, we paired it with our BMF CUT 50M plasma cutter and air compressor.
 
 A 3D printed torch holder mounted on Z axis mechanism behaves perfectly. As shown on the photos of the first test, we are currently using only a half the holder and some zip-ties for greater flexibility, however by adding the other half of the holder later on, the torch will be reliably locked in place with 4 screws. The torch holder was designed for mounting the original handle, as leaving the plasma cutter untouched has numerous advantages:
 
