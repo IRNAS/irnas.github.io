@@ -879,3 +879,16 @@ body {
   color:#565656;
   margin-bottom:15px;
 }
+
+.blog-content .tag_box a{
+  font-weight:400 !important;
+}
+
+.blog-content a{
+  font-weight:600;
+}
+
+.blog-content .title a{
+  font-weight:400;
+}
+
