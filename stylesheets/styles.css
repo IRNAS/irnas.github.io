@@ -872,3 +872,10 @@ body {
 .bio .col-md-3{
   padding:0px 20px;
 }
+
+.quiet{
+  width:95%;
+  font-size:80%;
+  color:#565656;
+  margin-bottom:15px;
+}
