@@ -23,8 +23,8 @@ Wireless optical system [KORUZA](http://koruza.net/){:target="_blank"} can be mo
 **4) Manufacturing process evaluation** - The design has been made such that it only uses flat pieces that only require to be cut to right dimensions and holes added. Most effective option is laser cutting and alternatively milling can be used. Two versions of brackets have been made, one laser-cut acrylic and the other milled aluminium, the latter more expensive in manufacturing time and material cost. Both options were tested and only alu was sufficiently sturdy.
 
 [![koruza-stand-3]({{ site.url }}/post_files/koruza-stand/v3.jpg){: .img-half}]({{ site.url }}/post_files/koruza-stand/v3.jpg){: .img-open}
-[![koruza-stand-4]({{ site.url }}/post_files/koruza-stand/stand-1.jpg){: .img-half}]({{ site.url }}/post_files/koruza-stand/stand-1.jpg){: .img-open}
+[![koruza-stand-4]({{ site.url }}/post_files/koruza-stand/stand-1.jpg){: .img-half}]({{ site.url }}/post_files/koruza-stand/stand-1.JPG){: .img-open}
 
 **5) Open source release** - completed and tested design has been [published](https://github.com/IRNAS/KORUZA-testing/tree/master/portable_mount){:target="_blank"} and is available for making or ordering from our manufacturing partner company [Fabrikor](http://fabrikor.eu/Koruza?product_id=54){:target="_blank"}.
 
-[![koruza-stand-4]({{ site.url }}/post_files/koruza-stand/stand-2.jpg){: .img-full}]({{ site.url }}/post_files/koruza-stand/stand-2.jpg){: .img-open}
+[![koruza-stand-4]({{ site.url }}/post_files/koruza-stand/stand-2.jpg){: .img-full}]({{ site.url }}/post_files/koruza-stand/stand-2.JPG){: .img-open}
