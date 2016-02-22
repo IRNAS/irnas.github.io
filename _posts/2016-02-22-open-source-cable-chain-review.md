@@ -10,7 +10,7 @@ tags: [GoodEnoughCNC, cable chain, review]
 
 Cable/energy chains are a very convenient and durable way of organizing cables on CNC machines moving along cartesian axes. While they can be obtained at low cost in some cases, this may not be the case in all places around the world and in all dimensions. Hereby we are reviewing open source cable chain designs available for manufacturing, categorizing them per manufacturing process and plans available. Some alternative methods to cable chains are mentioned as well. A nice tutorial on choosing cable-chains on [Instructables](http://www.instructables.com/id/Selecting-cabledragenergy-chains-for-CNC/){:target="_blank"} is a good read to start with.
 
-[![cable-chain]({{ site.url }}/post_files/cable-chains/cable-chain.jpg){: .img-full}]({{ site.url }}/post_files/cable-chains/cable-chain.jpg){: .img-open}
+[![cable-chain]({{ site.url }}/post_files/cable-chains/cable-chain.JPG){: .img-full}]({{ site.url }}/post_files/cable-chains/cable-chain.JPG){: .img-open}
 
 Cable chains are generally assembled from snap-together plastic pieces and are characterized by their inner dimensions, bending radius and of open/closed type, meaning that cables can be inserted from the side in the chain or they need to be threaded through. A typical application considered in this review is [GoodEnoughCNC](http://goodenoughcnc.eu/){:target="_blank"} machine with dimensions of 1x1 m or 2x3 m and top moving speeds of 10m/min. Typical cabling applications inside the chain are fiber and 2.5 mm<sup>2</sup> wires for power or mains and 8mm compressed air line.
 
