@@ -12,7 +12,7 @@ The [symbiolab DIY labware review](https://github.com/symbiolab/bio-labware/blob
 
 The focus in this chapter lies in creating an overview of the more basic and general types of microscopy, which allow the magnification and study of materials in various scales, states and colorations. However, we DO NOT go into detail of more specialized and advanced techniques at this point (like confocal, phase contrast, interference microscopy, etc. are to optical microscopy). Hopefully, we will be able to fill in such gaps in the future, but we also invite everyone, who wishes to add something to the review, to contact us [by mail](mailto:bostjan@irnas.eu){:target="_blank"}, or contribute directly on [github](https://github.com/symbiolab/bio-labware/blob/master/bio-labware-review.md){:target="_blank"}.
 
-[![SEM_image_of_a_Peacock_wing]({{ site.url }}/post_files/bio-labware-2/SEM_image_of_a_Peacock_wing.jpg){: .img-full}]({{ site.url }}/post_files/bio-labware-2/SEM_image_of_a_Peacock_wing.jpg){: .img-open}
+[![SEM_image_of_a_Peacock_wing]({{ site.url }}/post_files/bio-labware-2/SEM_image_of_a_Peacock_wing.JPG){: .img-full}]({{ site.url }}/post_files/bio-labware-2/SEM_image_of_a_Peacock_wing.JPG){: .img-open}
 <div class="row quiet">
 <div class="col-xs-12">
 By <a href="//commons.wikimedia.org/wiki/User:SecretDisc" title="User:SecretDisc">SecretDisc</a> 11:39, 16 January 2007 (UTC) - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, https://commons.wikimedia.org/w/index.php?curid=1570253
