@@ -3,7 +3,7 @@ layout: post
 title: "Bio Labware Review"
 description: "We are preparing a complete DIY labware review, which should function as a database for anyone interested in bio hacking."
 category: Bio lab symbiolab
-tags: [Bio lab, symbiolab]
+tags: [Bio lab, symbiolab, labware review]
 ---
 {% include JB/setup %}
 
