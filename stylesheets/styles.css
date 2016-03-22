@@ -227,6 +227,7 @@ filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><
 
 .post-content .content{
   margin-top:10px;
+  margin-bottom:50px;
 }
 
  #mc_embed_signup{clear:left; font:12px Helvetica,Arial,sans-serif;  width:250px;}
