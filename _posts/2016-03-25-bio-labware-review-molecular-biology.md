@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bio Labware review: Molecular Biology"
+title: "Bio Labware Review: Molecular Biology"
 description: "Read our new Github post about the techniques and tools used in molecular biology."
 category: Bio lab symbiolab
 tags: [Bio lab, symbiolab, labware review, molecular biology]
