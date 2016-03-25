@@ -17,7 +17,7 @@ Various methods are used, that are even grouped in different subfields, such as 
 [![Molecular-Biology]({{ site.url }}/post_files/bio-labware-0/How_proteins_are_made_NSF.jpg){: .img-full}]({{ site.url }}/post_files/bio-labware-0/How_proteins_are_made_NSF.jpg){: .img-open}
 <div class="row quiet">
 <div class="col-xs-12">
-Source: By [Nicolle Rager, National Science Foundation [Public domain], via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AHow_proteins_are_made_NSF.jpg){:target="_blank"}
+Source: By <a href="https://commons.wikimedia.org/wiki/File%3AHow_proteins_are_made_NSF.jpg" target="_blank"> Nicolle Rager, National Science Foundation [Public domain], via Wikimedia Commons</a>
 </div>
 </div>
 
