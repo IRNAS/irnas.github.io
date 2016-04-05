@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "IRNAS goes on a tour"
-description: "Balkan trip: Zagreb – Belgrade – Osijek"
+title: "Balkan trip: Zagreb – Belgrade – Osijek"
+description: "This time we're heading south-east. We're taking our optical wireless communication system Koruza, GoodEnoughCNC and Troublemaker v2 on a Balkan trip."
 category: IRNAS, KORUZA, GoodEnoughCNC
 tags: [IRNAS, KORUZA, GoodEnoughCNC, tour, event, presentation]
 ---
