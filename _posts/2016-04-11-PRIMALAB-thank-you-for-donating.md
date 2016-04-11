@@ -11,6 +11,3 @@ Last week we received a very generous financial donation from [PRIMALAB d.o.o](h
 
 [![PRIMALAB]({{ site.url }}/post_files/donation/primalab.png){: .img-half}](http://www.primalab.eu/sl){:target="_blank"}
 [![donation]({{ site.url }}/post_files/donation/primalab-donation.png){: .img-half}]({{ site.url }}/post_files/donation/primalab-donation.png){: .img-open}
-
-
-[](){:target="_blank"}
