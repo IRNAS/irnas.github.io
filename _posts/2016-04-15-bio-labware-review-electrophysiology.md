@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bio Labware Review: Electrophysiology."
+title: "Bio Labware Review: Electrophysiology"
 description: "This week in our bio-labware review, we are talking about DIY Electrophysiology."
 category: Bio lab symbiolab
 tags: [bio lab, symbiolab, labware review, electrophysiology]
