@@ -25,6 +25,6 @@ In attempt to resolve issue from the first design we replaced spherical bearings
 
 **Sliding linear nut system:**
 
-The design, which accommodate all our requirements is a nut with a sliding surface, which enables movement of a nut in linear direction and at the same time (free spherical movements on the other nut). The material has excellent self-lubricating properties, allowing smooth linear movement without sticking or shaking. The retraction force is reached with one diagonally positioned spring. Such a system of movement has compact size and enables easy installation. Indirect burden on the engine axis and lower operating torques will result in a longer engine life.
+The design, which accommodate all our requirements is a nut with a sliding surface, which enables movement of a nut in linear direction and at the same time (free spherical movements on the other nut). Plastic used for surface sliding nut has excellent self-lubricating properties, allowing smooth linear movement without sticking or shaking. The retraction force is reached with one diagonally positioned spring. Such a system of movement has compact size and enables easy installation. Indirect burden on the engine axis and lower operating torques will result in a longer engine life.
 
 [![motor-system-1]({{ site.url }}/post_files/koruzav2-motor-system/motor-system-3.JPG){: .img-full}]({{ site.url }}/post_files/koruzav2-motor-system/motor-system-3.JPG){: .img-open}
