@@ -19,7 +19,7 @@ Because of the movement of the lens tube, we have to ensure movement of the end 
 
 **Spring couplers:**
 
-In attempt to resolve the issue from the first design we replaced the spherical bearings with a flexible spring coupler at the motor side and with a plain radial bearing at the nut side. This design in theory allows movement only in x or y axes, while allowing the spherical travel of the lens cylinder. In the experiment we found out that this design is extremely sensitive to the concentricity of the motor axis with M5 rod and parallelism holes in the nut and coupler, resulting in unlinear movement of the IR beam.
+In attempt to resolve the issue from the first design we replaced the spherical bearings with a flexible spring coupler at the motor side and with a plain radial bearing at the nut side. This design in theory allows movement only in x or y axes, while allowing the spherical travel of the lens cylinder. In the experiment we found out that this design is extremely sensitive to the concentricity of the motor axis with M5 rod and parallelism holes in the nut and coupler, resulting in non-linear movement of the IR beam.
 
 [![motor-system-2]({{ site.url }}/post_files/koruzav2-motor-system/motor-system-2.JPG){: .img-full}]({{ site.url }}/post_files/koruzav2-motor-system/motor-system-2.JPG){: .img-open}
 
