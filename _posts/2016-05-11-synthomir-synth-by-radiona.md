@@ -15,7 +15,7 @@ We couldn't wait to build it and now, we've finally found some time to share the
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/5dbdIF865lg?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
 
-Now, we only need to learn how to properly play on it. Check what is this instrument capable of on Synthomir presentation and demo video. Simply awesome!
+Now, we only need to learn how to properly play it. Check what is this instrument capable of on Synthomir presentation and demo video. Simply awesome!
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/uvvPPmoRUTk?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
 
