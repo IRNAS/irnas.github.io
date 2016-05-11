@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Synthomir synth by Radiona"
+title: "Synthomir - 8 bit DIY synth by Radiona"
 description: "Synthomir is a 8 bit DIY synth designed and developed by Radiona, Zagreb Makerspace. Last month we visited them and received their Synthomir in kit version as a gift."
 category: IRNAS, Other Projects
 tags: [IRNAS, Synthomir, synth, DIY]
