@@ -13,11 +13,11 @@ Remember our [Balkan road trip](http://irnas.eu/irnas,%20koruza,%20goodenoughcnc
 
 We couldn't wait to build it and now, we've finally found some time to share the final result also with you. It was lots of fun making it following their [instructions in 20 steps](http://radiona.org/synthomir/content.html){:target="_blank"} - from soldering the resistors, crystal and its capacitors to soldering female headers, potentiometer and the male headers on the bottom side of the board.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/5dbdIF865lg?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5dbdIF865lg?rel=0&showinfo=0&autohide=1" frameborder="0" allowfullscreen></iframe>
 
-Now, we only need to learn how to properly play it. Check what is this instrument capable of on Synthomir presentation and demo video. Simply awesome!
+Now, we only need to learn how to properly play it. Check what this instrument is capable of on Synthomir presentation and demo video. Simply awesome!
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/uvvPPmoRUTk?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/uvvPPmoRUTk?rel=0&showinfo=0&autohide=1" frameborder="0" allowfullscreen></iframe>
 
 
 
