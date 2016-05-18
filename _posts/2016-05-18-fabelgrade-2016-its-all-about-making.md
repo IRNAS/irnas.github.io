@@ -40,6 +40,13 @@ Despite being fully loaded with content for 10 hours each day, the atmosphere wa
 
 We would like to thank the organizers for their astounding effort to bring the conference to life, provide exceptional quality of content, and really made us feel at home.
 
+You can check some highlights from other participants on the links below:
+
+- [Adrian Bowyer from RepRap Ltd](https://www.facebook.com/reprapltd/posts/1046620698709028:0){:target="_blank"} 
+
+- [Waag society](https://www.waag.org/nl/blog/fabulous-fabelgrade-makers-and-making){:target="_blank"} 
+
 [![fabelgrade-14]({{ site.url }}/post_files/fabelgrade2016/fabelgrade-15.jpg){: .img-full}]({{ site.url }}/post_files/fabelgrade2016/fabelgrade-15.jpg){: .img-open} 
+
 
 
