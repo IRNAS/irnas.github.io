@@ -31,8 +31,7 @@ Four different herbs will be used in our test, all of which have very different 
 [![aeroponic-9]({{ site.url }}/post_files/aeroponic/aeroponic-09.jpg){: .img-half}]({{ site.url }}/post_files/aeroponic/aeroponic-09.jpg){: .img-open}
 [![aeroponic-10]({{ site.url }}/post_files/aeroponic/aeroponic-10.JPG){: .img-half}]({{ site.url }}/post_files/aeroponic/aeroponic-10.JPG){: .img-open}
 
-[![aeroponic-11]({{ site.url }}/post_files/aeroponic/aeroponic-11.JPG){: .img-half}]({{ site.url }}/post_files/aeroponic/aeroponic-11.JPG){: .img-open}
-[![aeroponic-12]({{ site.url }}/post_files/aeroponic/aeroponic-12.jpg){: .img-half}]({{ site.url }}/post_files/aeroponic/aeroponic-12.jpg){: .img-open}
+[![aeroponic-11]({{ site.url }}/post_files/aeroponic/aeroponic-11.JPG){: .img-full}]({{ site.url }}/post_files/aeroponic/aeroponic-11.JPG){: .img-open}
 
 By installing an "intermediate floor", the danger of leakage increased dramatically. To prevent this, a plastic bag was used to cover the inside of the container, a dark one was used to prevent light exposure of the roots.
 
