@@ -23,7 +23,7 @@ Whatever the case, this is a very promising organism, that is relatively easy to
 Water was collected from a local pond. It contained different algae (especially microscopic ones) but also other organisms, such as water fleas, protozoans and probably many bacteria. The next step after collection was therefore to filter out the larger particles and organisms and to find a medium a growth conditions that would selectively improve _Chlorella_ growth in comparison to other organisms.
 
 [![chlorella-1]({{ site.url }}/post_files/chlorella/chlorella-1.jpg){: .img-half}]({{ site.url }}/post_files/chlorella/chlorella-1.jpg){: .img-open}
-[![chlorella-2]({{ site.url }}/post_files/chlorella/chlorella-2.jpg){: .img-half}]({{ site.url }}/post_files/chlorella/chlorella-2.jpg){: .img-open}
+[![chlorella-2]({{ site.url }}/post_files/chlorella/chlorella-2.JPG){: .img-half}]({{ site.url }}/post_files/chlorella/chlorella-2.JPG){: .img-open}
 
 [![chlorella-3]({{ site.url }}/post_files/chlorella/chlorella-3.jpg){: .img-full}]({{ site.url }}/post_files/chlorella/chlorella-3.jpg){: .img-open}
 
@@ -45,8 +45,8 @@ What was found to work best, was a 50:50 solution of tap (Maribor, Slovenia) and
 
 [![chlorella-4]({{ site.url }}/post_files/chlorella/chlorella-4.png){: .img-full}]({{ site.url }}/post_files/chlorella/chlorella-4.png){: .img-open}
 
-[![chlorella-5]({{ site.url }}/post_files/chlorella/chlorella-5.jpg){: .img-half}]({{ site.url }}/post_files/chlorella/chlorella-5.jpg){: .img-open}
-[![chlorella-6]({{ site.url }}/post_files/chlorella/chlorella-6.jpg){: .img-half}]({{ site.url }}/post_files/chlorella/chlorella-6.jpg){: .img-open}
+[![chlorella-5]({{ site.url }}/post_files/chlorella/chlorella-5.JPG){: .img-half}]({{ site.url }}/post_files/chlorella/chlorella-5.JPG){: .img-open}
+[![chlorella-6]({{ site.url }}/post_files/chlorella/chlorella-6.JPG){: .img-half}]({{ site.url }}/post_files/chlorella/chlorella-6.JPG){: .img-open}
 
 [![chlorella-7]({{ site.url }}/post_files/chlorella/chlorella-7.jpg){: .img-half}]({{ site.url }}/post_files/chlorella/chlorella-7.jpg){: .img-open}
 [![chlorella-8]({{ site.url }}/post_files/chlorella/chlorella-8.jpg){: .img-half}]({{ site.url }}/post_files/chlorella/chlorella-8.jpg){: .img-open}
