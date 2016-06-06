@@ -51,3 +51,4 @@ What was found to work best, was a 50:50 solution of tap (Maribor, Slovenia) and
 [![chlorella-7]({{ site.url }}/post_files/chlorella/chlorella-7.jpg){: .img-half}]({{ site.url }}/post_files/chlorella/chlorella-7.jpg){: .img-open}
 [![chlorella-8]({{ site.url }}/post_files/chlorella/chlorella-8.jpg){: .img-half}]({{ site.url }}/post_files/chlorella/chlorella-8.jpg){: .img-open}
 
+While being able to purify _Chlorella_ from other eucaryotic (real cell core) protists (single celled organisms), which can be observed under an optical microscope without additional staining, bacteria are very likely to be contained as well, which should ideally be removed from the culture before even considering consumption! Stay tuned to learn more about the process of further purification and preparation of algae culture!
