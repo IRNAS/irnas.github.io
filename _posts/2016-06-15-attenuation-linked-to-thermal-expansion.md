@@ -21,6 +21,6 @@ While attenuation is clearly linked to the temperature variation, it is hard to 
 
 Figure below illustrates correlation between received power and internal temperature of  units. Unit 2, mounted under the roof, has experienced more consistent temperature with only few degrees between night and daily average. Consequently data indicates more steady reception of optical power on Unit 1. The opposite trend can be observed on Unit 2, receiving power from Unit 1, which was subject to more prominent temperature variation.  
 
-[![tkalka.png]({{ site.url }}/post_files/temp/point-arena.png){: .img-full}]({{ site.url }}/post_files/temp/tkalka.png){: .img-open}
+[![tkalka.png]({{ site.url }}/post_files/temp/tkalka.png){: .img-full}]({{ site.url }}/post_files/temp/tkalka.png){: .img-open}
 
 Data suggests internal misalignment of the transmitter/receiver (same module in KORUZA) probably subject to thermal extension. As expected, effect of misalignment is more prominent on receiving unit due to change in optical beam angle, amplified by the distance between units, while reception on transmitting unit, undergoing misalignment, remains mostly unaffected. We are actively testing and developing auto-tracking algorithms currently to adjust for these problems and compensate over a longer period of time.
