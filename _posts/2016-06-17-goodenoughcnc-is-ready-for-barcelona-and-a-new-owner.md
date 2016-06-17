@@ -10,8 +10,8 @@ tags: [IRNAS, KORUZA, GoodEnoughCNC, Hybrid, ToslinkCNC, Troublemaker, event, pr
 
 ¡Ya tenemos casi todo listo! - We’re almost ready! All the components for our [GoodEnoughCNC](http://goodenoughcnc.eu/){:target="_blank"} hybrid with a mill are packed and on its way to Barcelona. Come meet us at [Fab lab Barcelona](http://fablabbcn.org/){:target="_blank"} on Monday, 20th June 2016 to find out more about the machine or join [our workshop](http://makerpro.fab.city/workshops/){:target="_blank"} to learn how to build it on Wednesday, June 22th at 11pm at IN(3D)USTRY event. You can register for the workshop [here](http://fablab.fikket.com/event/goodenough-cnc-workshop){:target="_blank"}.
 
-[![]({{ site.url }}/post_files/in3dustry/hybrid-barcelona-1.jpg){: .img-half}]({{ site.url }}/post_files/in3dustry/hybrid-barcelona-1.jpg){: .img-open}
-[![]({{ site.url }}/post_files/in3dustry/hybrid-barcelona-2.jpg){: .img-half}]({{ site.url }}/post_files/in3dustry/hybrid-barcelona-2.jpg){: .img-open}
+[![]({{ site.url }}/post_files/in3dustry/hybrid-barcelona-1.JPG){: .img-half}]({{ site.url }}/post_files/in3dustry/hybrid-barcelona-1.JPG){: .img-open}
+[![]({{ site.url }}/post_files/in3dustry/hybrid-barcelona-2.JPG){: .img-half}]({{ site.url }}/post_files/in3dustry/hybrid-barcelona-2.JPG){: .img-open}
 
 **We have some more good news!**
 
