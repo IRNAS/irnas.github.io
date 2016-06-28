@@ -8,7 +8,7 @@ tags: [Turtle Tag]
 {% include JB/setup %}
 
 
-Do you remember [turtle tag enclosures](http://irnas.eu/other%20projects/2016/01/14/turtle-tag-enclosure){:target="_blank"} we worked on in the beginning of this year? In collaboration with [Alasdair Davies](https://twitter.com/Al2kA){:target="_blank"} of the [Zoological Society of London](http://www.zsl.org/){:target="_blank"} we developed an open source turtle tag enclosure and produced a small series for testing purposes for the [Principe Trust](https://www.facebook.com/Pr%C3%ADncipe-Trust-305010556356808/){:target="_blank"} and researchers from the University of Exeter. Open source solution to track endangered green sea turtles turned out to be a great alternative to commercial tags.
+Do you remember [turtle tag enclosures](http://irnas.eu/other%20projects/2016/01/14/turtle-tag-enclosure){:target="_blank"} we worked on in the beginning of this year? In collaboration with [Alasdair Davies](https://twitter.com/Al2kA){:target="_blank"} from [Zoological Society of London](http://www.zsl.org/){:target="_blank"} we developed an open source turtle tag enclosure and produced a small series for testing purposes for the [Principe Trust](https://www.facebook.com/Pr%C3%ADncipe-Trust-305010556356808/){:target="_blank"} and researchers from the University of Exeter. Open source solution to track endangered green sea turtles turned out to be a great alternative to commercial tags.
 
 [![turtle-tag-enclosure-1]({{ site.url }}/post_files/turtle-tag-enclosure/turtle_tagging_1.jpg){: .img-full}]({{ site.url }}/post_files/turtle-tag-enclosure/turtle_tagging_1.jpg){: .img-open}
 
