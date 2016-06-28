@@ -29,6 +29,6 @@ Lucky for us, a lot of effort was already invested in the development of cheap D
 
 This was the first of its kind workshop that was hosted at [IRNAS symbiolab](http://irnas.eu/symbiolab){:target="_blank"}, which we can now officially declare as running. Being a fantastic experience for us and hopefully for our participants as well, we are looking forward to the workshops to come.
 
-You can meet us again already this weekend at [Artcamp](https://www.facebook.com/events/254120128291526/){:target="_blank"}, at Festival Lent, from Friday to Sunday, from 4pm to 8pm. We’ll be making spectroscopes and you'll also have the opportunity to test our DIY microscopes and [GoodEnoughCNC](http://goodenoughcnc.eu/){:target="_blank"} machines, which will be solar powered this time.
+You can meet us again already this weekend at [Artcamp](https://www.facebook.com/events/254120128291526/){:target="_blank"}, at Festival Lent, from Friday to Sunday, from 4pm to 8pm. We’ll be making spectrometers and you'll also have the opportunity to test our DIY microscopes and [GoodEnoughCNC](http://goodenoughcnc.eu/){:target="_blank"} machines, which will be solar powered this time.
 
 
