@@ -7,11 +7,15 @@ tags: [goodenoughcnc, cnc, hybrid, troublemaker, 3d printer, kreatorlab, making,
 ---
 {% include JB/setup %}
 
+
 [GoodEnoughCNC academy](http://goodenoughcnc.eu/academy/){:target="_blank"} is a week long program that will empower you to take open hardware out to the field and build fabrication capabilities anywhere around the globe.
+
 
 We invite you to join us and learn all the necessary skills to build, operate and maintain two [GoodEnoughCNC](http://goodenoughcnc.eu/){:target="_blank"} machines, [Hybrid](http://goodenoughcnc.eu/hybrid-cnc/){:target="_blank"} and [Troublemaker 3D printer](http://goodenoughcnc.eu/troublemaker-3d/){:target="_blank"}and go home with GoodEnoughCNC kit in a suitcase, fully equipped to make your own machine and start using it for your projects. As well, you will learn how to modify the machines to operate on solar power and replicate different open hardware projects.
 
+
 <iframe width="94,5%" height="360px" src="https://www.youtube.com/embed/cwCS9VH-KOQ" frameborder="0" allowfullscreen></iframe>
+
 
 [![goodenoughcnc-academy]({{ site.url }}/post_files/goodenoughcnc-academy/invitation-goodenoughcnc-academy-small-01.png){: .img-full}]({{ site.url }}/post_files/goodenoughcnc-academy/invitation-goodenoughcnc-academy-small-01.png){: .img-open}
 
