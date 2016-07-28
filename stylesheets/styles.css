@@ -937,3 +937,8 @@ padding-top:10px;
 .tag_box li{
   margin-top:5px;
 }
+
+.btn-primary{
+  border-radius:0px;
+  margin:5px;
+}
