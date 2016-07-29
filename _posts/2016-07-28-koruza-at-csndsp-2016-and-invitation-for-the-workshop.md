@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "KORUZA at CDNDSP 2016 and Invitation for the Workshop"
+title: "KORUZA at CSNDSP 2016 and Invitation for the Workshop"
 description: "Last week we participated at International Symposium on Communication Systems, Networks and Digital Signal Processing - CSN 2016 in Prague. In Fall 2016 we're organizing second KORUZA workshop to empower researchers globally for wireless optical experimentation."
 category: KORUZA
 tags: [KORUZA, event, scientific conference, CDNDSP 2016, workshop, Koruza workshop]
 ---
 {% include JB/setup %}
 
-[International Symposium on Communication Systems, Networks and Digital Signal Processing - CSN 2016](http://www.csndsp16.com/){:target="_blank"} where we participated with wireless optical system [KORUZA](http://koruza.net/){:target="_blank"} has been a superb event with a number of interesting scientific advances in the field of optical wireless communication, this being the largest event on this topic along with regular wireless signal topics.
+[International Symposium on Communication Systems, Networks and Digital Signal Processing - CSNDSP 2016](http://www.csndsp16.com/){:target="_blank"} where we participated with wireless optical system [KORUZA](http://koruza.net/){:target="_blank"} has been a superb event with a number of interesting scientific advances in the field of optical wireless communication, this being the largest event on this topic along with regular wireless signal topics.
 
 [![CDNDSP 2016]({{ site.url }}/post_files/csndsp/csndsp16-1.jpg){: .img-full}]({{ site.url }}/post_files/csndsp/csndsp16-1.jpg){: .img-open}
 
