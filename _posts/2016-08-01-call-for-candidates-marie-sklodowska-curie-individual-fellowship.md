@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CALL FOR CANDIDATES: MARIE SKŁODOWSKA-CURIE INDIVIDUAL FELLOWSHIP"
+title: "Call for Candidates: Marie Skłodowska-Curie Individual Fellowship"
 description: "Symbiolab, Institute IRNAS is looking for a post-doctoral candidate (Ph.D. before 14th September 2016) to apply for the MSCA-IF fellowship on the topic of opensource 3D-bioprinter development."
 category: IRNAS, Bio lab symbiolab
 tags: [Bio lab, symbiolab, IRNAS, call for candidates, fellowship]
