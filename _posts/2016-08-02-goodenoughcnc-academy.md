@@ -18,7 +18,7 @@ We are announcing [GoodEnoughCNC Academy](http://goodenoughcnc.eu/academy/){:tar
 
 <iframe width="94.5%" height="360px" src="https://www.youtube.com/embed/cwCS9VH-KOQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-We invite you to join us and learn all the necessary skills to build, operate and maintain two [GoodEnoughCNC](http://goodenoughcnc.eu/){:target="_blank"} machines, [Hybrid](http://goodenoughcnc.eu/hybrid-cnc/){:target="_blank"} and [Troublemaker 3D printer](http://goodenoughcnc.eu/troublemaker-3d/){:target="_blank"} and go home with a kit in a suitcase, fully equipped to make your own machine and start using it for your projects.
+Join us and learn all the necessary skills to build, operate and maintain two [GoodEnoughCNC](http://goodenoughcnc.eu/){:target="_blank"} machines, [Hybrid](http://goodenoughcnc.eu/hybrid-cnc/){:target="_blank"} and [Troublemaker 3D printer](http://goodenoughcnc.eu/troublemaker-3d/){:target="_blank"} and go home with a kit in a suitcase, fully equipped to make your own machine and start using it for your projects.
 
 [![hybrid-cnc]({{ site.url }}/post_files/goodenoughcnc-academy/goodenoughcnc-hybrid.JPG){: .img-half}]({{ site.url }}/post_files/goodenoughcnc-academy/goodenoughcnc-hybrid.JPG){: .img-open}
 [![troublemaker-3d-printer]({{ site.url }}/post_files/goodenoughcnc-academy/troublemaker-1.jpg){: .img-half}]({{ site.url }}/post_files/goodenoughcnc-academy/troublemaker-1.jpg){: .img-open}
