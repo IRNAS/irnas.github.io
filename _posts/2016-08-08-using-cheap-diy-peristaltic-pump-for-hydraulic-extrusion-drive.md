@@ -7,8 +7,6 @@ tags: [Bio lab, symbiolab, 3d bioprinter, 3d bioprinting, DIY peristaltic pump, 
 ---
 {% include JB/setup %}
 
-[](){:target="_blank"}
-
 Recently we worked on the development of a cheap, yet accurate enough‭ ‬system for our bioprinter/paste extrusion printer.‭ ‬Our aim is to develop a modular extruder design where extrusion parameters can be easily controlled and adapted‭ ‬when changing the syringe content.‭ 
 
 For this we wish to build a hydraulic system where the syringe piston‭ ‬will be moved according to the amount of water added into the‭ ‬hose.‭ ‬Ignoring the compressibility of the potential air trapped inside the hose and the flexibility of the walls of the hose, we can assume that the extrusion speed is proportional to the speed at which the water is pumped into the system.‭ ‬Moreover, a ‬hydraulic system allows for easy variation of pressure by adapting the hose cross sectional area.‭ ‬This results in no need to modify the pump design to reach higher or lower pressure at the output but just replacing the hose instead.
