@@ -22,7 +22,7 @@ If you'll miss our Open Day, you're kindly invited to find us at [Ars Electronic
 
 - [Build your own GoodEnoughCNC Hybrid – Naredi si svoj GoodEnoughCNC Hybrid](http://goodenoughcnc.eu/workshops/workshop-hybrid){:target="_blank"} - 23rd September 2016, Maribor Slovenia 
 
-- [GoodEnoughCNC Academy](http://goodenoughcnc.eu/academy/){:target="_blank"}  - 7th - 11th November 2016, Maribor, Slovenia 
+- [GoodEnoughCNC Academy](http://goodenoughcnc.eu/academy/){:target="_blank"}  - 7th-11th November 2016, Maribor, Slovenia 
 
 - [Build your own Troublemaker 3D printer – Naredi si svoj Troublemaker 3D Printer](http://goodenoughcnc.eu/workshops/workshop-troublemaker){:target="_blank"} - 19th-20th November 2016, Maribor, Slovenia 
 
