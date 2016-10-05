@@ -14,7 +14,7 @@ Later on Friday he's joining an exciting 24 hours event – [Science hack day Po
 
 He'll end his Portland visit with [the public event at PDX HACKERSPACE](http://calagator.org/events/1250470920){:target="_blank"} on Monday, 10th October 2016 at 7pm, where you can join him for the presentation of our affordable open source manufacturing and networking solutions. 
 
-Get in contact with Luka if you're somewhere close or follow his trip on [Twitter](https://twitter.com/slomusti){:target="_blank"} .
+Get in contact with Luka if you're somewhere close or follow his trip on [Twitter](https://twitter.com/slomusti){:target="_blank"}.
 
 **IRNAS @ PORTLAND:**
 
