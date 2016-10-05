@@ -10,7 +10,7 @@ tags: [irnas, event, goodenoughcnc, koruza, open source, open hardware, public t
 
 [Luka](https://twitter.com/slomusti){:target="_blank"} is flying overseas at the end of this week. He's participating at [Open Hardware Summit 2016](http://2016.oshwa.org/){:target="_blank"}  on Friday afternoon, where the open hardware community will meet and discuss hot topics from the field. He'll contribute with [a talk](http://2016.oshwa.org/schedule-1/){:target="_blank"} on open and good enough manufacturing solutions at 3.20 pm.
 
-Later on Friday he's joining an exciting 24 hours event – [Science hack day Portland](http://portland.sciencehackday.org/){:target="_blank"}, where tech enthusiasts will join forces to create fun science projects. We're super curious to find out what are they going to come up with. Will make sure Luka keeps us updated.
+Later on Friday he's joining an exciting 24 hours event – [Science hack day Portland](http://portland.sciencehackday.org/){:target="_blank"}, where tech enthusiasts will join forces to create fun science projects. We're super curious to find out what they are going to come up with. Will make sure Luka keeps us updated.
 
 He'll end his Portland visit with [the public event at PDX HACKERSPACE](http://calagator.org/events/1250470920){:target="_blank"} on Monday, 10th October 2016 at 7pm, where you can join him for the presentation of our affordable open source manufacturing and networking solutions. 
 
