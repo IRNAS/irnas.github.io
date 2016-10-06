@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IRNAS invading Portland"
+title: "IRNAS visiting Portland"
 description: "Luka is visiting Portland - he'll be participating at Open Hardware Summit 2016, Science hack day Portland and presenting our projects at PDX HACKERSPACE."
 category: irnas, KORUZA, GoodEnoughCNC
 tags: [irnas, event, goodenoughcnc, koruza, open source, open hardware, public talk, Portland]
