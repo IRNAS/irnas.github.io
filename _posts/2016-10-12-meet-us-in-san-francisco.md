@@ -18,5 +18,5 @@ From 25th to 27th October Luka is also participating at [Meetig of the Minds 201
 
 See you in SF!
 
-[![irnas-in-sf]({{ site.url }}/post_files/sf/AspirationLogoForSFTechCenterSite.jpg){: .img-half}](http://sftechcenter.org/koruza-project-visits-san-francisco/){: .img-open}
-[![irnas-in-sf]({{ site.url }}/post_files/sf/meetingofminds.jpg){: .img-half}](http://cityminded.org/events/motm2016){: .img-open}
+[![irnas-in-sf]({{ site.url }}/post_files/sf/AspirationLogoForSFTechCenterSite.jpg){: .img-half}](http://sftechcenter.org/koruza-project-visits-san-francisco/){:target="_blank"}
+[![irnas-in-sf]({{ site.url }}/post_files/sf/meetingofminds.jpg){: .img-half}](http://cityminded.org/events/motm2016){:target="_blank"}
