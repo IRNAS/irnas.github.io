@@ -12,7 +12,7 @@ At the end of this month [Luka](https://twitter.com/slomusti){:target="_blank"} 
 
 We invite all open source, open hardware enthusiasts to join us for the public event at [The San Francisco Nonprofit Technology Center](http://sftechcenter.org/koruza-project-visits-san-francisco/){:target="_blank"}, operated by [Aspiration](https://aspirationtech.org){:target="_blank"} on Monday, 24th October, at 4pm, where [Luka](https://twitter.com/slomusti){:target="_blank"} is going to explain and demonstrate [Koruza](http://new.koruza.net/){:target="_blank"}, the first open source wireless optical communication system for urban environments as well as tell you more about our open and affordable tools for digital manufacturing [GoodEnoughCNC](http://goodenoughcnc.eu/){:target="_blank"}.
 
-[![koruza]({{ site.url }}/post_files/sf/Koruza_device-back.jpg){: .img-half}]{{ site.url }}/post_files/sf/Koruza_device-back.jpg){:target="_blank"}
+[![koruza]({{ site.url }}/post_files/sf/Koruza_device-back.jpg){: .img-half}]({{ site.url }}/post_files/sf/Koruza_device-back.jpg){:target="_blank"}
 
 Please, be so kind and let us know if you’re joining us by sending a short e-mail with subject "SF RSVP", stating your name and the organization/company you're from to the address [events@koruza.net](mailto:webmaster@example.com){:target="_top"}.
 
