@@ -17,4 +17,4 @@ From 25th to 27th October Luka is also participating at [Meetig of the Minds 201
 See you in SF!
 
 [![irnas-in-sf]({{ site.url }}/post_files/sf/AspirationLogoForSFTechCenterSite.jpg){: .img-half}]({{ site.url }}/post_files/sf/AspirationLogoForSFTechCenterSite.jpg){: .img-open}
-[![irnas-in-sf]({{ site.url }}/post_files/sf/meetingofminds.png){: .img-half}]({{ site.url }}/post_files/sf/meetingofminds.png){: .img-open}
+[![irnas-in-sf]({{ site.url }}/post_files/sf/meetingofminds.jpg){: .img-half}]({{ site.url }}/post_files/sf/meetingofminds.jpg){: .img-open}
