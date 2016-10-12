@@ -2,7 +2,7 @@
 layout: post
 title: "Meet us in San Francisco"
 description: "At the end of this month Luka is visiting San Francisco."
-category: irnas, KORUZA, GoodEnoughCNC
+category: irnas
 tags: [irnas, event, goodenoughcnc, koruza, open source, open hardware, public talk, San Francisco]
 ---
 {% include JB/setup %}
