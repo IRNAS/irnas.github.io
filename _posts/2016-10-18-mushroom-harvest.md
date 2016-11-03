@@ -13,8 +13,8 @@ Check out the images below and follow our blog for more mushroom related stuff!
 
 [![mushroom-1]({{ site.url }}/post_files/mushroom/mushroom-1.jpg){: .img-full}]({{ site.url }}/post_files/mushroom/mushroom-1.jpg){: .img-open}
 
-[![mushroom-2]({{ site.url }}/post_files/mushroom/mushroom-2.jpg){: .img-half}]({{ site.url }}/post_files/mushroom/mushroom-2.jpg){: .img-open}
-[![mushroom-3]({{ site.url }}/post_files/mushroom/mushroom-3.jpg){: .img-half}]({{ site.url }}/post_files/mushroom/mushroom-3.jpg){: .img-open}
+[![mushroom-2]({{ site.url }}/post_files/mushroom/mushroom-2.JPG){: .img-half}]({{ site.url }}/post_files/mushroom/mushroom-2.JPG){: .img-open}
+[![mushroom-3]({{ site.url }}/post_files/mushroom/mushroom-3.JPG){: .img-half}]({{ site.url }}/post_files/mushroom/mushroom-3.JPG){: .img-open}
 
 
 
