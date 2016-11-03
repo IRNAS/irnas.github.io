@@ -14,9 +14,9 @@ The construction uses two razor blades which are adjusted and screwed in place v
 
 The device is used together with [Spectral Workbench](https://spectralworkbench.org/){:target="_blank"}, the open source online spectral analysis tool provided by [PublicLab](https://publiclab.org/){:target="_blank"}, but should also work with [Spekwin32](http://effemm2.de/spekwin/index_en.html){:target="_blank"}, another fantastic open-source software for spectral analysis, which packs a bunch of functionality!
 
-[![spectrometer-1]({{ site.url }}/post_files/spectrometer/spectrometer-1.jpg){: .img-half}]({{ site.url }}/post_files/spectrometer/spectrometer-1.jpg){: .img-open}
-[![spectrometer-2]({{ site.url }}/post_files/spectrometer/spectrometer-2.jpg){: .img-half}]({{ site.url }}/post_files/spectrometer/spectrometer-2.jpg){: .img-open}
+[![spectrometer-1]({{ site.url }}/post_files/spectrometer/spectrometer-1.JPG){: .img-half}]({{ site.url }}/post_files/spectrometer/spectrometer-1.JPG){: .img-open}
+[![spectrometer-2]({{ site.url }}/post_files/spectrometer/spectrometer-2.JPG){: .img-half}]({{ site.url }}/post_files/spectrometer/spectrometer-2.JPG){: .img-open}
 
-[![spectrometer-3]({{ site.url }}/post_files/spectrometer/spectrometer-3.jpg){: .img-half}]({{ site.url }}/post_files/spectrometer/spectrometer-3.jpg){: .img-open}
-[![spectrometer-4]({{ site.url }}/post_files/spectrometer/spectrometer-4.jpg){: .img-half}]({{ site.url }}/post_files/spectrometer/spectrometer-4.jpg){: .img-open}
+[![spectrometer-3]({{ site.url }}/post_files/spectrometer/spectrometer-3.JPG){: .img-half}]({{ site.url }}/post_files/spectrometer/spectrometer-3.JPG){: .img-open}
+[![spectrometer-4]({{ site.url }}/post_files/spectrometer/spectrometer-4.JPG){: .img-half}]({{ site.url }}/post_files/spectrometer/spectrometer-4.JPG){: .img-open}
 
