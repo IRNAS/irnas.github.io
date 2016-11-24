@@ -946,3 +946,7 @@ padding-top:10px;
 .last{
 margin-bottom:50px;
 }
+
+.clear{
+  clear:both;
+}
