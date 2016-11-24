@@ -16,6 +16,8 @@ We are using lens system with 10 x magnification, 21 mm objective lens with foca
 [![camera-module]({{ site.url }}/post_files/koruza-pro-dev/camera-module-1.jpg){: .img-half}]({{ site.url }}/post_files/koruza-pro-dev/camera-module-1.jpg){: .img-open}
 [![camera-module]({{ site.url }}/post_files/koruza-pro-dev/camera-module-2.jpg){: .img-half}]({{ site.url }}/post_files/koruza-pro-dev/camera-module-2.jpg){: .img-open}
 
+[![camera-module]({{ site.url }}/post_files/koruza-pro-dev/camera.png){: .img-full}]({{ site.url }}/post_files/koruza-pro-dev/camera.png){: .img-open}
+
 To mount camera onto eyepiece lens, we used 3D printed adapter. We found out that the accuracy of positioning of the camera is very important to prevent black spots on the image. 3D printed part was not accurate enough to enable this. Solution that we found useful was to 3D print blank full block with the outline shape and then use the milling machine to drill the hole for the eyepiece lens mount and the holes for the screws that will hold camera in correct place above the lens. We used the same manufacturing process also for other 3D printed parts in [KORUZA Pro](http://new.koruza.net/){:target="_blank"} because it allows us to combine more complex shapes with high precision tolerances where needed. This type of manufacturing - combining 3D printed technology with classical manufacturing processes is suitable mostly for micro and small series production.
 
 
