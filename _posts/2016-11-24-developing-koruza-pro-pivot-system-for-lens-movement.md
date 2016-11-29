@@ -1,17 +1,13 @@
 ---
 layout: post
-title: "Pivot system for lens movement"
+title: "Developing KORUZA Pro: Pivot system for lens movement"
 description: ""
 category: KORUZA
 tags: [KORUZA, KORUZA Pro, Development, Mounting system]
 ---
 {% include JB/setup %}
 
-[](){:target="_blank"}
-
 Optical wireless system KORUZA operates by directing a collimated beam of light towards another unit to establish communication. To be able to precisely aim a beam of light with a millimeter precision when shining at a distant unit at 150 m away, one requires two key components; a precise motor drive (see blog about it) for mechanical displacement of a lever and a pivot point. For aiming in a 3 dimensional space, this must happen on the two perpendicular axes simultaneously, while having no rotation around its own axis. Additionally, in an optical system we wish to have the centre of rotation in the middle of the lens which limits the choice of mechanical solutions. For rotation around the single axis, a ball or a sliding bearing are a good choice, for rotation in two axis axes a round ball joint is typically used (as in KORUZA generation 2), however this moves the centre of rotation away from the lens centre as well as it requires a separate solution for the sealing of the moving part.
-
-(diagram rotation)
 
 Since KORUZA generation 3 on we used a rubber pad sandwiched between the two 3D printed parts with the lens in the middle, with which we have achieved the movement of the lens in both axes.  This system has proved to work very well on Koruza 1.0 for scientific research. But for the operation under harsh climate conditions we needed a solution that would be more reliable and insensitive resistant to extreme weather conditions. We needed to change the material of a the pad, since the rubber disintegrates when exposed to UV radiation. Polyurethane has proved to be very suitable for this application. We used the technology of baking the polyurethane sealing mass onto an aluminium plate. A flexible pivot point was then achieved by cutting out the ring around the lens mounting, cutting out the aluminium and keeping the polyurethane sealing mass like shown in the picture 2.
 
