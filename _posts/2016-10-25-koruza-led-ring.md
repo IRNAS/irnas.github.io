@@ -14,5 +14,5 @@ The technical implementation of this demonstration is rather straightforward. A 
 We have premiered this demonstration at [ARS Electronica 2016](http://www.aec.at/radicalatoms/en/artist-lab-institute-irnas/){:target="_blank"} and demonstrated it at [Maker Faire Rome 2016](http://www.makerfairerome.eu/en/){:target="_blank"}. The LED ring feature has proven to be such a good idea, we have implemented support for it directly into the KORUZA control system, so that we can now directly attach the LED ring to the unit, which is very practical during experimentation and fog experiments. Details about this implementation can be found on [GitHub](https://github.com/IRNAS/koruza_driver_firmware/pull/9
 ){:target="_blank"}.
 
-[![koruza-led-ring]({{ site.url }}/post_files/koruza-pro-dev/koruza-led-ring.jpg){: .img-full}]({{ site.url }}/post_files/koruza-pro-dev/koruza-led-ring.jpg){: .img-open}
-[![koruza-led-ring]({{ site.url }}/post_files/koruza-pro-dev/demo-maker-faire.jpg){: .img-full}]({{ site.url }}/post_files/koruza-pro-dev/demo-maker-faire.jpg){: .img-open}
+[![koruza-led-ring]({{ site.url }}/post_files/koruza-pro-dev/koruza-led-ring.jpg){: .img-half}]({{ site.url }}/post_files/koruza-pro-dev/koruza-led-ring.jpg){: .img-open}
+[![koruza-led-ring]({{ site.url }}/post_files/koruza-pro-dev/demo-maker-faire.jpg){: .img-half}]({{ site.url }}/post_files/koruza-pro-dev/demo-maker-faire.jpg){: .img-open}
