@@ -21,7 +21,7 @@ GoodEnoughCNC machines are contributing to this paradigm shift in manufacturing 
 Combining the best of open hardware solutions and innovating on the use of generally available standard parts, plus making sure any heavy parts - stock steel tubing- can be sourced locally, HybridCNC was developed. It is simple enough to construct for anyone requiring it, using only basic hand and power tools.
 
 [![make-for-good]({{ site.url }}/post_files/make-for-good/making.jpg){: .img-half}]({{ site.url }}/post_files/make-for-good/making.jpg){: .img-open}
-[![make-for-good]({{ site.url }}/post_files/make-for-good/goodenoughcnc-4.jpg){: .img-half}]({{ site.url }}/post_files/make-for-good/goodenoughcnc-4.jpg){: .img-open}
+[![make-for-good]({{ site.url }}/post_files/make-for-good/goodenoughcnc-4.JPG){: .img-half}]({{ site.url }}/post_files/make-for-good/goodenoughcnc-4.JPG){: .img-open}
 
 <iframe width="94.5%" height="360" src="https://www.youtube.com/embed/xZScY8QE78s" frameborder="0" allowfullscreen></iframe>
 
@@ -51,7 +51,7 @@ We know additive and subtractive digital manufacturing techniques, where the add
 
 - **Laser Cutting:** a subtractive technology where materials like metal or wood are burnt or melted by a laser beam
 
-[![make-for-good]({{ site.url }}/post_files/make-for-good/3dprinting.jpg){: .img-half}]({{ site.url }}/post_files/make-for-good/3dprinting.jpg){: .img-open}
+[![make-for-good]({{ site.url }}/post_files/make-for-good/3dprinting.JPG){: .img-half}]({{ site.url }}/post_files/make-for-good/3dprinting.JPG){: .img-open}
 [![make-for-good]({{ site.url }}/post_files/make-for-good/goodenoughcnc-plasma-cutting.jpg){: .img-half}]({{ site.url }}/post_files/make-for-good/goodenoughcnc-plasma-cutting.jpg){: .img-open}
 
 We can optimize and simplify the manufacturing process, achieve best results and be most effective at our work by combining different digital manufacturing tools, using the technique most suitable for the material we’re working with and the shape we want to create. When having a 2D design we would use subtractive method to cut or mill the shapes out and then build them into a 3D object, when for instance creating a piece of furniture or a house. Whereas with the 3D printing a very complicated 3D objects can be printed out in the desired shape directly by adding layers of material. One can even print out in a single piece an object that would otherwise have to be manufactured in several parts and then assembled.
