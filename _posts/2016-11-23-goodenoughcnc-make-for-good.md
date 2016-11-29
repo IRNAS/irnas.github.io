@@ -80,7 +80,7 @@ Whereas 3D printers are already widely used all around the world due to their in
 
 We have tackled this problem by developing a CNC machine, which can be shipped anywhere around the world as easily as any 3D printer. All essential parts for Hybrid CNC can be packed in a ["suitcase"](http://fabrikor.eu/goodenoughcnc-hybrid/goodenoughcnc-hybrid-suitcase-kit){:target="_blank"}  whereas the heavy and long components – steel tubing for the machine frame – can be sourced locally in most of the cases. This is optimal as it reduces the supply chain issues at the user side and is size and weight minimal, such that it can be mailed or taken on a plane as a carry-on. The machine can then be assembled at the location with the use of basic hand and power tools. We tested it and it works – during last year [Hybrid CNC was reproduced in this fashion in Nepal](http://irnas.eu/goodenoughcnc/2016/09/12/goodenoughcnc-empowering-nepal-community){:target="_blank"}, India and several western countries.
 
-[![make-for-good]({{ site.url }}/post_files/make-for-good/goodenoughcnc-kit.jpg){: .img-half}]({{ site.url }}/post_files/make-for-good/goodenoughcnc-kit.jpg){: .img-open}
+[![make-for-good]({{ site.url }}/post_files/make-for-good/goodenoughcnc-kit.JPG){: .img-half}]({{ site.url }}/post_files/make-for-good/goodenoughcnc-kit.JPG){: .img-open}
 [![make-for-good]({{ site.url }}/post_files/make-for-good/goodenoughcnc-in-a-suitcase.jpg){: .img-half}]({{ site.url }}/post_files/make-for-good/goodenoughcnc-in-a-suitcase.jpg){: .img-open}
 
 [![make-for-good]({{ site.url }}/post_files/make-for-good/goodenoughcnc-nepal-10.jpg){: .img-full}]({{ site.url }}/post_files/make-for-good/goodenoughcnc-nepal-10.jpg){: .img-open}
