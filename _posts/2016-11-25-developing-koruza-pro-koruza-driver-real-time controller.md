@@ -27,6 +27,7 @@ All protocol values are in network byte order (big endian). The use of TLVs enab
 Of course, you could ask, why two boards, couldn't all this be done on the single PCB? The answer is [YES](http://replygif.net/i/551.gif){:target="_blank"}, it could, but when you want something fast and reliable you have to compromise. And this is the case with rapid prototyping in electronics. Certainly these two boards will be merged into one in the final version of [Koruza Pro](http://new.koruza.net/){:target="_blank"}, but it the adjustment will be much easier, to do this now when that we know are aware of all the possible problems and have the working version of the Koruza driver. 
 
 [![mounting-system]({{ site.url }}/post_files/koruza-pro-dev/KoruzaDiagram.png){: .img-full}]({{ site.url }}/post_files/koruza-pro-dev/KoruzaDiagram.png){: .img-open}
+<p class="quiet">Koruza diagram</p>
 
 
 
