@@ -12,7 +12,7 @@ Optical wireless system KORUZA operates by directing a collimated beam of light 
 Since KORUZA generation 3 on we used a rubber pad sandwiched between the two 3D printed parts with the lens in the middle, with which we have achieved the movement of the lens in both axes.  This system has proved to work very well on Koruza 1.0 for scientific research. But for the operation under harsh climate conditions we needed a solution that would be more reliable and insensitive resistant to extreme weather conditions. We needed to change the material of a the pad, since the rubber disintegrates when exposed to UV radiation. Polyurethane has proved to be very suitable for this application. We used the technology of baking the polyurethane sealing mass onto an aluminium plate. A flexible pivot point was then achieved by cutting out the ring around the lens mounting, cutting out the aluminium and keeping the polyurethane sealing mass like shown in the picture 2.
 
 [![koruza-dev]({{ site.url }}/post_files/koruza-pro-dev/koruza-dev-1.JPG){: .img-half}]({{ site.url }}/post_files/koruza-pro-dev/koruza-dev-1.JPG){: .img-open}
-[![koruza-dev({{ site.url }}/post_files/koruza-pro-dev/koruza-dev-2.JPG){: .img-half}]({{ site.url }}/post_files/koruza-pro-dev/koruza-dev-2.JPG){: .img-open}
+[![koruza-dev]({{ site.url }}/post_files/koruza-pro-dev/koruza-dev-2.JPG){: .img-half}]({{ site.url }}/post_files/koruza-pro-dev/koruza-dev-2.JPG){: .img-open}
 
 When we started working on the prototypes we encountered several problems:
 - It is very difficult to coat aluminium plates when larger in size (over 500 × 500 mm), because they need to be heat treated in a curing oven which bends the aluminium in the process.
@@ -25,7 +25,7 @@ We are working on this problem with our local manufacturer of PU plates. One sol
 
 We’ve found an additional use of polyurethane baked on aluminium plate. It can be used as a seal flange. We used this technology on the Turtle tag project where we sealed the acrylic enclosure, reducing the need for special made gaskets. A big advantage of it when prototyping is that the lid with polyurethane can be cut in-house from a bigger plate, whereas silicone seals must be custom made.
 
-[![koruza-dev({{ site.url }}/post_files/koruza-pro-dev/turtle-tag-enclosure.JPG){: .img-full}]({{ site.url }}/post_files/koruza-pro-dev/turtle-tag-enclosure.JPG){: .img-open}
+[![koruza-dev]({{ site.url }}/post_files/koruza-pro-dev/turtle-tag-enclosure.JPG){: .img-full}]({{ site.url }}/post_files/koruza-pro-dev/turtle-tag-enclosure.JPG){: .img-open}
 
 
 
