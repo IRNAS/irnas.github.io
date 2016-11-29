@@ -13,8 +13,8 @@ Our PCB is based on [original design by Safecast](https://github.com/Safecast/bG
 
 All functions of the device have been tested (except XBee) and firmware is currently under development.
 
-[![Safecast-bGeigie]({{ site.url }}/post_files/gaiger/bGeigi-2.jpg){: .img-full}]({{ site.url }}/post_files/gaiger/bGeigi-2.jpg){: .img-open}
-[![Safecast-bGeigie]({{ site.url }}/post_files/gaiger/bGeigie-1.jpg){: .img-full}]({{ site.url }}/post_files/gaiger/bGeigie-1.jpg){: .img-open
+[![Safecast-bGeigie]({{ site.url }}/post_files/gaiger/bGeigi-2.JPG){: .img-full}]({{ site.url }}/post_files/gaiger/bGeigi-2.JPG){: .img-open}
+[![Safecast-bGeigie]({{ site.url }}/post_files/gaiger/bGeigie-1.JPG){: .img-full}]({{ site.url }}/post_files/gaiger/bGeigie-1.JPG){: .img-open
 
 
  
