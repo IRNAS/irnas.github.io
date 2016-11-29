@@ -107,6 +107,8 @@ To achieve this we’ll together with our partners first determine 6 key challen
 
 We want to get a good understanding of what is happening on the ground to identify the real challenges communities in different parts of developing world and post disaster zones are facing. With your help we we want to pick 6 open hardware projects, which are solving a specific shelter, thermal, water, waste, grow and electrical supply challenge for which we’re going to optimize HybridCNC, develop and document a complete pipeline from design to finished products to ensure easy and effective local replication.
 
+[![make-for-good]({{ site.url }}/post_files/make-for-good/challenges.png){: .img-full}]({{ site.url }}/post_files/make-for-good/challenges.png){: .img-open}
+
 __Goal:__ *Established relationships with partner organizations active on the field with identified solutions to the challenges*
 
 **Step 2: Optimize open hardware solutions to identified challenges**
