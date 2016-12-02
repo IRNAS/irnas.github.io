@@ -105,7 +105,7 @@ To achieve this we’ll together with our partners first determine 7 key challen
 
 **Step 1: Learn about the conditions and needs in the field to respond to specific local challenges**
 
-We want to get a good understanding of what is happening on the ground to identify the real challenges communities in different parts of developing world and post disaster zones are facing. With your help we we want to pick 7 open hardware projects, which are solving a specific shelter, thermal, water, waste, grow, electrical supply and health challenge for which we’re going to optimize HybridCNC, develop and document a complete pipeline from design to finished products to ensure easy and effective local replication.
+We want to get a good understanding of what is happening on the ground to identify the real challenges communities in different parts of developing world and post disaster zones are facing. With your help we we want to pick 7 open hardware projects that are solving a specific shelter, thermal, water, waste, grow, electrical supply and health challenge, for which we’re going to optimize HybridCNC, develop and document a complete pipeline from design to finished products to ensure easy and effective local replication. Check [this blog post](http://irnas.eu/goodenoughcnc/2016/12/02/fabrication-for-development){:target="_blank"} to read more and get involved.
 
 [![make-for-good]({{ site.url }}/post_files/make-for-good/challenges.png){: .img-full}]({{ site.url }}/post_files/make-for-good/challenges.png){: .img-open}
 
@@ -146,6 +146,18 @@ GoodEnoughCNC Academy will be designed specifically for organizations and makers
 __Goal:__ *Ensured financing for the distribution of machines through partner organizations + established online and offline selling channels. Overall goal - at least 200 replications globally.*
 
 Everyone interested in empowering for making and making for empowerment is invited to join us on this journey of creating an effective open source pipeline solution – from open-hardware designs and local digital manufacturing to useful solutions for the real life challenges –  and bringing the benefits of open source and distributed manufacturing to currently underserved communities. We are searching for partners, who have the extensive understanding of the situation in developing countries and disaster zones, organizations, companies and makers with the experience in development and production of open hardware solutions improving quality of life (windmill turbines, water filters, shelters, etc.) as well as CAM/CAD software providers and organizations providing financial and other support for the development activities around the world, to together form a consortium, which will have the capacities to bring the benefits of open source and distributed manufacturing around the globe. Please, get in touch to discuss collaboration possibilities and share this blog post with anyone who might be interested in getting involved in this initiative. We really appreciate your help!
+
+---
+
+**At this stage we invite everyone interested in getting involved to:**
+
+- [Provide us](http://irnas.eu/contact){:target="_blank"} with information about the most concerning challenges their community is facing.
+
+- [Share with us](http://irnas.eu/contact){:target="_blank"} interesting existing open hardware solutions.
+
+- Get in [contact](http://irnas.eu/contact){:target="_blank"} to discuss collaboration possibilities.
+
+- [Send us](http://irnas.eu/contact){:target="_blank"} any other feedback on this project – it will be really appreciated and helpful!
 
 
 

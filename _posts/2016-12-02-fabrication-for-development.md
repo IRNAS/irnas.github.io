@@ -25,11 +25,13 @@ To help us think about possible use cases we prepared a wireframe. However, we d
 - [WikiHouse](https://www.wikihouse.cc/){:target="_blank"}
 
 **2. Thermal**
+
 - [TLUD Champion stove by Servals](http://servals.in/our-products/tlud-gasifier-stoves/){:target="_blank"}
 
 - [Solar concentrator for steam generation by Open Source Ecologie France](http://www.instructables.com/id/Solar-OSE-Solar-concentrator-for-steam-generation/){:target="_blank"}
 
 **3. Water**
+
 - [3D printed water filter by Faircup](http://faircap.org/){:target="_blank"}
 
 - [Water pumps by Pumpmakers](https://pumpmakers.com/en/products){:target="_blank"}
@@ -37,11 +39,13 @@ To help us think about possible use cases we prepared a wireframe. However, we d
 - [Shower loop, real-time filtration, purification & recycling  system for showers](https://showerloop.org/){:target="_blank"} 
 
 **4. Waste**
+
 - [Composting Toilet by Open Source Ecology](http://opensourceecology.org/wiki/Composting_Toilet){:target="_blank"} 
 
 - [Precious Plastic](https://preciousplastic.com/en/){:target="_blank"} 
 
 **5. Grow/Food**
+
 - [Colorado Top Bar Beehive by Aker](https://akerkits.com/collections/products/products/colorado-top-bar-beehive){:target="_blank"}
 
 - [Cornersquare Raised Bed by Aker](https://akerkits.com/collections/products/products/cornersquare-raised-bed){:target="_blank"}
@@ -50,11 +54,15 @@ To help us think about possible use cases we prepared a wireframe. However, we d
 
 
 **6. Electrical**
+
 - [Wind turbines by Scoraig Wind Electric]( http://www.scoraigwind.com/){:target="_blank"}
 
 - [The low-cost low-head hydro energy turbine by Practical Action](http://answers.practicalaction.org/our-resources/item/axial-turbine-engineering-drawings){:target="_blank"} 
 
 **7. Health**
+
+- [Glia Free Medical Hardware: Stethoscope](https://github.com/GliaX/Stethoscope){:target="_blank"}
+
 - [Prosthetic hands by Openbionics](http://www.openbionics.org/){:target="_blank"} 
 
 - [Infant height measuring board by Field Ready](http://www.fieldready.org/height-board){:target="_blank"} 
@@ -67,7 +75,14 @@ Since we’ll be picking useful, life improving solutions and extensively docume
 
 We understand that fablabs and open source technology itself cannot solve all problems underserved communities face, but we believe they have the potential to strengthen local innovation eco-systems since they offer specific technological infrastructure that supports manufacturing of useful products, contextualized innovation and a custom approach to local challenges, which reflect the ideas, designs, and needs of their makers.
 
+---
 
+**At this stage we invite everyone interested in getting involved to:**
 
+- [Provide us](http://irnas.eu/contact){:target="_blank"} with information about the most concerning challenges their community is facing.
 
+- [Share with us](http://irnas.eu/contact){:target="_blank"} interesting existing open hardware solutions.
 
+- Get in [contact](http://irnas.eu/contact){:target="_blank"} to discuss collaboration possibilities.
+
+- [Send us](http://irnas.eu/contact){:target="_blank"} any other feedback on this project – it will be really appreciated and helpful!
