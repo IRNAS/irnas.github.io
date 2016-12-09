@@ -39,7 +39,7 @@ HybridCNC is a manufacturing baseline for CNC milling, plasma and laser cutting,
 
 ---
 
-<h3>Digital fabrication explained</h3>
+<h3 id="digital-fab-explained">Digital fabrication explained</h3>
 
 To quickly recap for everyone not familiar with digital fabrication – [Opendesk](https://www.opendesk.cc/about/digital-fabrication){:target="_blank"}’s definition explains it very simply: Digital fabrication is a type of manufacturing process where the machine used is controlled by a computer. There are a huge range of digital fabrication techniques, but the important aspect that unifies them is that the machines can be programmed to make consistent products from digital designs. That means that when you have a design of a product ready it can be downloaded and made, reliably and repeatably as many times you want, all over the world, without a maker needing to have specialist equipment.
 
