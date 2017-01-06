@@ -113,7 +113,7 @@ __Goal:__ *Established relationships with partner organizations active on the fi
 
 **Step 2: Optimize open hardware solutions to identified challenges**
 
-In this stage we will collaborate with current best practitioners on the field to optimize 6 open hardware solutions for digital manufacturing. An example of an open hardware project, which could be optimized for CNC manufacturing, is windmill turbine since there is already a significant number of building operations in remote locations, where there are using only very basic tools. 
+In this stage we will collaborate with current best practitioners on the field to optimize 7 open hardware solutions for digital manufacturing. An example of an open hardware project, which could be optimized for CNC manufacturing, is windmill turbine since there is already a significant number of building operations in remote locations, where there are using only very basic tools. 
 
 __Goal:__ *Optimized solutions for digital manufacturing*
 
