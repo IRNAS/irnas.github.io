@@ -8,7 +8,7 @@ tags: [irnas, new space, fabrication lab, koruza]
 {% include JB/setup %}
 
 
-**First, our team wishes everyone an open and a very successful 2017!**
+**Our team wishes everyone an open and a very successful 2017!**
 
 For us already the very beginning of the year has been full of changes. With our product [Koruza](http://koruza.net/){:target="_blank"} growing to the point of entering the professional market we had to make some strategic decisions in the last quarter of 2016. We came to the conclusion that in house manufacturing of the system is the right way to move forward, for which an investment into some new machine tools was required. At the same time also our team has expanded during the last year, which now counts eleven core team members and around three part time collaborators. A logical consequence of all this was a need for some bigger premises.
 
