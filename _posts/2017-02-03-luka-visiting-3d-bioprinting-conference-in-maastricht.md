@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Luka Visiting 3D Bioprinting Conference in Maastricht"
-description: "D"
+description: "Last week Luka Banović visited 3D Bioprinting Conference in Maastricht and got back home full of ideas for our Vitaprint 3D bioprinting project."
 category: bio-lab-symbiolab
 tags: [Bio lab, symbiolab, 3d bioprinter, 3d bioprinting, Vitaprint, event]
 ---
