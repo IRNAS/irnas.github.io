@@ -85,6 +85,8 @@
             <ul>
               <li><a href="http://irnas.eu/about.html">About</a></li>
               <li><a href="http://irnas.eu/license.html">License</a></li>
+              <li><a href="http://irnas.eu/collaboration.html">Collaboration</a></li>
+              <li><a href="http://irnas.eu/test-facility.html">Test Facility</a></li>
               <li><a href="http://irnas.eu/team.html">Team</a></li>
               <li><a href="http://irnas.eu/get-involved#vacancies">Vacancies</a></li>
               <li><a href="http://irnas.eu/get-involved#donate">Donate</a></li>
@@ -155,9 +157,16 @@
 <script src="{{ ASSET_PATH }}/javascripts/bootstrap.min.js"></script>
 <!-- Magnific Popup core JS file -->
 <script src="{{ ASSET_PATH }}/javascripts/jquery.magnific-popup.js"></script>
-<!--paralax-->
-<script src="{{ ASSET_PATH }}/javascripts\parallax.js-1.3.1/parallax.js"></script>
+
 <script>
+var $root = $('html, body');
+    $('a').click(function() {
+        $root.animate({
+        scrollTop: $( $.attr(this, 'href') ).offset().top
+    }, 500);
+    return false;
+    });
+
 $(document).ready(function() {
 $('.popup-gallery').magnificPopup({
     delegate: '.img-open',
@@ -200,7 +209,5 @@ $('.bg-holder').parallaxScroll({
   friction: 0.5
 });
 </script>
-
-
   </body>
 </html>

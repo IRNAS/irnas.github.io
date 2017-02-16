@@ -950,3 +950,87 @@ margin-bottom:50px;
 .clear{
   clear:both;
 }
+
+.nav-tabs > li > a{
+  border-radius: 0px;
+}
+
+.nav-tabs.nav-centered > li, .nav-pills.nav-centered > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+     font-size:1.2em;
+}
+
+.nav-tabs.nav-centered, .nav-pills.nav-centered {
+    text-align:center;
+}
+
+
+#vitaprint li a{
+  color:#777777;
+}
+
+#vitaprint li a:hover{
+  color:#0086FF;
+}
+
+#vitaprint a{
+    color:#0086FF;
+    font-weight:400;
+}
+
+#vitaprint a:hover{
+    color:#777;
+}
+
+#logo-vitaprint{
+  max-width:300px;
+  padding-top:50px;
+  padding-bottom:20px;
+}
+
+#vitaprint .nav{
+  margin-bottom:20px;
+}
+
+#vitaprint .container{
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+#vitaprint h3{
+    color:#0086FF;
+    padding-bottom:0px;
+}
+
+#vitaprint h2{
+  font-weight:500;
+  text-transform: uppercase;
+}
+
+#vitaprint strong{
+  font-weight:400;
+}
+
+#vitaprint hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 1px;
+    color:#0086FF;
+}
+
+#vitaprint .img-small{
+  max-width:200px;
+  padding:15px 0px;
+}
+
+#vitaprint .fa{
+  padding-right:10px;
+}
+
