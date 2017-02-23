@@ -159,6 +159,13 @@
 <script src="{{ ASSET_PATH }}/javascripts/jquery.magnific-popup.js"></script>
 
 <script>
+$('.toggle').click(function() {
+  if ( !$(this).next().hasClass('in') ) {
+    $(this).parent().children('.collapse.in').collapse('hide');
+  }
+  $(this).next().collapse('toggle');
+});
+
 var $root = $('html, body');
     $('a').click(function() {
         $root.animate({
@@ -208,6 +215,8 @@ $('.popup-gallery').magnificPopup({
 $('.bg-holder').parallaxScroll({
   friction: 0.5
 });
+
+
 </script>
   </body>
 </html>
