@@ -7,7 +7,7 @@ tags: [Bio lab, symbiolab, 3d bioprinter, 3d bioprinting, Vitaprint, biohacking,
 ---
 {% include JB/setup %}
 
-A while back, when [Musti and Boštjan were visiting the Ars Electronica festival in Linz](http://irnas.eu/bio-lab-symbiolab,%20irnas,%20koruza,%20goodenoughcnc/2016/09/16/report-from-ars-electronica-festival){:target="_blank"}, we recieved a package of gluten for testing with [Vitaprint - our 3D Bioprinter](http://irnas.eu/vitaprint){:target="_blank"}. Due to lack of temperature control and a less precise extruder, we weren't able to fabricate any satisfactory structures...that is until now! With the new, upgraded version, we have finally been able to produce some decent results.
+A while back, when [Musti and Boštjan were visiting the Ars Electronica festival in Linz](http://irnas.eu/bio-lab-symbiolab,%20irnas,%20koruza,%20goodenoughcnc/2016/09/16/report-from-ars-electronica-festival){:target="_blank"}, we recieved a package of gluten for testing with [Vitaprint - our 3D Bioprinter](http://irnas.eu/vitaprint){:target="_blank"}. Due to lack of temperature control and a less precise extruder, we weren't able to fabricate any satisfactory structures... that is until now! With the new, upgraded version, we have finally been able to produce some decent results.
 
 As a waste product in the food processing industry, gluten is relatively cheap, but is still a quite intriguing material. By modifying the chain lenght of the polymer, its mechanical properties can be adjusted, ranging from almost as stiff as glass, to as flexible as rubber. Due to its "stickyness" while wet, it has good adhesive capabilities and was already used as a binder in traditional craftsmanship.
 
