@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/bootstrap.min.css">
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/styles.css">
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/pygment_trac.css">
-    <link rel="stylesheet" href="{{ ASSET_PATH }}/fonts/font-awesome-4.5.0/css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/fonts/font-awesome-4.7.0/css/font-awesome.min.css"> 
     <!-- Magnific Popup core CSS file -->
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/magnific-popup.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -69,6 +69,7 @@
     <div class=" {{ page.special }}">
         {{ content }}
     </div>
+    <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style="display: none;">Top<span></span></a>
      <div class="pre-footer">
           <hr>
             <p>Institute IRNAS is supported by:</p>
@@ -83,15 +84,11 @@
           <div class="col-sm-3">
             <h4>More info</h4>
             <ul>
-              <li><a href="http://irnas.eu/about.html">About</a></li>
-              <li><a href="http://irnas.eu/license.html">License</a></li>
-              <li><a href="http://irnas.eu/collaboration.html">Collaboration</a></li>
-              <li><a href="http://irnas.eu/test-facility.html">Test Facility</a></li>
-              <li><a href="http://irnas.eu/team.html">Team</a></li>
-              <li><a href="http://irnas.eu/work-with-us#vacancies">Vacancies</a></li>
-              <li><a href="http://irnas.eu/get-involved#donate">Donate</a></li>
-              <li><a href="http://irnas.eu/get-involved#make-buy">Order</a></li>
-
+              <li><a href="{{site.baseurl}}/about.html">About</a></li>
+              <li><a href="{{site.baseurl}}/license.html">License</a></li>
+              <li><a href="{{site.baseurl}}/projects#collaboration">Collaboration</a></li>
+              <li><a href="{{site.baseurl}}/work-with-us#vacancies">Vacancies</a></li>
+              <li><a href="{{ site.url }}#donate">Donate</a></li>              
             </ul>
   
           </div>
@@ -100,7 +97,9 @@
             <h4>Projects</h4>
             <ul>
               <li><a href="http://koruza.net/" target="_blank">Koruza</a></li>
-              <li><a href="http://goodenoughcnc.eu/" target="_blank">GoodEnoughCNC</a></li>  
+              <li><a href="{{site.baseurl}}/vitaprint" >Vitaprint</a></li>
+              <li><a href="http://fabrikor.eu/" target="_blank">Fabrikor</a></li>
+              <li><a href="{{site.baseurl}}/work-with-us#phd-partnership">PhD Partnership</a></li>                
             </ul>
            
         </div>
@@ -152,13 +151,27 @@
         
     </div>
     
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="{{ ASSET_PATH }}/javascripts/scale.fix.js"></script>
 <script src="{{ ASSET_PATH }}/javascripts/bootstrap.min.js"></script>
 <!-- Magnific Popup core JS file -->
 <script src="{{ ASSET_PATH }}/javascripts/jquery.magnific-popup.js"></script>
 
 <script>
+
+$(window).scroll(function(){ 
+    if ($(this).scrollTop() > 250) { 
+        $('#scroll').fadeIn(); 
+    } else { 
+        $('#scroll').fadeOut(); 
+    } 
+});
+$('#scroll').click(function(){ 
+    $("html, body").animate({ scrollTop: 0 }, 600); 
+    return false; 
+});
+
+
 $('.toggle').click(function() {
   if ( !$(this).next().hasClass('in') ) {
     $(this).parent().children('.collapse.in').collapse('hide');
@@ -166,13 +179,31 @@ $('.toggle').click(function() {
   $(this).next().collapse('toggle');
 });
 
-var $root = $('html, body');
-    $('a').click(function() {
-        $root.animate({
-        scrollTop: $( $.attr(this, 'href') ).offset().top
-    }, 500);
-    return false;
+// to top right away
+if ( window.location.hash ) scroll(0,0);
+// void some browsers issue
+setTimeout( function() { scroll(0,0); }, 1);
+
+$(function() {
+
+    // your current click function
+    $('.scroll').on('click', function(e) {
+        e.preventDefault();
+        $('html, body').animate({
+            scrollTop: $($(this).attr('href')).offset().top + 'px'
+        }, 1000, 'swing');
     });
+
+    // *only* if we have anchor on the url
+    if(window.location.hash) {
+
+        // smooth scroll to the anchor id
+        $('html, body').animate({
+            scrollTop: $(window.location.hash).offset().top + 'px'
+        }, 1000, 'swing');
+    }
+
+});
 
 $(document).ready(function() {
 $('.popup-gallery').magnificPopup({
