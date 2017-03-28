@@ -633,7 +633,7 @@ transition: opacity ease-in-out 500ms; */
    float:none;
 }
 
-#symbiolab .col-centered{
+#symbiolab .col-centered, #work-with-us .col-centered{
  margin:50px auto; 
 }
 
