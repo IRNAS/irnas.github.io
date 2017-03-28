@@ -1241,3 +1241,7 @@ border: solid 3px;
 .page{
   margin-bottom:50px;
 }
+
+.blog-content, .post-content{
+  margin-bottom:50px;
+}
