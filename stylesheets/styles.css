@@ -629,8 +629,12 @@ transition: opacity ease-in-out 500ms; */
 }
 
 .col-centered{
-   margin:0 auto;
+   margin:0px auto;
    float:none;
+}
+
+#symbiolab .col-centered{
+ margin:50px auto; 
 }
 
 .col-block-centered{
@@ -1232,4 +1236,8 @@ border: solid 3px;
 
 #team-page p{
   margin-top:15px;
+}
+
+.page{
+  margin-bottom:50px;
 }
