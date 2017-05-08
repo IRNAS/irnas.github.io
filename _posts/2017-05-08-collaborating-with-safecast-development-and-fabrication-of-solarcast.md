@@ -2,7 +2,7 @@
 layout: post
 title: "Collaborating with Safecast – Development and Fabrication of Solarcast"
 description: "We’re happy to announce that also with our help the first version of Solarcast has been released."
-category: 
+category: Other Projects
 tags: [Solarcast, Safecast, environmental monitoring, environmental data, open data, open source, open hardware, development]
 ---
 {% include JB/setup %}
