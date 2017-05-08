@@ -2,7 +2,7 @@
 layout: post
 title: "Turtle Tag and Turtle Camera Enclosure Development to Help Save Sea Turtles"
 description: "We've improved the design of our open source turtle tag enclosure Pitstop tag."
-category: GoodEnoughCNC
+category: Other Projects
 tags: [Turtle Tag, Pitstop tag, open source, open hardware, development, conservation]
 ---
 {% include JB/setup %}
