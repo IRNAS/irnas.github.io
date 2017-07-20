@@ -336,9 +336,9 @@ h2{
 
 /*slider front*/
 /*************************
-*******Home Page******
+*******Home Page + Slider Vitaprint******
 **************************/
-#headerSlider {
+#headerSlider, #headerSlider1 {
   position: relative;
   z-index: 1;
 }
@@ -348,15 +348,15 @@ h2{
   padding: 0;
 }
 
-#headerSlider .carousel-content {
+#headerSlider .carousel-content, #headerSlider1 .carousel-content {
   margin-top: 50px;
 }
 
-#headerSlider .slide-margin {
+#headerSlider .slide-margin, #headerSlider1 .slide-margin {
   margin-top: 140px;
 }
 
-#headerSlider .bothTitles {
+#headerSlider .bothTitles, #headerSlider1 .bothTitles {
   display: block;
   position: absolute;
   width: 80%;
@@ -365,14 +365,14 @@ h2{
   left: 10%;
 }
 
-#headerSlider .headerSliderTitle {
+#headerSlider .headerSliderTitle, #headerSlider1 .headerSliderTitle {
   background-color: rgba(255,255,255,.75);
   padding: 10px 20px;
   color: #333;
   font-weight: 400;
 }
 
-#headerSlider .headerSliderTitle2 {
+#headerSlider .headerSliderTitle2, #headerSlider1 .headerSliderTitle2 {
   color: #fff;
   background: rgba(0,0,0,.5);
     padding: 10px 20px;
@@ -380,7 +380,7 @@ margin-bottom:0px;
 font-weight: 400;
 }
 
-#headerSlider .btn-slide {
+#headerSlider .btn-slide, #headerSlider1 .btn-slide {
   padding: 8px 20px;
   background: #6BAF37;
   color: #fff;
@@ -397,12 +397,12 @@ body.startpage #headerSlider .readMore {
   display: inline-block;
 }
 
-#headerSlider .slider-img {
+#headerSlider .slider-img, #headerSlider1 .slider-img {
   text-align: right;
   position: absolute;
 }
 
-#headerSlider .item {
+#headerSlider .item, #headerSlider1 .item {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -419,12 +419,12 @@ body.startpage #headerSlider .readMore {
 transition: opacity ease-in-out 500ms; */
 }
 
-#headerSlider .item:first-child {
+#headerSlider .item:first-child, #headerSlider1 .item:first-child {
   top: auto;
   position: relative;
 }
 
-#headerSlider .item.active {
+#headerSlider .item.active, #headerSlider1 .item.active {
   opacity: 1;
   -webkit-transition: opacity ease-in-out 500ms;
   -moz-transition: opacity ease-in-out 500ms;
@@ -434,7 +434,8 @@ transition: opacity ease-in-out 500ms; */
 }
 
 #headerSlider .prev,
-#headerSlider .next {
+#headerSlider .next, #headerSlider1 .prev,
+#headerSlider1 .next {
   position: absolute;
   top: 50%;
   background-color: #6BAF37;
@@ -451,23 +452,21 @@ transition: opacity ease-in-out 500ms; */
 }
 
 #headerSlider .prev:hover,
-#headerSlider .next:hover {
+#headerSlider .next:hover, #headerSlider1 .prev:hover,
+#headerSlider1 .next:hover {
   background-color: #333;
 }
 
-#headerSlider .prev {
+#headerSlider .prev, #headerSlider1 .prev {
   left: 10px;
 }
 
-#headerSlider .next {
+#headerSlider .next, #headerSlider1 .next {
   right: 10px;
 }
 
-#headerSlider .carousel-indicators {
-  
-}
 
-#headerSlider .carousel-indicators li {
+#headerSlider .carousel-indicators li, #headerSlider1 .carousel-indicators li {
   width: 20px;
   height: 20px;
   background-color: #fff;
@@ -475,7 +474,7 @@ transition: opacity ease-in-out 500ms; */
   position: relative;
 }
 
-#headerSlider .carousel-indicators li:after {
+#headerSlider .carousel-indicators li:after, #headerSlider1 .carousel-indicators li:after {
   position: absolute;
   content: "";
   width: 24px;
@@ -486,7 +485,7 @@ transition: opacity ease-in-out 500ms; */
   top: -3px;
 }
 
-#headerSlider .carousel-indicators .active {
+#headerSlider .carousel-indicators .active{
   width: 20px;
   height: 20px;
   background-color: #6BAF37;
@@ -495,7 +494,16 @@ transition: opacity ease-in-out 500ms; */
    position: relative;
 }
 
-#headerSlider .carousel-indicators .active:after {
+#headerSlider1 .carousel-indicators .active {
+  width: 20px;
+  height: 20px;
+  background-color: #0086FF;
+   margin: 0 15px 0 0;
+   border: 1px solid #0086FF;
+   position: relative;
+}
+
+#headerSlider .carousel-indicators .active:after{
   position: absolute;
   content: "";
   width: 24px;
@@ -506,7 +514,18 @@ transition: opacity ease-in-out 500ms; */
   top: -3px;
 }
 
-#headerSlider .active .animation.animated-item-1 {
+#headerSlider1 .carousel-indicators .active:after {
+  position: absolute;
+  content: "";
+  width: 24px;
+  height: 24px;
+  border-radius: 100%;
+  background: #0086FF;
+  left: -3px;
+  top: -3px;
+}
+
+#headerSlider .active .animation.animated-item-1, #headerSlider1 .active .animation.animated-item-1 {
   -webkit-animation: fadeInUp 300ms linear 300ms both;
   -moz-animation: fadeInUp 300ms linear 300ms both;
   -o-animation: fadeInUp 300ms linear 300ms both;
@@ -514,7 +533,7 @@ transition: opacity ease-in-out 500ms; */
   animation: fadeInUp 300ms linear 300ms both;
 }
 
-#headerSlider .active .animation.animated-item-2 {
+#headerSlider .active .animation.animated-item-2, #headerSlider1 .active .animation.animated-item-2 {
   -webkit-animation: fadeInUp 300ms linear 600ms both;
   -moz-animation: fadeInUp 300ms linear 600ms both;
   -o-animation: fadeInUp 300ms linear 600ms both;
@@ -522,7 +541,7 @@ transition: opacity ease-in-out 500ms; */
   animation: fadeInUp 300ms linear 600ms both;
 }
 
-#headerSlider .active .animation.animated-item-3 {
+#headerSlider .active .animation.animated-item-3, #headerSlider1 .active .animation.animated-item-3 {
   -webkit-animation: fadeInUp 300ms linear 900ms both;
   -moz-animation: fadeInUp 300ms linear 900ms both;
   -o-animation: fadeInUp 300ms linear 900ms both;
@@ -530,7 +549,7 @@ transition: opacity ease-in-out 500ms; */
   animation: fadeInUp 300ms linear 900ms both;
 }
 
-#headerSlider .active .animation.animated-item-4 {
+#headerSlider .active .animation.animated-item-4, #headerSlider1 .active .animation.animated-item-4 {
   -webkit-animation: fadeInUp 300ms linear 1200ms both;
   -moz-animation: fadeInUp 300ms linear 1200ms both;
   -o-animation: fadeInUp 300ms linear 1200ms both;
@@ -589,7 +608,7 @@ transition: opacity ease-in-out 500ms; */
   background: none;
 }
 
-.color-window h2 {
+.color-window h2{
   margin-top:0px !important;
   margin-bottom:0px !important;
   padding:30px 0px;
@@ -598,13 +617,13 @@ transition: opacity ease-in-out 500ms; */
   font-size: 35px;
 }
 
-.color-window h1{
+.color-window h1, .em-block h1{
   font-weight: 400;
   font-size: 30px;
 }
 
 
-.color-window{
+.color-window, .em-block, .em-block-blue{
   text-align: center;
 }
 
@@ -641,7 +660,7 @@ transition: opacity ease-in-out 500ms; */
    margin:0 auto;
 }
 
-#headerSlider .carousel-content{
+#headerSlider .carousel-content, #headerSlider1 .carousel-content{
   margin-top:40%;
 }
 
@@ -996,29 +1015,19 @@ margin-bottom:50px;
   color:#0086FF;
 }
 
-#vitaprint a{
+/*#vitaprint a{
     color:#0086FF;
     font-weight:400;
 }
 
 #vitaprint a:hover{
     color:#777;
-}
+}*/
 
 #logo-vitaprint{
-  max-width:300px;
-  padding-top:50px;
-  padding-bottom:20px;
+  max-width:200px;
 }
 
-#vitaprint .nav{
-  margin-bottom:20px;
-}
-
-#vitaprint .container{
-  padding-top:30px;
-  padding-bottom:30px;
-}
 
 #vitaprint h3{
     color:#0086FF;
@@ -1074,7 +1083,7 @@ margin-bottom:50px;
  cursor: hand;
 }
 
-#headerSlider .headerSliderTitle{
+#headerSlider .headerSliderTitle, #headerSlider1 .headerSliderTitle{
   font-weight: 600;
 }
 
@@ -1215,6 +1224,7 @@ border: solid 3px;
     opacity:1;filter:"alpha(opacity=100)";
     -ms-filter:"alpha(opacity=100)";
 }
+
 .img-thumbnail{
   border:none;
 }
@@ -1247,4 +1257,151 @@ border: solid 3px;
 
 .blog-content, .post-content{
   margin-bottom:50px;
+}
+
+#vitaprint nav a{
+color:#0086FF;
+}
+
+.nav-tabs{
+  border-bottom:none;
+  padding-top:20px;
+}
+
+#vitaprint-content .container{
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
+#vitaprint .headerSliderTitle2{
+  text-transform:none;
+}
+
+#headerSlider1 .carousel-indicators .active{
+  background-color:#0086FF !important;
+  border:#0086FF !important;
+}
+
+.em-block{
+  padding-top:50px;
+  padding-bottom:50px;
+  background: #F8F8F8;
+}
+
+.em-block-blue{
+  padding-top:20px;
+  padding-bottom:20px;
+  background:#0086FF;
+}
+
+.em-block-blue h3{
+  line-height: 120%;
+  color: #ffffff !important;
+  font-weight: 500;
+  font-size:160%;
+}
+
+.em-block h3{
+  line-height: 130%;
+  color: #0086FF;
+  font-weight: 500;
+  font-size:180%;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+#vitaprint .lead h3{
+  padding-top:0px;
+}
+
+#vitaprint .lead p, ul, ol{
+  font-size:20px;
+}
+
+.btn-vita{
+background-color:#0086FF;
+border-radius:0px;
+border: 2px solid transparent;
+font-size: 18px;
+float:right;
+color:#fff;
+margin-top:20px;
+}
+
+.btn-vita:hover, .btn-vita:focus, .btn-vita:active{
+background-color: #666666;
+color: #fff;
+transition: all .2s !important;
+border-radius: 0px;
+font-size: 18px;
+border: solid 2px transparent;
+}
+
+.btn-vita-white{
+background-color:#ffffff;
+border-radius:0px;
+border: 2px solid transparent;
+font-size: 18px;
+color:#0086FF;
+margin-top:20px;
+float:center;
+}
+
+.btn-vita-white:hover, .btn-vita-white:focus, .btn-vita-white:active{
+background-color: #666666;
+color: #fff;
+transition: all .2s !important;
+border-radius: 0px;
+font-size: 18px;
+border: solid 2px transparent;
+}
+
+
+#vitaprint .fa, #vitaprint span{
+  color:#0086FF;
+}
+
+#vitaprint .lead h3{
+  padding-bottom:10px;
+}
+
+.em-block-blue .container{
+  padding-top:20px !important;
+  padding-bottom:20px !important;  
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -50px;
+    visibility: hidden;
+}
+
+#projects-content h2, #partners-content h2{
+  text-align:center;
+}
+
+.btn-left{
+  float:left !important;
+}
+
+.img-bw {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+#contact-content a{
+    color:#0086FF;
+    font-weight:400;
+}
+
+#contact-content a:hover{
+    color:#777;
+}
+
+#vitaprint nav-tabs{
+  font-size:16px;
 }
