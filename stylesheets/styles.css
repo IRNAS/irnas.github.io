@@ -338,7 +338,7 @@ h2{
 /*************************
 *******Home Page + Slider Vitaprint******
 **************************/
-#headerSlider, #headerSlider1 {
+#headerSlider, #headerSlider1, #headerSlider2{
   position: relative;
   z-index: 1;
 }
@@ -348,15 +348,15 @@ h2{
   padding: 0;
 }
 
-#headerSlider .carousel-content, #headerSlider1 .carousel-content {
+#headerSlider .carousel-content, #headerSlider1 .carousel-content, #headerSlider2 .carousel-content {
   margin-top: 50px;
 }
 
-#headerSlider .slide-margin, #headerSlider1 .slide-margin {
+#headerSlider .slide-margin, #headerSlider1 .slide-margin, #headerSlider2 .slide-margin {
   margin-top: 140px;
 }
 
-#headerSlider .bothTitles, #headerSlider1 .bothTitles {
+#headerSlider .bothTitles, #headerSlider1 .bothTitles, #headerSlider2 .bothTitles {
   display: block;
   position: absolute;
   width: 80%;
@@ -365,14 +365,14 @@ h2{
   left: 10%;
 }
 
-#headerSlider .headerSliderTitle, #headerSlider1 .headerSliderTitle {
+#headerSlider .headerSliderTitle, #headerSlider1 .headerSliderTitle, #headerSlider2 .headerSliderTitle {
   background-color: rgba(255,255,255,.75);
   padding: 10px 20px;
   color: #333;
   font-weight: 400;
 }
 
-#headerSlider .headerSliderTitle2, #headerSlider1 .headerSliderTitle2 {
+#headerSlider .headerSliderTitle2, #headerSlider1 .headerSliderTitle2, #headerSlider2 .headerSliderTitle2 {
   color: #fff;
   background: rgba(0,0,0,.5);
     padding: 10px 20px;
@@ -380,7 +380,7 @@ margin-bottom:0px;
 font-weight: 400;
 }
 
-#headerSlider .btn-slide, #headerSlider1 .btn-slide {
+#headerSlider .btn-slide, #headerSlider1 .btn-slide, #headerSlider2 .btn-slide {
   padding: 8px 20px;
   background: #6BAF37;
   color: #fff;
@@ -397,12 +397,12 @@ body.startpage #headerSlider .readMore {
   display: inline-block;
 }
 
-#headerSlider .slider-img, #headerSlider1 .slider-img {
+#headerSlider .slider-img, #headerSlider1 .slider-img, #headerSlider2 .slider-img {
   text-align: right;
   position: absolute;
 }
 
-#headerSlider .item, #headerSlider1 .item {
+#headerSlider .item, #headerSlider1 .item, #headerSlider2 .item {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -419,12 +419,12 @@ body.startpage #headerSlider .readMore {
 transition: opacity ease-in-out 500ms; */
 }
 
-#headerSlider .item:first-child, #headerSlider1 .item:first-child {
+#headerSlider .item:first-child, #headerSlider1 .item:first-child, #headerSlider2 .item:first-child {
   top: auto;
   position: relative;
 }
 
-#headerSlider .item.active, #headerSlider1 .item.active {
+#headerSlider .item.active, #headerSlider1 .item.active, #headerSlider2 .item.active {
   opacity: 1;
   -webkit-transition: opacity ease-in-out 500ms;
   -moz-transition: opacity ease-in-out 500ms;
@@ -435,7 +435,8 @@ transition: opacity ease-in-out 500ms; */
 
 #headerSlider .prev,
 #headerSlider .next, #headerSlider1 .prev,
-#headerSlider1 .next {
+#headerSlider1 .next, #headerSlider2 .prev,
+#headerSlider2 .next {
   position: absolute;
   top: 50%;
   background-color: #6BAF37;
@@ -453,20 +454,21 @@ transition: opacity ease-in-out 500ms; */
 
 #headerSlider .prev:hover,
 #headerSlider .next:hover, #headerSlider1 .prev:hover,
-#headerSlider1 .next:hover {
+#headerSlider1 .next:hover, #headerSlider2 .prev:hover,
+#headerSlider2 .next:hover {
   background-color: #333;
 }
 
-#headerSlider .prev, #headerSlider1 .prev {
+#headerSlider .prev, #headerSlider1 .prev, #headerSlider2 .prev {
   left: 10px;
 }
 
-#headerSlider .next, #headerSlider1 .next {
+#headerSlider .next, #headerSlider1 .next, #headerSlider2 .next {
   right: 10px;
 }
 
 
-#headerSlider .carousel-indicators li, #headerSlider1 .carousel-indicators li {
+#headerSlider .carousel-indicators li, #headerSlider1 .carousel-indicators li, #headerSlider2 .carousel-indicators li {
   width: 20px;
   height: 20px;
   background-color: #fff;
@@ -474,7 +476,7 @@ transition: opacity ease-in-out 500ms; */
   position: relative;
 }
 
-#headerSlider .carousel-indicators li:after, #headerSlider1 .carousel-indicators li:after {
+#headerSlider .carousel-indicators li:after, #headerSlider1 .carousel-indicators li:after, #headerSlider2 .carousel-indicators li:after {
   position: absolute;
   content: "";
   width: 24px;
@@ -525,7 +527,7 @@ transition: opacity ease-in-out 500ms; */
   top: -3px;
 }
 
-#headerSlider .active .animation.animated-item-1, #headerSlider1 .active .animation.animated-item-1 {
+#headerSlider .active .animation.animated-item-1, #headerSlider1 .active .animation.animated-item-1, #headerSlider2 .active .animation.animated-item-1 {
   -webkit-animation: fadeInUp 300ms linear 300ms both;
   -moz-animation: fadeInUp 300ms linear 300ms both;
   -o-animation: fadeInUp 300ms linear 300ms both;
@@ -533,7 +535,7 @@ transition: opacity ease-in-out 500ms; */
   animation: fadeInUp 300ms linear 300ms both;
 }
 
-#headerSlider .active .animation.animated-item-2, #headerSlider1 .active .animation.animated-item-2 {
+#headerSlider .active .animation.animated-item-2, #headerSlider1 .active .animation.animated-item-2, #headerSlider2 .active .animation.animated-item-2 {
   -webkit-animation: fadeInUp 300ms linear 600ms both;
   -moz-animation: fadeInUp 300ms linear 600ms both;
   -o-animation: fadeInUp 300ms linear 600ms both;
@@ -541,7 +543,7 @@ transition: opacity ease-in-out 500ms; */
   animation: fadeInUp 300ms linear 600ms both;
 }
 
-#headerSlider .active .animation.animated-item-3, #headerSlider1 .active .animation.animated-item-3 {
+#headerSlider .active .animation.animated-item-3, #headerSlider1 .active .animation.animated-item-3, #headerSlider2 .active .animation.animated-item-3 {
   -webkit-animation: fadeInUp 300ms linear 900ms both;
   -moz-animation: fadeInUp 300ms linear 900ms both;
   -o-animation: fadeInUp 300ms linear 900ms both;
@@ -549,7 +551,7 @@ transition: opacity ease-in-out 500ms; */
   animation: fadeInUp 300ms linear 900ms both;
 }
 
-#headerSlider .active .animation.animated-item-4, #headerSlider1 .active .animation.animated-item-4 {
+#headerSlider .active .animation.animated-item-4, #headerSlider1 .active .animation.animated-item-4, #headerSlider2 .active .animation.animated-item-4 {
   -webkit-animation: fadeInUp 300ms linear 1200ms both;
   -moz-animation: fadeInUp 300ms linear 1200ms both;
   -o-animation: fadeInUp 300ms linear 1200ms both;
@@ -660,7 +662,7 @@ transition: opacity ease-in-out 500ms; */
    margin:0 auto;
 }
 
-#headerSlider .carousel-content, #headerSlider1 .carousel-content{
+#headerSlider .carousel-content, #headerSlider1 .carousel-content, #headerSlider2 .carousel-content{
   margin-top:40%;
 }
 
@@ -1083,7 +1085,7 @@ margin-bottom:50px;
  cursor: hand;
 }
 
-#headerSlider .headerSliderTitle, #headerSlider1 .headerSliderTitle{
+#headerSlider .headerSliderTitle, #headerSlider1 .headerSliderTitle, #headerSlider2 .headerSliderTitle{
   font-weight: 600;
 }
 
@@ -1268,7 +1270,7 @@ color:#0086FF;
   padding-top:20px;
 }
 
-#vitaprint-content .container{
+#vitaprint-content .container, #pira .container{
   padding-top:50px;
   padding-bottom:50px;
 }
@@ -1404,4 +1406,90 @@ a.anchor {
 
 #vitaprint nav-tabs{
   font-size:16px;
+}
+
+#customers-content .featurette-heading{
+  text-align: center;
+}
+
+#pira .img-partner{
+  max-width:180px;
+  padding-top:20px;
+}
+
+#pira .fa, #pira .lead span{
+  color:#2481E4;
+}
+
+.btn-pira-white{
+background-color:#ffffff;
+border-radius:0px;
+border: 2px solid transparent;
+font-size: 18px;
+color:#2481E4;
+margin-top:20px;
+float:center;
+}
+
+.btn-pira{
+background-color:#2481E4;
+border-radius:0px;
+border: 2px solid transparent;
+font-size: 18px;
+float:right;
+color:#fff;
+margin-top:20px;
+}
+
+.em-block h3{
+  line-height: 130%;
+  color: #2481E4;
+  font-weight: 500;
+  font-size:180%;
+}
+
+#pira .em-block-blue{
+  background:#2481E4;
+}
+
+#headerSlider2 .carousel-indicators .active{
+  background-color:#2481E4 !important;
+  border:#2481E4 !important;
+}
+
+
+#pira li a:hover{
+  color:#2481E4;
+}
+
+#headerSlider2 .carousel-indicators .active {
+  width: 20px;
+  height: 20px;
+  background-color: #2481E4;
+   margin: 0 15px 0 0;
+   border: 1px solid #2481E4;
+   position: relative;
+}
+
+#headerSlider2 .carousel-indicators .active:after{
+  position: absolute;
+  content: "";
+  width: 24px;
+  height: 24px;
+  border-radius: 100%;
+  background: #6BAF37;
+  left: -3px;
+  top: -3px;
+}
+
+#pira p{
+  font-size:18px;
+}
+
+.em-block-white{
+  background-color:#fff !important;
+}
+
+#pira strong{
+  font-weight:600;
 }
