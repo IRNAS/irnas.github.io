@@ -55,7 +55,7 @@ Of course, we are keeping the project well documented with all the source files 
 [![open-benefits]({{ site.url }}/post_files/open-hardware-dev/open-benefits.png){: .img-full}]({{ site.url }}/post_files/open-hardware-dev/open-benefits.png){: .img-open}
 <p class="quiet">Practical outcomes of Openess for the final users</p>
 
-We are finishing this introduction with a sneak peak into the next week story. We’ll be introducing a very interesting project in which we’re taking part — together with [The Crees Foundation](https://www.crees-manu.org/){:target="_blank"}, [the Zoological Society of London](https://www.zsl.org/){:target="_blank"} and [the Arribada Initiative](http://blog.arribada.org/){:target="_blank"} we are going to build a monitoring network on a very particular and important location of our planet. More next week. Stay tuned!
+We are finishing this introduction with a sneak peak into one of the projects we're working on. Together with [The Crees Foundation](https://www.crees-manu.org/){:target="_blank"}, [the Zoological Society of London](https://www.zsl.org/){:target="_blank"} and [the Arribada Initiative](http://blog.arribada.org/){:target="_blank"} we are building a monitoring network on a very particular and important location of our planet. More soon. Stay tuned!
 
 *From now on you can follow the stories on collaborative open hardware development also on [Medium platform](https://medium.com/@IRNAS){:target="_blank"}.*
 

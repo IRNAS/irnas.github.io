@@ -681,8 +681,8 @@ transition: opacity ease-in-out 500ms; */
 
 .div-background{
   background-color:#F8F8F8;
-  /*padding:40px 0px;
-  margin:20px 0px;*/
+  padding:20px 0px;
+  margin:10px 0px;
   border-top:1px solid #F1F1F1;
   border-bottom:1px solid #F1F1F1;
 }
@@ -966,7 +966,7 @@ padding-top:10px;
 }
 
 .tag_box li{
-  margin-top:5px;
+ margin: 5px auto;
 }
 
 .btn-primary{
@@ -1372,7 +1372,7 @@ a.anchor {
     visibility: hidden;
 }
 
-#projects-content h2, #partners-content h2{
+#projects-content h2, .partners-content h2{
   text-align:center;
 }
 
