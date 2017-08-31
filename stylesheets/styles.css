@@ -1264,7 +1264,7 @@ color:#0086FF;
   padding-top:20px;
 }
 
-#vitaprint-content .container, #pira .container{
+#vitaprint-content .container, #pira-project .container{
   padding-top:50px;
   padding-bottom:50px;
 }
@@ -1406,12 +1406,12 @@ a.anchor {
   text-align: center;
 }
 
-#pira .img-partner{
+#pira-project .img-partner{
   max-width:180px;
   padding-top:20px;
 }
 
-#pira .fa, #pira .lead span{
+#pira-project .fa, #pira-project .lead span{
   color:#2481E4;
 }
 
@@ -1442,7 +1442,7 @@ margin-top:20px;
   font-size:180%;
 }
 
-#pira .em-block-blue{
+#pira-project .em-block-blue{
   background:#2481E4;
 }
 
@@ -1452,7 +1452,7 @@ margin-top:20px;
 }
 
 
-#pira li a:hover{
+#pira-project li a:hover{
   color:#2481E4;
 }
 
@@ -1476,7 +1476,7 @@ margin-top:20px;
   top: -3px;
 }
 
-#pira p{
+#pira-project p{
   font-size:18px;
 }
 
@@ -1484,7 +1484,7 @@ margin-top:20px;
   background-color:#fff !important;
 }
 
-#pira strong{
+#pira-project strong{
   font-weight:600;
 }
 
@@ -1505,4 +1505,8 @@ margin-top:20px;
 
 .bio{
   margin-bottom: 50px;
+}
+
+#customers-content img{
+  width:100%;
 }
