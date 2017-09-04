@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Freeform gelatin microfluidics<sup>2</sup> - Making a Meniscus"
+title: "Freeform Gelatin Microfluidics<sup>2</sup> - Making a Meniscus"
 description: "In last  weeks our Symbiolab team has been working tirelessly to refine the protocol for gelatin microfluidics and make it useful for larger and more complex structures."
 category: bio-lab-symbiolab
 tags: [bio lab, symbiolab, 3d bioprinter, 3d bioprinting, Vitaprint, biohacking, biomedicine, biomaterials, biofabrication, 3d biofabrication, microfluidics, meniscus]
