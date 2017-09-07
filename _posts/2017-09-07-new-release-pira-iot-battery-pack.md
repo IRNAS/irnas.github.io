@@ -50,7 +50,7 @@ PiRA is typically used with multiple LiPo battery cells in parallel in 1SxP conf
 Find out more about the available modules, which can be combined on the motherboard in a number of ways on [PiRA presentation webpage](http://irnas.eu/pira){:target="_blank"}.
 
 [![pira-iot-battery-pack]({{ site.url }}/images/pira/pira-5.jpg){: .img-half}]({{ site.url }}/images/pira/pira-5.jpg){: .img-open}
-[![pira-iot-battery-pack]({{ site.url }}/images/pira/pira-12.JPG){: .img-half}]({{ site.url }}/images/pira/pira-12.JPG){: .img-open} 
+[![pira-iot-battery-pack]({{ site.url }}/images/pira/pira-12.jpg){: .img-half}]({{ site.url }}/images/pira/pira-12.jpg){: .img-open} 
 
 <h3>Applications</h3>
 
