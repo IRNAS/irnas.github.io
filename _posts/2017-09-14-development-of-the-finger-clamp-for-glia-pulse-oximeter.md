@@ -23,8 +23,8 @@ The hardware for our pulse oximeter project contains a 3D printable finger clamp
 
 The design has to be as modular as possible to ensure easy repair or replacement of components. At the start of the finger clamp development we looked at some existing ones for inspiration and made our first prototype. We wanted to try a single piece clamp with 2 joints to adapt perfectly to the finger, which was a failure. The material was too thick and not elastic enough and it was overall too big to be practical. The next version was a huge improvement since it was small and light, but it didn't have room for any electronics and it easily fell of the finger at slight movement. In the next few versions we optimized the pressure that is applied on the finger by changing the shape of the loop that connects the upper and bottom parts. We also tested different widths and added rounded walls on the sides to hold it in place better. After about 20 iterations we were satisfied with the basic shape of the clamp. With a solid, promising-looking base we already have a few ideas for the future improvements to make.
 
-[![pulse-oximeter]({{ site.url }}/post_files/pulse-oximeter/finger_clamp_v11.jpg){: .img-half}]({{ site.url }}/post_files/pulse-oximeter/finger_clamp_v11.jpg){: .img-open}
-[![pulse-oximeter]({{ site.url }}/post_files/pulse-oximeter/case_v1.jpg){: .img-half}]({{ site.url }}/post_files/pulse-oximeter/case_v1.jpg){: .img-open}
+[![pulse-oximeter]({{ site.url }}/post_files/pulse-oximeter/finger_clamp_v11.JPG){: .img-half}]({{ site.url }}/post_files/pulse-oximeter/finger_clamp_v11.JPG){: .img-open}
+[![pulse-oximeter]({{ site.url }}/post_files/pulse-oximeter/case_v1.JPG){: .img-half}]({{ site.url }}/post_files/pulse-oximeter/case_v1.JPG){: .img-open}
 
 We kept the design for the enclosure very simple and compact. It’s open on the top where the display is mounted and we added a hole on the side so that the user can reach to the ON/OFF switch and the display backlight button. The enclosure has been optimised to fit all the necessary components, can be assembled with ease and is very compact.
 

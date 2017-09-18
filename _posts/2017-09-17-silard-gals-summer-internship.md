@@ -25,8 +25,8 @@ I was greeted with the [LoRa 3D mapping project](https://github.com/IRNAS/Lora-s
 
 My next project was the [Raspberry Pi PiRA Resin Framework](https://github.com/IRNAS/PiRA_resin){:target="_blank"}. This wasn’t that new to me, because I already had experience with the Raspberry Pi and python programming, but the project was more challenging than the previous one. However, with Vojislav's and the team's assistance I completed it successfully. The hardware part of this project was already done. The only thing missing was the Raspberry Pi’s I2C connection to the battery pack. So, the software was at the center of this project. First I started with a basic python script, which was built by Docker and uploaded to the Resin framework through Git. After I got comfortable with the framework, I built the software for the BQ2429x LiPo charger and the MAX1720x fuel gauge chips. For testing the fuel gauge I used high and low value resistors, as shown on the second picture. 
 
-[![]({{ site.url }}/post_files/internship/pi.jpg){: .img-half}]({{ site.url }}/post_files/internship/pi.jpg){: .img-open}
-[![]({{ site.url }}/post_files/internship/resistor_pi.jpg){: .img-half}]({{ site.url }}/post_files/internship/resistor_pi.jpg){: .img-open}
+[![]({{ site.url }}/post_files/internship/pi.JPG){: .img-half}]({{ site.url }}/post_files/internship/pi.JPG){: .img-open}
+[![]({{ site.url }}/post_files/internship/resistor_pi.JPG){: .img-half}]({{ site.url }}/post_files/internship/resistor_pi.JPG){: .img-open}
 
 My last project, which consisted of two parts was the easiest of them all, because most of the code was already written and the additional code that needed to be implemented was ready in Python, designed for the [PiRA](http://irnas.eu/pira){:target="_blank"} Resin Framework. My job was to convert the Python code into C/C++ and to format it. I was testing the code on the ESP8266 as shown on the picture. 
 
