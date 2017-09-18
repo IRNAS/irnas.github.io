@@ -30,7 +30,7 @@ My next project was the [Raspberry Pi PiRA Resin Framework](https://github.com/I
 
 My last project, which consisted of two parts was the easiest of them all, because most of the code was already written and the additional code that needed to be implemented was ready in Python, designed for the [PiRA](http://irnas.eu/pira){:target="_blank"} Resin Framework. My job was to convert the Python code into C/C++ and to format it. I was testing the code on the ESP8266 as shown on the picture. 
 
-[![]({{ site.url }}/post_files/internship/esp.jpg){: .img-full}]({{ site.url }}/post_files/internship/esp.jpg){: .img-open}
+[![]({{ site.url }}/post_files/internship/esp.JPG){: .img-full}]({{ site.url }}/post_files/internship/esp.JPG){: .img-open}
 
 To conclude, I can definitely confirm that my time as an intern at IRNAS was very rewarding. I had an opportunity to learn more about wireless technology, the Raspberry Pi, microcontrollers etc.. By working on the assigned projects I have gained a lot of experience and skills relevant for my field. 
 
