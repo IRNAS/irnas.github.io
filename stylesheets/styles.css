@@ -1036,7 +1036,7 @@ margin-bottom:50px;
 }
 
 #vitaprint strong{
-  font-weight:400;
+  font-weight:600;
 }
 
 #vitaprint hr {
@@ -1057,6 +1057,10 @@ margin-bottom:50px;
 
 #vitaprint .fa{
   padding-right:10px;
+}
+
+#vitaprint h4{
+  font-size:22px;
 }
 
 .dark-hr{
