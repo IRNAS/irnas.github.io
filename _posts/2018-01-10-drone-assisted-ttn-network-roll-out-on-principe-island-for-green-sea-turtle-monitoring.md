@@ -3,7 +3,7 @@ layout: post
 title: "Drone assisted TTN network roll-out on Principe Island for Green Sea Turtle monitoring"
 description: "We have we have developed a solution based on The Things Network infrastructure to provide a low-cost long-range network coverage in a remote part of the world for real-time monitoring and tracking of endangered green sea turtles."
 category: Other Projects
-tags: [IRNAS, Turtle tag, Pitstop, Open hardware, Conservation Technologies, Arribada Initiative, The Things Network, LoRaWAN, Drone mapping, Principe Island, Green Sea Turtle]
+tags: [IRNAS, Turtle tag, Open hardware, Conservation Technologies, Arribada Initiative, The Things Network, LoRaWAN, Drone mapping, Principe Island, Green Sea Turtle]
 ---
 {% include JB/setup %}
 
