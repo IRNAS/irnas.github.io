@@ -21,7 +21,10 @@ The challenge lies in efficiently and quickly providing a low-cost long-range ne
 
 We have deployed battery back-up gateways with WiFi connectivity to test out the system requirements in real-world and to figure out the best strategy to roll-out the network. Given that internet access is limited, and building WiFi links to best gateway locations is expensive, we have discovered the best strategy is to deploy off-grid solar powered 3G connected TTN gateways that can be put on trees, float on water or be placed anywhere.
 
-Coverage of gateways on land, remote beach areas as well as over the water on a very versatile coast is difficult to map. Therefore, we have created [a drone mapping solution](https://github.com/IRNAS/lora_drone_mapper){:target="_blank"}, coupling a DJI Drone with TTN mapper capabilities, with which we can in a matter of minutes determine the coverage of large areas of land and water, fly at canopy level if sensors are going to be deployed there as well as test placement of nodes and gateways automatically. See a video of a drone mapping test, Principe Island TTN gateway deployment and some other very interesting shots of this amazing Island. 
+Coverage of gateways on land, remote beach areas as well as over the water on a very versatile coast is difficult to map. Therefore, we have created [a drone mapping solution](https://github.com/IRNAS/lora_drone_mapper){:target="_blank"}, coupling a DJI Drone with TTN mapper capabilities, with which we can in a matter of minutes determine the coverage of large areas of land and water, fly at canopy level if sensors are going to be deployed there as well as test placement of nodes and gateways automatically. See a video of a drone mapping test, Principe Island TTN gateway deployment and some other very interesting shots of this amazing Island.
+
+[![Principe Island]({{ site.url }}/post_files/turtle-tagging/drone-mapping.jpg){: .img-half}]({{ site.url }}/post_files/turtle-tagging/drone-mapping.jpg){: .img-open}
+[![Green Sea Turtle]({{ site.url }}/post_files/turtle-tagging/drone-mapping-1.jpg){: .img-half}]({{ site.url }}/post_files/turtle-tagging/drone-mapping-1.jpg){: .img-open} 
 
 <iframe width="94%" height="315" src="https://www.youtube.com/embed/K-OUrnSvS4E?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
 
