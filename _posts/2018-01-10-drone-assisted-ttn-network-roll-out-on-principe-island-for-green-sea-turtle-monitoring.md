@@ -23,6 +23,8 @@ We have deployed battery back-up gateways with WiFi connectivity to test out the
 
 Coverage of gateways on land, remote beach areas as well as over the water on a very versatile coast is difficult to map. Therefore, we have created [a drone mapping solution](https://github.com/IRNAS/lora_drone_mapper){:target="_blank"}, coupling a DJI Drone with TTN mapper capabilities, with which we can in a matter of minutes determine the coverage of large areas of land and water, fly at canopy level if sensors are going to be deployed there as well as test placement of nodes and gateways automatically. See a video of a drone mapping test, Principe Island TTN gateway deployment and some other very interesting shots of this amazing Island.
 
+The presentation slides are available for [download]({{ site.url }}/downloads/TTN-Drone-final.pdf).
+
 [![Principe Island]({{ site.url }}/post_files/turtle-tagging/drone-mapping.jpg){: .img-half}]({{ site.url }}/post_files/turtle-tagging/drone-mapping.jpg){: .img-open}
 [![Green Sea Turtle]({{ site.url }}/post_files/turtle-tagging/drone-mapping-1.jpg){: .img-half}]({{ site.url }}/post_files/turtle-tagging/drone-mapping-1.jpg){: .img-open} 
 
