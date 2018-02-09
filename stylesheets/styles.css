@@ -686,7 +686,6 @@ transition: opacity ease-in-out 500ms; */
 .div-background{
   background-color:#F8F8F8;
   padding:20px 0px;
-  margin:10px 0px;
   border-top:1px solid #F1F1F1;
   border-bottom:1px solid #F1F1F1;
 }
@@ -1028,6 +1027,7 @@ margin-bottom:50px;
 #vitaprint h3{
     color:#0086FF;
     padding-bottom:0px;
+    font-weight: 400;
 }
 
 #vitaprint h2{
@@ -1288,6 +1288,7 @@ color:#0086FF;
   background: #F8F8F8;
 }
 
+
 .em-block-blue{
   padding-top:20px;
   padding-bottom:20px;
@@ -1487,6 +1488,13 @@ margin-right:20px;
 
 .em-block-white{
   background-color:#fff !important;
+  padding-top:0px;
+  padding-bottom:0px;
+}
+
+#vitaprint .em-block-white{
+  padding-top:0px !important;
+  padding-bottom:0px !important;
 }
 
 #pira-project strong{
