@@ -1411,7 +1411,7 @@ a.anchor {
   text-align: center;
 }
 
-#pira-project .img-partner{
+#pira-project .img-partner, #iot .img-partner {
   max-width:180px;
   padding-top:20px;
 }
@@ -1526,4 +1526,23 @@ margin-right:20px;
 
 .blog-content li{
   font-size:16px !important;
+}
+
+/*IoT Page */
+
+#logo-irnas{
+  max-width:100px;
+}
+
+#iot .card-block h3{
+color: #0086FF;
+font-weight: 400;
+}
+
+#iot .lead h3{
+ color: #0086FF;
+}
+
+#iot strong{
+  font-weight:600;
 }
