@@ -4,70 +4,30 @@ title: PiRA Zero
 ---
 
 <div id="pira-project">
- <div class="wrapper-slider">
-<section id="headerSlider2" class="carousel slide no-margin" data-ride="carousel" data-interval="3000">
-  
- 
 
-    <ol class="carousel-indicators">
-        <li data-target="#headerSlider2" data-slide-to="0" class="active"></li>
-        <li data-target="#headerSlider2" data-slide-to="1"></li>
-        <li data-target="#headerSlider2" data-slide-to="2"></li>      
-    </ol>
-  
-    <div class="carousel-inner">
-
-   
-       <div class="item active" style="background-image: url({{site.baseurl}}/images/pira/pira-zero-7.jpg)">
-  
-            <div class="container">
-                <div class="row slide-margin row-centered">
-                    <div class="col-xs-12 col-sm-8 col-centered">
-                        <div class="carousel-content">
-                           <h2 class="headerSliderTitle">PiRA Zero</h2>
-                            <h2 class="headerSliderTitle2">Open source universal solution for solar powered IoT devices implementing all commonly required features.</h2>
-                            <!-- <a class="btn-slide animation animated-item-3 readMore" href="#features">Read More</a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-   
-        
-        <div class="item" style="background-image: url({{site.baseurl}}/images/pira/pira-zero-16.jpg)" >
-            <div class="container">
-                <div class="row slide-margin row-centered">
-                    <div class="col-xs-12 col-sm-8 col-centered">
-                        <div class="carousel-content">
-                            <h2 class="headerSliderTitle">PiRA Zero</h2>
-                              <h2 class="headerSliderTitle2">Use PiRA and reduce the development time and costs to bring your IoT device from idea to functional prototype.</h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="item" style="background-image: url({{site.baseurl}}/images/pira/pira-zero-24.jpg)">
-            <div class="container">
-                <div class="row slide-margin row-centered">
-                    <div class="col-xs-12 col-sm-8 col-centered">
-                        <div class="carousel-content">
-                             <h2 class="headerSliderTitle">PiRA Zero</h2>
-                            <h2 class="headerSliderTitle2">Handling charging, battery monitoring, high current power output, power scheduling, battery protection, standard LiPo cell usage, and RTC and timer for wakeup.</h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<!-- header #1 -->
+<header class="header-page" id="header1">
+    <div class="left">
+        <div class="caption">
+            <h1 class="title display-3">PiRA Zero</h1>
+            <h2 class="text">Handling charging, battery monitoring, high current power output, power scheduling, battery protection, standard LiPo cell usage and RTC and timer for wakeup  
+        </div>  
+    </div>
     
+   <!--<div class="right">
+      <img src="{{site.baseurl}}/images/pira/pira-board.png" alt="" class="img-fluid">
+    
+</div>-->
+<a class="scroll" href="#about">
 
-</section>
-</div>
+    <i class="scroll fa fa-angle-double-down"></i></a>
+</header>
 
-<div class="em-block em-block-white">
+
+<div class="em-block-g em-block-white">
 <div class="container">
 <div class="col-sm-12 center-block">
-    <h3>PiRA Zero is a universal solution for solar powered IoT devices implementing all commonly required features, enabling you to finally fully focus on the development of your core application.</h3>    
+    <h3 style="text-align: center;">PiRA Zero is a universal solution for solar powered IoT devices implementing all commonly required features, enabling you to finally fully focus on the development of your core application.</h3>    
 </div>
 </div>
 </div>
@@ -247,7 +207,7 @@ title: PiRA Zero
           <p>Many IoT devices operate in very low power regimes for majority of the time, while intermittently requiring significant amounts of power, such when using 2G or 3G module modems, power hungry sensors or actuators. This requires a low standby power consumption, which is under 100uA of total battery drain with active 3.3V output in PiRA and up to 10A current delivery to the load through MOSFET controlled output module.</p>
 
           <h3>Use case: <span>Solarcast</span></h3>
-          <p><a style="color:#2481E4;" href="https://github.com/IRNAS/Solarcast/tree/master/battery-module" target="_blank">PiRA v1</a> is used in Safecast Solarcast devices as a standalone module that is dropped in with batteries included. Solarcast main board has been significantly simplified as only the application specific features were implemented, regulated voltage outputs and power switching is provided by PiRA.</p> 
+          <p><a  href="https://github.com/IRNAS/Solarcast/tree/master/battery-module" target="_blank">PiRA v1</a> is used in Safecast Solarcast devices as a standalone module that is dropped in with batteries included. Solarcast main board has been significantly simplified as only the application specific features were implemented, regulated voltage outputs and power switching is provided by PiRA.</p> 
         </div>
         </div>
         <div class="col-md-5 col-md-pull-7">
@@ -268,7 +228,7 @@ title: PiRA Zero
           <p>Using RaspberryPi microcomputer and WiFi router is due to their cost-effective and widely supported range of features becoming more significant in industrial sensing applications. Due to the power constraints in off-grid deployments however powering these devices can represent a challenge. PiRA with a processor installed enables smart scheduling of these loads based on voltage levels, external sensors or other inputs and can significantly prolong the battery life.</p>
 
           <h3>Use case: <span>AAMP</span></h3>
-          <p><a style="color:#2481E4;" href="https://github.com/IRNAS/IoT-battery-pack" target="_blank">PiRA v2</a> is used in AAMP camera devices for off-grid solar operation in the jungle. Based on ambient light, PIR sensor and other inputs it calculates when Raspberry Pi with a camera should be turned on and then in regular intervals powers up a 5GHz long-range WiFi router to upload the captured information. PiRA processor used in this application is ESP8266 with built-in WiFi and using ESPEasy firmware one can simply configure the scheduling through a web interface in a matter of minutes and deploy the application as well as optimize it on-site or remotely.</p>
+          <p><a href="https://github.com/IRNAS/IoT-battery-pack" target="_blank">PiRA v2</a> is used in AAMP camera devices for off-grid solar operation in the jungle. Based on ambient light, PIR sensor and other inputs it calculates when Raspberry Pi with a camera should be turned on and then in regular intervals powers up a 5GHz long-range WiFi router to upload the captured information. PiRA processor used in this application is ESP8266 with built-in WiFi and using ESPEasy firmware one can simply configure the scheduling through a web interface in a matter of minutes and deploy the application as well as optimize it on-site or remotely.</p>
 
           <p>The modular design of the system is very crucial for this particular deployment, because every feature is a standalone module, one can in a matter of seconds replace them and service any potential problems in the field, recombine modules for a new application or re-use them if new motherboards are developed for a different application.</p>
 
@@ -284,8 +244,162 @@ title: PiRA Zero
 </div>
 </section>
 
-<hr>
 
+              <main class="offer div-background">
+               <div class="container">
+               <div class="row row-centered">
+                <div class="col-md-12 col-centered">
+                    <h1 class="h1-responsive text-centered">Development, Manufacturing and Consulting
+                </h1>
+                    <p class="lead text-centered">Our conservation IoT technologies systems development, manufacturing and consulting includes:</p>
+
+            </div>
+            </h1>
+            <!--/.Page heading-->
+        <!--Main layout-->
+
+        <!--First row-->
+            <div class="row wow">
+                <!--First column-->
+                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.2s">
+                    <!--Card-->
+                    <div class="card">
+
+                        <!--Card image-->
+                        <div class="view overlay hm-white-slight">
+                            <img src="{{site.baseurl}}/images/services/mechanical.png" class="img-fluid" alt="">
+                            
+                        </div>
+                        <!--/.Card image-->
+
+                        <!--Card content-->
+                        <div class="card-block">
+                            <!--Title-->
+                            <h4 class="card-title">Mechanical engineering</h4>
+                        </div>
+                        <!--/.Card content-->
+                    </div>
+                    <!--/.Card-->
+                </div>
+                                <!--First column-->
+                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.2s">
+                    <!--Card-->
+                    <div class="card">
+
+                        <!--Card image-->
+                        <div class="view overlay hm-white-slight">
+                            <img src="{{site.baseurl}}/images/services/electronics.png" class="img-fluid" alt="">
+                            
+                        </div>
+                        <!--/.Card image-->
+
+                        <!--Card content-->
+                        <div class="card-block">
+                            <!--Title-->
+                            <h4 class="card-title">Electronics and firmware development</h4>
+                        </div>
+                        <!--/.Card content-->
+                    </div>
+                    <!--/.Card-->
+                </div> 
+                                <!--First column-->
+                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.2s">
+                    <!--Card-->
+                    <div class="card">
+
+                        <!--Card image-->
+                        <div class="view overlay hm-white-slight">
+                            <img src="{{site.baseurl}}/images/services/software.png" class="img-fluid" alt="">
+                            
+                        </div>
+                        <!--/.Card image-->
+
+                        <!--Card content-->
+                        <div class="card-block">
+                            <!--Title-->
+                            <h4 class="card-title">Software development</h4>
+                        </div>
+                        <!--/.Card content-->
+                    </div>
+                    <!--/.Card-->
+                </div> 
+                </div>
+                <div class="row wow">
+                                <!--First column-->
+                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.2s">
+                    <!--Card-->
+                    <div class="card">
+
+                        <!--Card image-->
+                        <div class="view overlay hm-white-slight">
+                            <img src="{{site.baseurl}}/images/services/electronics.png" class="img-fluid" alt="">
+                            
+                        </div>
+                        <!--/.Card image-->
+
+                        <!--Card content-->
+                        <div class="card-block">
+                            <!--Title-->
+                            <h4 class="card-title">Deployment procedure preparation and Field testing</h4>
+                        </div>
+                        <!--/.Card content-->
+                    </div>
+                    <!--/.Card-->
+                </div> 
+                                <!--First column-->
+                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.2s">
+                    <!--Card-->
+                    <div class="card">
+
+                        <!--Card image-->
+                        <div class="view overlay hm-white-slight">
+                            <img src="{{site.baseurl}}/images/services/manufacturing.png" class="img-fluid" alt="">
+                            
+                        </div>
+                        <!--/.Card image-->
+
+                        <!--Card content-->
+                        <div class="card-block">
+                            <!--Title-->
+                            <h4 class="card-title">Device manufacturing</h4>
+                        </div>
+                        <!--/.Card content-->
+                    </div>
+                    <!--/.Card-->
+                </div>       
+                                <!--First column-->
+                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.2s">
+                    <!--Card-->
+                    <div class="card">
+
+                        <!--Card image-->
+                        <div class="view overlay hm-white-slight">
+                            <img src="{{site.baseurl}}/images/services/on-site-support.png" class="img-fluid" alt="">
+                            
+                        </div>
+                        <!--/.Card image-->
+
+                        <!--Card content-->
+                        <div class="card-block">
+                            <!--Title-->
+                            <h4 class="card-title">On-site support</h4>
+                        </div>
+                        <!--/.Card content-->
+                    </div>
+                    <!--/.Card-->
+                </div> 
+                </div>
+                </div>
+                </main>
+
+<div class="em-block-blue">
+<div class="container">
+  <div class="col-sm-12 center-block">
+  <h3>Send us an informative inquiry with your IoT requirements and we'll reply shortly with our suggestions.</h3>
+  <a href="{{site.baseurl}}/contact" class="btn btn-primary btn-lg">Send inquiry</a>
+  </div>
+</div>
+</div>
 
 <section id="customers-content">
   <div class="container">

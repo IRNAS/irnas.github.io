@@ -25,7 +25,7 @@ h3,
 h4,
 h5{
   font-weight:300;
-  padding:10px 0px;
+  padding:0px 0px;
 }
 
 @media (min-width: 768px) {
@@ -127,7 +127,7 @@ img.member {
 }
 
 .post .title {
-    font-size: 170%;
+    font-size: 150%;
 }
 
 .img-supporter{
@@ -325,7 +325,7 @@ h2{
 
 .color-window-gray{
   min-height:100px;
-  background-color: #F8F8F8;
+  background-color: #58585A;
 }
 
 .color-window-gray h3{
@@ -901,6 +901,7 @@ body {
 
 .featurette-heading{
   font-weight: 400;
+
 }
 
 .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open .dropdown-toggle.btn-success{
@@ -1151,9 +1152,7 @@ a{
 outline:none !important;
 }
 
-.project-info{
-  padding-left:0px;
-}
+
 
 .project-info td{
   padding:5px;
@@ -1268,9 +1267,9 @@ color:#0086FF;
   padding-top:20px;
 }
 
-#vitaprint-content .container, #pira-project .container{
-  padding-top:50px;
-  padding-bottom:50px;
+#vitaprint-content .container, #pira-project .container, #home .container, #conservation .container, #services .container, #iot .container, #vitaprint-content .container {
+  padding-top:50px !important;
+  padding-bottom:50px !important;
 }
 
 #vitaprint .headerSliderTitle2{
@@ -1292,7 +1291,7 @@ color:#0086FF;
 .em-block-blue{
   padding-top:20px;
   padding-bottom:20px;
-  background:#0086FF;
+  background:#58585A;
 }
 
 .em-block-blue h3{
@@ -1308,6 +1307,13 @@ color:#0086FF;
   font-weight: 500;
   font-size:180%;
 }
+
+.em-block-g h3{
+  line-height: 130%;
+  font-weight: 500;
+  font-size:180%;
+}
+
 
 .vertical-align {
     display: flex;
@@ -1374,6 +1380,10 @@ border: solid 2px transparent;
   padding-bottom:20px !important;  
 }
 
+#iot .em-block h3, #conservation .em-block h3{
+  color:#333333 !important;
+}
+
 a.anchor {
     display: block;
     position: relative;
@@ -1416,10 +1426,6 @@ a.anchor {
   padding-top:20px;
 }
 
-#pira-project .fa, #pira-project .lead span{
-  color:#2481E4;
-}
-
 .btn-pira-white{
 background-color:#ffffff;
 border-radius:0px;
@@ -1431,7 +1437,7 @@ float:center;
 }
 
 .btn-pira{
-background-color:#2481E4;
+background-color:#7FC649;
 border-radius:0px;
 border: 2px solid transparent;
 font-size: 18px;
@@ -1443,13 +1449,8 @@ margin-right:20px;
 
 .em-block h3{
   line-height: 130%;
-  color: #2481E4;
   font-weight: 500;
   font-size:180%;
-}
-
-#pira-project .em-block-blue{
-  background:#2481E4;
 }
 
 #headerSlider2 .carousel-indicators .active{
@@ -1534,15 +1535,527 @@ margin-right:20px;
   max-width:100px;
 }
 
-#iot .card-block h3{
-color: #0086FF;
-font-weight: 400;
-}
 
-#iot .lead h3{
- color: #0086FF;
-}
 
 #iot strong{
   font-weight:600;
+}
+
+/*Header*/
+
+/* =======================================
+ header
+========================================*/
+.header-page {
+  position: relative;
+  width: 100vw; 
+  height: 600px;  
+}
+.header-page .center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 90%;
+  transform:translate(-50%,-50%);
+  z-index: 5; 
+  padding: 1rem;
+}
+.header-page .left {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 90%;
+  transform:translate(-50%,-50%);
+  z-index: 5; 
+  padding: 1rem;
+}
+.header-page .right {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 90%;
+  transform:translate(-50%,-50%);
+  z-index: 5; 
+  padding: 1rem;
+}
+
+.header-page .right-cons {
+  top: 8% !important;
+}
+
+.header-page .left-cons {
+  top: 8% !important;
+}
+
+
+.header-page .scroll {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  color: #fff;
+  font-size: 1.5rem;
+}
+/*=== Large devices (desktops, 992px and up) ===*/
+@media (min-width: 992px) {
+.header-page .center {
+  width: 50%;
+}
+.header-page .left {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  width: 40%;
+  height: 60%;
+  transform:translate(0, 0);
+  padding: 1rem;
+}
+.header-page .right {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  width: 40%;
+  height: 60%;
+  transform:translate(0, 0);
+  padding: 1rem;
+}
+}
+
+/* =======================================
+ header#3
+========================================*/
+#header3 {
+  background: #355c7d;  
+  background: 
+    linear-gradient(
+       rgba(127,198,73, 0.4), /* #7FC649 */ 
+      rgba(88, 88, 90, 0.6) /* #58585A */
+           
+            
+    ),
+    url(images/irnas-dev-1.jpg) no-repeat left top;
+  background-size: cover;  
+  z-index: 0; /* bottom layout */
+}
+
+
+#header3 .right {
+  display: none;
+}
+#header3 .caption {
+  z-index: 5; 
+  text-align: center;
+  color: #fff;
+}
+#header3 .caption .title {
+  margin-bottom: 1.5rem;
+  text-shadow: 1px 1px 1px #777777;
+   font-weight:500;
+} 
+#header3 .caption .text {
+  margin-bottom: 1.5rem;
+  text-shadow: 1px 1px 1px #777777;
+} 
+#header3 .caption .action {
+  margin-bottom: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+/*=== Large devices (desktops, 992px and up) ===*/
+@media (min-width: 992px) {
+#header3 .caption {
+  text-align: left;
+}
+#header3 .right {
+  display: block;
+}
+
+
+.header-page .scroll {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  color: #fff;
+  font-size: 3rem;
+  font-size:40px;
+ }
+}
+
+/* =======================================
+ header#2
+========================================*/
+
+
+#header2 {
+  background: #355c7d;
+    background: 
+    
+  url(images/conservation-tech.png) no-repeat left top;
+  background-size: cover;  
+  z-index: 0; /* bottom layout */
+}
+
+
+#header2 .right {
+  display: none;
+}
+#header2 .caption {
+  z-index: 5; 
+  text-align: center;
+  color: #fff;
+}
+#header2 .caption .title {
+  margin-bottom: 1.5rem;
+  color:#ffffff;
+  text-shadow: 1px 1px 3px #333333;
+   font-weight:500;
+} 
+#header2 .caption .text {
+  color:#ffffff;
+  margin-bottom: 1.5rem;
+  text-shadow: 1px 1px 3px #333333;
+}
+
+#header2 .caption .action {
+  margin-bottom: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+/*=== Large devices (desktops, 992px and up) ===*/
+@media (min-width: 992px) {
+#header2 .caption {
+  text-align: left;
+}
+#header2 .right {
+  display: block;
+}
+
+
+.header-page .scroll {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  color: #fff;
+  font-size: 3rem;
+  font-size:40px;
+ }
+}
+
+
+/* =======================================
+ header#1
+========================================*/
+#header1 {
+  background: #355c7d;  
+  background: 
+    linear-gradient(
+       rgba(127,198,73, 0.4), /* #7FC649 */ 
+      rgba(88, 88, 90, 0.6) /* #58585A */
+           
+            
+    ),
+    url(images/pira.jpg) no-repeat left top;
+  background-size: cover;  
+  z-index: 0; /* bottom layout */
+}
+
+
+#header1 .right {
+  display: none;
+}
+#header1 .caption {
+  z-index: 5; 
+  text-align: center;
+  color: #fff;
+}
+#header1 .caption .title {
+  margin-bottom: 1.5rem;
+  text-shadow: 1px 1px 1px #777777;
+   font-weight:500;
+} 
+#header1 .caption .text {
+  margin-bottom: 1.5rem;
+  text-shadow: 1px 1px 1px #777777;
+} 
+#header1 .caption .action {
+  margin-bottom: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+#header1 .right .img-fluid{
+  margin-left:250px;
+}
+/*=== Large devices (desktops, 992px and up) ===*/
+@media (min-width: 992px) {
+#header1 .caption {
+  text-align: left;
+}
+#header1 .right {
+  display: block;
+}
+
+.header-page .scroll {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  color: #fff;
+  font-size: 3rem;
+  font-size:40px;
+ }
+}
+
+/* =======================================
+ header#4
+========================================*/
+#header4 {
+  background: #355c7d;  
+  background: 
+    linear-gradient(
+       rgba(0, 134, 255, 0.4), /* #0086ff */
+      rgba(88, 88, 90, 0.6) /* #58585A */
+           
+            
+    ),
+    url(images/vitaprint-header.jpeg) no-repeat left top;
+  background-size: cover;  
+  z-index: 0; /* bottom layout */
+}
+
+
+#header4 .right {
+  display: none;
+}
+#header4 .caption {
+  z-index: 5; 
+  text-align: center;
+  color: #fff;
+}
+#header4 .caption .title {
+  margin-bottom: 1.5rem;
+  text-shadow: 1px 1px 1px #777777;
+   font-weight:500;
+   text-transform:uppercase !important;
+} 
+#header4 .caption .text {
+  margin-bottom: 1.5rem;
+  text-shadow: 1px 1px 1px #777777;
+  text-transform:none !important;
+} 
+#header4 .caption .action {
+  margin-bottom: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+#header4 .right .img-fluid{
+  margin-left:250px;
+}
+/*=== Large devices (desktops, 992px and up) ===*/
+@media (min-width: 992px) {
+#header4 .caption {
+  text-align: left;
+}
+#header4 .right {
+  display: block;
+}
+
+.header-page .scroll {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  color: #fff;
+  font-size: 3rem;
+  font-size:40px;
+ }
+}
+
+/* =======================================
+ header#5
+========================================*/
+#header5 {
+  background: #355c7d;  
+  background: 
+    linear-gradient(
+       rgba(127,198,73, 0.4), /* #7FC649 */ 
+      rgba(88, 88, 90, 0.6) /* #58585A */
+           
+            
+    ),
+    url(images/drone-mapping.jpg) no-repeat left top;
+  background-size: cover;  
+  z-index: 0; /* bottom layout */
+}
+
+
+#header5 .right {
+  display: none;
+}
+#header5 .caption {
+  z-index: 5; 
+  text-align: center;
+  color: #fff;
+}
+#header5 .caption .title {
+  margin-bottom: 1.5rem;
+  text-shadow: 1px 1px 1px #777777;
+   font-weight:500;
+} 
+#header5 .caption .text {
+  margin-bottom: 1.5rem;
+  text-shadow: 1px 1px 1px #777777;
+} 
+#header5 .caption .action {
+  margin-bottom: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+#header5 .right .img-fluid{
+  margin-left:250px;
+}
+/*=== Large devices (desktops, 992px and up) ===*/
+@media (min-width: 992px) {
+#header5 .caption {
+  text-align: left;
+}
+#header5 .right {
+  display: block;
+}
+
+.header-page .scroll {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  color: #fff;
+  font-size: 3rem;
+  font-size:40px;
+ }
+}
+
+
+#projects li{
+ list-style-type: none;
+ }
+
+#projects ul{
+  padding-left:0px;
+}
+
+#projects li .fa{
+ color:#7FC649;
+ }
+
+.fa{
+  color:#7FC649;}
+
+
+strong{
+  font-weight:500;
+}
+
+.container-post{
+  margin-top:50px;
+}
+
+@media (max-width: 992px){
+  .featurette-heading{
+    margin-top:30px !important;
+  }
+}
+
+#home h1{
+  text-transform:uppercase;
+  font-weight:500;
+}
+
+.card-title{
+  font-size:24px;
+  font-weight:500;
+}
+
+.featurette-heading{
+  margin-bottom:20px;
+}
+
+#home .em-block-blue .btn-primary, #iot .em-block-blue .btn-primary, #pira-project .em-block-blue .btn-primary {
+  float:none;
+}
+
+#home .em-block-blue h3{
+  padding-bottom:20px;
+}
+
+.lead span{
+  font-weight: 500;
+  color:#7FC649;
+}
+
+.lead h3 {
+    line-height: 31px;
+}
+
+#conservation .btn-primary{
+  float:none;
+}
+
+.offer{
+  text-align: center;
+}
+
+.offer .img-fluid{
+  width:60%;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+#conservation-projects .row{
+  margin-top:30px;
+  margin-bottom:30px;
+}
+
+#conservation-projects .card-block{
+  margin-top:30px;
+}
+
+.carousel-control.left{
+background-image: linear-gradient(to right, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.0001) 100%);
+}
+
+.carousel-control.right{
+background-image: linear-gradient(to left, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.0001) 100%);
+}
+
+#services h2{
+  font-size:24px;
+  font-weight:500;
+}
+
+#pira-project .img-fluid{
+width:50%;
+}
+
+#iot ul li{
+  list-style:none;
+}
+
+#iot ul{
+  padding-left:none;
+}
+
+#services .img-fluid{
+width: 70%;
+}
+
+#iot h3, #conservation h3{
+  font-weight:500;
+}
+
+h1{
+  font-weight:500;
 }

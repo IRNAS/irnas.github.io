@@ -8,8 +8,8 @@
     <meta name="author" content="{{ site.author.name }}">
 
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/styles.css">
-    <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/pygment_trac.css">
+<link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/styles.css">
+<link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/pygment_trac.css">
     <link rel="stylesheet" href="{{ ASSET_PATH }}/fonts/font-awesome-4.7.0/css/font-awesome.min.css"> 
     <!-- Magnific Popup core CSS file -->
     <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/magnific-popup.css">
@@ -54,15 +54,7 @@ window.cookieconsent.initialise({
   </head>
 
   <body>
-<!--<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">  
 
-    <ul class="nav navbar-nav pull-right">
-      <li><a href="http://forum.irnas.eu/" target="_blank">Forum</a></li>
-      <li><a href="http://chat.irnas.eu/home" target="_blank">Chat</a></li>
-    </ul>
-   
-
-</div>-->
     <div class="navbar navbar-default navbar-static-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
@@ -77,9 +69,26 @@ window.cookieconsent.initialise({
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="jb-navbar-collapse">
           <ul class="nav navbar-nav" id="menu">
-            {% assign pages_list = site.pages | sort: 'weight' %}
+            <!--{% assign pages_list = site.pages | sort: 'weight' %}
             {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
+            {% include JB/pages_list %}-->
+           
+
+<li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Projects <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="{{site.baseurl}}/projects">All</a></li>
+            <li><a href="{{site.baseurl}}/iot">IoT</a></li>
+            <li><a href="{{site.baseurl}}/pira">PiRA</a></li>
+            <li><a href="{{site.baseurl}}/conservation">Conservation Tech</a></li>
+            <li><a href="{{site.baseurl}}/vitaprint">Vitaprint 3D Bioprinting</a></li>
+          </ul>
+</li>
+<li><a href="{{site.baseurl}}/services">Services</a></li>
+<li><a href="{{site.baseurl}}/team">Team</a></li>
+<li><a href="{{site.baseurl}}/contact">Contact</a></li>
+<li><a href="{{site.baseurl}}/blog">Blog</a></li>
+
             <!--<li id="nav-break" class="nav-conect"><a href="http://irnas.eu/collaboration.html">test</a></li>
             <li class="nav-conect"><a href="http://irnas.eu/collaboration.html">test</a></li>
             <li class="nav-conect"><a href="http://irnas.eu/collaboration.html">test</a></li>-->
@@ -113,11 +122,10 @@ window.cookieconsent.initialise({
           <div class="col-sm-3">
             <h4>More info</h4>
             <ul>
-              <li><a href="{{site.baseurl}}/about.html">About</a></li>
+              <li><a href="{{site.baseurl}}/about-irnas.html">About Institute IRNAS</a></li>
+              <li><a href="{{site.baseurl}}/about-fabrikor.html">About Fabrikor</a></li>
               <li><a href="{{site.baseurl}}/license.html">License</a></li>
-              <li><a href="{{site.baseurl}}/projects#collaboration">Collaboration</a></li>
-              <li><a href="{{site.baseurl}}/work-with-us#vacancies">Vacancies</a></li>
-              <li><a href="{{ site.url }}#donate">Donate</a></li>              
+              <li><a href="{{site.baseurl}}/work-with-us#vacancies">Vacancies</a></li>           
             </ul>
   
           </div>
@@ -125,10 +133,11 @@ window.cookieconsent.initialise({
         <div class="col-sm-3">
             <h4>Projects</h4>
             <ul>
+            <li><a href="{{site.baseurl}}/iot" >IRNAS IoT</a></li>
+            <li><a href="{{site.baseurl}}/pira" >PiRA Zero</a></li>
+            <li><a href="{{site.baseurl}}/conservation" >Conservation Tech</a></li>
               <li><a href="http://koruza.net/" target="_blank">Koruza</a></li>
-              <li><a href="{{site.baseurl}}/vitaprint" >Vitaprint</a></li>
-              <li><a href="http://fabrikor.eu/" target="_blank">Fabrikor</a></li>
-              <li><a href="{{site.baseurl}}/work-with-us#phd-partnership">PhD Partnership</a></li>                
+              <li><a href="{{site.baseurl}}/vitaprint" >Vitaprint</a></li>              
             </ul>
            
         </div>
@@ -181,7 +190,7 @@ window.cookieconsent.initialise({
     
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="{{ ASSET_PATH }}/javascripts/scale.fix.js"></script>
-<script src="{{ ASSET_PATH }}/javascripts/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <!-- Magnific Popup core JS file -->
 <script src="{{ ASSET_PATH }}/javascripts/jquery.magnific-popup.js"></script>
 
