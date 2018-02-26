@@ -1854,6 +1854,11 @@ margin-right:20px;
 #header4 .right .img-fluid{
   margin-left:250px;
 }
+
+#logo-vitaprint{
+  margin:0 auto;
+}
+
 /*=== Large devices (desktops, 992px and up) ===*/
 @media (min-width: 992px) {
 #header4 .caption {
@@ -1872,6 +1877,10 @@ margin-right:20px;
   font-size: 3rem;
   font-size:40px;
  }
+
+ #logo-vitaprint{
+  margin:0;
+}
 }
 
 /* =======================================
