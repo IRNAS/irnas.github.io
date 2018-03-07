@@ -1267,7 +1267,7 @@ color:#0086FF;
   padding-top:20px;
 }
 
-#vitaprint-content .container, #pira-project .container, #home .container, #conservation .container, #services .container, #iot .container, #vitaprint-content .container {
+#vitaprint-content .container, #pira-project .container, #home .container, #conservation .container, #services .container, #iot .container, #vitaprint-content .container, #iot-drone-mapping  .container {
   padding-top:50px !important;
   padding-bottom:50px !important;
 }
@@ -1380,7 +1380,7 @@ border: solid 2px transparent;
   padding-bottom:20px !important;  
 }
 
-#iot .em-block h3, #conservation .em-block h3{
+#iot .em-block h3, #conservation .em-block h3, #iot-drone-mapping .em-block h3{
   color:#333333 !important;
 }
 
@@ -1421,7 +1421,7 @@ a.anchor {
   text-align: center;
 }
 
-#pira-project .img-partner, #iot .img-partner {
+#pira-project .img-partner, #iot .img-partner, #iot-drone-mapping .img-partner {
   max-width:180px;
   padding-top:20px;
 }
@@ -1537,7 +1537,7 @@ margin-right:20px;
 
 
 
-#iot strong{
+#iot strong, #iot-drone-mapping strong{
   font-weight:600;
 }
 
@@ -1933,6 +1933,70 @@ margin-right:20px;
   text-align: left;
 }
 #header5 .right {
+  display: block;
+}
+
+.header-page .scroll {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  color: #fff;
+  font-size: 3rem;
+  font-size:40px;
+ }
+}
+
+/* =======================================
+ header#6
+========================================*/
+#header6 {
+  background: #355c7d;  
+  background: 
+    linear-gradient(
+       rgba(127,198,73, 0.4), /* #7FC649 */ 
+      rgba(88, 88, 90, 0.6) /* #58585A */
+           
+            
+    ),
+    url(images/iot.jpg) no-repeat left top;
+  background-size: cover;  
+  z-index: 0; /* bottom layout */
+}
+
+
+#header6 .right {
+  display: none;
+}
+#header6 .caption {
+  z-index: 5; 
+  text-align: center;
+  color: #fff;
+}
+#header6 .caption .title {
+  margin-bottom: 1.5rem;
+  text-shadow: 1px 1px 1px #777777;
+   font-weight:500;
+} 
+#header6 .caption .text {
+  margin-bottom: 1.5rem;
+  text-shadow: 1px 1px 1px #777777;
+} 
+#header6 .caption .action {
+  margin-bottom: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+#header6 .right .img-fluid{
+  margin-left:250px;
+}
+/*=== Large devices (desktops, 992px and up) ===*/
+@media (min-width: 992px) {
+#header6 .caption {
+  text-align: left;
+}
+#header6 .right {
   display: block;
 }
 
