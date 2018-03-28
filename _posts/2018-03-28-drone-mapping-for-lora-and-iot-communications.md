@@ -40,7 +40,7 @@ The 3D spherical data is used to determined 3D antenna radiation pattern and cor
 [![]({{ site.url }}/post_files/drone-mapping/pattern1.png){: .img-half}]({{ site.url }}/post_files/drone-mapping/pattern1.png){: .img-open}
 [![]({{ site.url }}/post_files/drone-mapping/pattern2.png){: .img-half}]({{ site.url }}/post_files/drone-mapping/pattern2.png){: .img-open}
 
-Luka talked about Drone assisted deployment and mapping in remote areas for animal conservation purposes at [The Things Network Conference](https://www.thethingsnetwork.org/conference/){:target="_blank"} in Amsterdam. Check the video below, find out more [here](http://irnas.eu/iot-drone-mapping){:target="_blank"} and get in contact if you are looking for drone mapping technology expertise
+Luka talked about Drone assisted deployment and mapping in remote areas for animal conservation purposes at [The Things Network Conference](https://www.thethingsnetwork.org/conference/){:target="_blank"} in Amsterdam. Check the video below, find out more [here](http://irnas.eu/iot-drone-mapping){:target="_blank"} and get in contact if you are looking for drone mapping technology expertise.
 
 <iframe width="94%" height="315" src="https://www.youtube.com/embed/v5_CT-1VuV4?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
 
